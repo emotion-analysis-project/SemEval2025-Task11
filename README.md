@@ -48,6 +48,19 @@ The dataset structure will vary depending on the track:
 
 The performance of each submission will be evaluated using F1-score based on the predicted labels and the gold ones. Participants will be provided with an evaluation script and a starter kit that includes a simple baseline.
 
+## How to Participate
+
+1. **Register**: Sign up on the competition platform (link to be provided).
+2. **Download**: Access the datasets and starter kit from the repository.
+3. **Develop**: Build your models using the provided data and baseline.
+4. **Submit**: Upload your predictions to the evaluation server.
+5. **Evaluate**: Receive feedback on your submission's performance.
+
+## Ethical Considerations
+
+This task will respect existing intellectual property by only making use of publicly and freely available datasets. Additionally, we adhere to the fifty ethical considerations in emotion recognition and the ACL Code of Ethics. The datasets will be approved by our respective Institutional Research Ethics Boards. Annotators will be paid the minimum wage of their respective countries (or higher), and their privacy will be respected.
+
+
 ## Organizers
 
 | Organizers                   | Affiliation                 | Languages                                |
@@ -70,19 +83,6 @@ The performance of each submission will be evaluated using F1-score based on the
 | Vladimir Araujo              | KU Leuven                   | esp                                      |
 | Vukosi Marivate              | University of Pretoria      | tsn, tso                                 |
 | Saif M. Mohammad             | NRC Canada                  | eng                                      |
-
-
-## How to Participate
-
-1. **Register**: Sign up on the competition platform (link to be provided).
-2. **Download**: Access the datasets and starter kit from the repository.
-3. **Develop**: Build your models using the provided data and baseline.
-4. **Submit**: Upload your predictions to the evaluation server.
-5. **Evaluate**: Receive feedback on your submission's performance.
-
-## Ethical Considerations
-
-This task will respect existing intellectual property by only making use of publicly and freely available datasets. Additionally, we adhere to the fifty ethical considerations in emotion recognition and the ACL Code of Ethics. The datasets will be approved by our respective Institutional Research Ethics Boards. Annotators will be paid the minimum wage of their respective countries (or higher), and their privacy will be respected.
 
 ## References
 
