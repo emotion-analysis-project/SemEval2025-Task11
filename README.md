@@ -33,11 +33,8 @@ The shared task includes the following languages:
 - **Europe & North America**: English, German, Romanian, Russian, Spanish, Tatar, Ukrainian
 - **Latin America**: Brazilian Portuguese
 
-## Data & Resources
 
-We will provide datasets for more than 30 languages. The datasets will be curated from different sources, including YouTube comments, news headlines, personal narratives from Reddit, and literature sources. In addition to the emotion dataset, we will provide a manually annotated emotion lexicon for each language.
-
-### Dataset Structure
+## Dataset Structure
 
 The dataset structure will vary depending on the track:
 
