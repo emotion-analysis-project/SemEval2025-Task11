@@ -6,7 +6,7 @@ Emotion detection is an important task in Natural Language Processing (NLP) that
 
 ## Tracks
 
-Participants are asked to participate in one or more of the following tracks:
+Participants can participate in one or more of the following tracks:
 
 ### Track 1: Multi-label Emotion Detection
 
