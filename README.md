@@ -8,7 +8,9 @@ Emotion detection is an important task in Natural Language Processing (NLP) that
 
 Participants can participate in one or more of the following tracks:
 
-### Track 1: Multi-label Emotion Detection
+
+### <span style="color:red">Track 1: Multi-label Emotion Detection</span>
+
 
 Given a set of labeled training data in a target language, predict one or more emotions that the speaker is likely feeling in the text from the following emotion classes and neutral: Joy, Sadness, Fear, Anger, Surprise, Disgust, or Neutral.
 
