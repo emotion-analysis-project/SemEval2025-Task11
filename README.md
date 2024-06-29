@@ -50,26 +50,27 @@ The performance of each submission will be evaluated using F1-score based on the
 
 ## Organizers
 
-| Organizers                   | Affiliation                 | Role              | Languages                                |
-|------------------------------|-----------------------------|-------------------|------------------------------------------|
-| Shamsuddeen Hassan Muhammad  | Imperial College London     | Lead Organizer    | hau, ibo, yor, pcm, twi, swa, ary, por, kin, zul, xho |
-| Idris Abdulmumin             | University of Pretoria      | Co-Organizer      |                                          |
-| Ibrahim Said Ahmad           | Northeastern University     | Co-Organizer      |                                          |
-| David Ifeoluwa Adelani       | University College London   | Co-Organizer      |                                          |
-| Seid Muhie Yimam             | Universität Hamburg         | Co-Organizer      | amh, orm, tig, som                       |
-| Abinew Ali Ayele             | Universität Hamburg         | Co-Organizer      |                                          |
-| Tadesse Destaw Belay         | IPN, Mexico                 | Co-Organizer      |                                          |
-| Nedjma Ousidhoum             | Cardiff University          | Co-Organizer      | arb, arq                                 |
-| Daniela Teodorescu           | University of Alberta       | Co-Organizer      | eng, ron                                 |
-| Jan Philip Wahle             | University of Göttingen     | Co-Organizer      | deu, por                                 |
-| Terry Ruas                   | University of Göttingen     | Co-Organizer      |                                          |
-| Nirmal Surange               | IIIT Hyderabad              | Co-Organizer      | hin, mar                                 |
-| Alham Fikri Aji              | MBZUAI                      | Co-Organizer      | ind, jav                                 |
-| Yi Zhou                      | Cardiff University          | Co-Organizer      | zho                                      |
-| Alexander Panchenko          | Skoltech                    | Co-Organizer      | rus, tat                                 |
-| Vladimir Araujo              | KU Leuven                   | Co-Organizer      | esp                                      |
-| Vukosi Marivate              | University of Pretoria      | Co-Organizer      | tsn, tso                                 |
-| Saif M. Mohammad             | NRC Canada                  | Advisory Organizer| eng                                      |
+| Organizers                   | Affiliation                 | Languages                                |
+|------------------------------|-----------------------------|------------------------------------------|
+| Shamsuddeen Hassan Muhammad  | Imperial College London     | hau, ibo, yor, pcm, twi, swa, ary, por, kin, zul, xho |
+| Idris Abdulmumin             | University of Pretoria      |                                          |
+| Ibrahim Said Ahmad           | Northeastern University     |                                          |
+| David Ifeoluwa Adelani       | University College London   |                                          |
+| Seid Muhie Yimam             | Universität Hamburg         | amh, orm, tig, som                       |
+| Abinew Ali Ayele             | Universität Hamburg         |                                          |
+| Tadesse Destaw Belay         | IPN, Mexico                 |                                          |
+| Nedjma Ousidhoum             | Cardiff University          | arb, arq                                 |
+| Daniela Teodorescu           | University of Alberta       | eng, ron                                 |
+| Jan Philip Wahle             | University of Göttingen     | deu, por                                 |
+| Terry Ruas                   | University of Göttingen     |                                          |
+| Nirmal Surange               | IIIT Hyderabad              | hin, mar                                 |
+| Alham Fikri Aji              | MBZUAI                      | ind, jav                                 |
+| Yi Zhou                      | Cardiff University          | zho                                      |
+| Alexander Panchenko          | Skoltech                    | rus, tat                                 |
+| Vladimir Araujo              | KU Leuven                   | esp                                      |
+| Vukosi Marivate              | University of Pretoria      | tsn, tso                                 |
+| Saif M. Mohammad             | NRC Canada                  | eng                                      |
+
 
 ## How to Participate
 
