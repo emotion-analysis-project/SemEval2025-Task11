@@ -4,6 +4,17 @@
 
 Emotion detection is an important task in Natural Language Processing (NLP) that various applications such as building dialogue systems, opinion mining, and mental health analysis benefit from. However, most work on emotion detection has focused on high-resource languages. This shared task aims to reduce this gap by introducing new manually annotated emotion datasets for more than 30 predominantly low-resource languages from Africa, Asia, Eastern Europe, Latin America, along with a few high-resource languages.
 
+
+## Languages
+
+The shared task includes the following languages:
+
+- **Africa**: Afrikaans, Algerian Arabic, Amharic, Hausa, Igbo, Kinyarwanda, Moroccan Arabic, Mozambican Portuguese, Nigerian-Pidgin, Oromo, Setswana, Somali, Swahili, Tigrinya, Twi, Xitsonga, isiXhosa, Yoruba, isiZulu
+- **Asia**: Arabic, Chinese, Hindi, Indonesian, Javanese, Marathi
+- **Europe & North America**: English, German, Romanian, Russian, Spanish, Tatar, Ukrainian
+- **Latin America**: Brazilian Portuguese
+
+
 ## Tracks
 
 Participants can participate in one or more of the following tracks:
