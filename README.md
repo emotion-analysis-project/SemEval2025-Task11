@@ -86,7 +86,5 @@ This task will respect existing intellectual property by only making use of publ
 
 ## References
 
-- [Findings of the WMT’22 shared task on large-scale machine translation evaluation for African languages](https://aclanthology.org/2022.wmt-1.72)
 - [SemEval-2019 task 3: EmoContext contextual emotion detection in text](https://doi.org/10.18653/v1/S19-2005)
 - [SemEval-2018 task 1: Affect in tweets](https://doi.org/10.18653/v1/S18-1001)
-- [Textual emotion detection in health: Advances and applications](http://arxiv.org/abs/2109.08256)
