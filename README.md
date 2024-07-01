@@ -37,16 +37,6 @@ Given a set of labeled training data in a target language annotated with emotion
 
 Given training and validation data in English, predict the emotion of a new text instance in a different target language from the set of six emotion classes: Joy, Sadness, Fear, Anger, Surprise, Disgust, or classified as Neutral.
 
-## Languages
-
-The shared task includes the following languages:
-
-- **Africa**: Afrikaans, Algerian Arabic, Amharic, Hausa, Igbo, Kinyarwanda, Moroccan Arabic, Mozambican Portuguese, Nigerian-Pidgin, Oromo, Setswana, Somali, Swahili, Tigrinya, Twi, Xitsonga, isiXhosa, Yoruba, isiZulu
-- **Asia**: Arabic, Chinese, Hindi, Indonesian, Javanese, Marathi
-- **Europe & North America**: English, German, Romanian, Russian, Spanish, Tatar, Ukrainian
-- **Latin America**: Brazilian Portuguese
-
-
 ## Dataset Structure
 
 The dataset structure will vary depending on the track:
