@@ -50,11 +50,10 @@ The performance of each submission will be evaluated using F1-score based on the
 
 ## How to Participate
 
-1. **Register**: Sign up on the competition platform (link to be provided).
-2. **Download**: Access the datasets and starter kit from the repository.
+1. **Register**: Sign up on the Codalab competition platform (link to be provided).
+2. **Download**: Access the datasets and starter kit from the repository (to be provided).
 3. **Develop**: Build your models using the provided data and baseline.
-4. **Submit**: Upload your predictions to the evaluation server.
-5. **Evaluate**: Receive feedback on your submission's performance.
+4. **Submit**: Upload your predictions on the Codalab competition  platform (link to be provided
 
 ## Ethical Considerations
 
