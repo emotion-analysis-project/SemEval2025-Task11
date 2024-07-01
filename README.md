@@ -56,10 +56,6 @@ The performance of each submission will be evaluated using F1-score based on the
 3. **Develop**: Build your models using the provided data and baseline.
 4. **Submit**: Upload your predictions on the Codalab competition  platform (link to be provided
 
-## Ethical Considerations
-
-This task will respect existing intellectual property by only making use of publicly and freely available datasets. Additionally, we adhere to the fifty ethical considerations in emotion recognition and the ACL Code of Ethics. The datasets will be approved by our respective Institutional Research Ethics Boards. Annotators will be paid the minimum wage of their respective countries (or higher), and their privacy will be respected.
-
 
 ## Organizers
 
