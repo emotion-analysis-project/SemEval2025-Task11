@@ -74,9 +74,7 @@ The performance of each submission will be evaluated using F1-score based on the
 4. **Submit**: Upload your predictions on the Codalab competition  platform (link to be provided)
 
 
-##  Competition Rules and Terms
-
-# Competition Rules and Terms
+## Competition Rules and Terms
 
 <details>
   <summary>1. Consent to Public Release of Scores</summary>
