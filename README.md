@@ -87,7 +87,6 @@ The performance of each submission will be evaluated using F1-score based on the
 3. **Develop**: Build your models using the provided data and baseline.
 4. **Submit**: Upload your predictions on the Codalab competition  platform (link to be provided)
 
-## Organizers
 
 ## Competition Rules and Terms
 
@@ -167,8 +166,10 @@ The performance of each submission will be evaluated using F1-score based on the
 </details>
 
 
+## Organizers
 
-#  Resources
+
+##  Resources
 
 1. [SemEval 2024 Shared Tasks](https://semeval.github.io/SemEval2024/tasks)
 2. [Frequently Asked Questions about SemEval](https://semeval.github.io/faq.html)
