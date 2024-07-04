@@ -57,13 +57,14 @@ The performance of each submission will be evaluated using F1-score based on the
 
 | Description                   | Deadline                                        |
 |-------------------------------|------------------------------------------------|
-| Training Data Ready           | 18 September 2023                         |
-| Evaluation Start              | 20 January 2024                                 |
-| Evaluation End                | 31 January 2024                                 |
-| System Description Paper Due  | 19 February 2024                                |
-| Notification to authors       | 1 April 2024                                    |
-| Camera ready due              | 22 April 2024                                   |
-| SemEval workshop 2024         | June 16–21, 2024 (co-located with NAACL2024)    |
+| Sample Data Ready             | 15 July 2024                                  |
+| Training Data Ready           | 02 September 2024                         |
+| Evaluation Start              | 10 January 2025                                 |
+| Evaluation End                | 31 January 2025                                 |
+| System Description Paper Due  | 28 February 2025                               |
+| Notification to authors       | 31 March 2025                                   |
+| Camera ready due              | 21 April 2025                                   |
+| SemEval workshop 2025         | (co-located with a major NLP conference)****   |
 
 ## How to Participate
 
