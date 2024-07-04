@@ -59,26 +59,7 @@ The performance of each submission will be evaluated using F1-score based on the
 
 ## Organizers
 
-| Organizers                   | Affiliation                 | Languages                                |
-|------------------------------|-----------------------------|------------------------------------------|
-| Shamsuddeen Hassan Muhammad  | Imperial College London     | hau, ibo, yor, pcm, twi, swa, ary, por, kin, zul, xho |
-| Idris Abdulmumin             | University of Pretoria      |                                          |
-| Ibrahim Said Ahmad           | Northeastern University     |                                          |
-| David Ifeoluwa Adelani       | University College London   |                                          |
-| Seid Muhie Yimam             | Universität Hamburg         | amh, orm, tig, som                       |
-| Abinew Ali Ayele             | Universität Hamburg         |                                          |
-| Tadesse Destaw Belay         | IPN, Mexico                 |                                          |
-| Nedjma Ousidhoum             | Cardiff University          | arb, arq                                 |
-| Daniela Teodorescu           | University of Alberta       | eng, ron                                 |
-| Jan Philip Wahle             | University of Göttingen     | deu, por                                 |
-| Terry Ruas                   | University of Göttingen     |                                          |
-| Nirmal Surange               | IIIT Hyderabad              | hin, mar                                 |
-| Alham Fikri Aji              | MBZUAI                      | ind, jav                                 |
-| Yi Zhou                      | Cardiff University          | zho                                      |
-| Alexander Panchenko          | Skoltech                    | rus, tat                                 |
-| Vladimir Araujo              | KU Leuven                   | esp                                      |
-| Vukosi Marivate              | University of Pretoria      | tsn, tso                                 |
-| Saif M. Mohammad             | NRC Canada                  | eng                                      |
+
 
 ## References
 
