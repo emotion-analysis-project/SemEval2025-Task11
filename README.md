@@ -20,7 +20,7 @@ The shared task includes the following languages:
 Participants can participate in one or more of the following tracks:
 
 
-### <span style="color:red">Track A: Multi-label Emotion Detection</span>
+### Track A: Multi-label Emotion Detection
 
 
 Given a set of labeled training data in a target language, predict one or more emotions that the speaker is likely feeling in the text from the following emotion classes and neutral: Joy, Sadness, Fear, Anger, Surprise, Disgust, or Neutral.
