@@ -73,6 +73,7 @@ The performance of each submission will be evaluated using F1-score based on the
 3. **Develop**: Build your models using the provided data and baseline.
 4. **Submit**: Upload your predictions on the Codalab competition  platform (link to be provided)
 
+## Organizers
 
 ## Competition Rules and Terms
 
@@ -150,10 +151,6 @@ The performance of each submission will be evaluated using F1-score based on the
   <p>Datasets must not be redistributed or shared with third parties.</p>
   <p>Interested parties should be directed to the official website.</p>
 </details>
-
-
-
-## Organizers
 
 
 
