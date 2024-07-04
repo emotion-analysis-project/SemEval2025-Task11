@@ -74,6 +74,19 @@ The performance of each submission will be evaluated using F1-score based on the
 4. **Submit**: Upload your predictions on the Codalab competition  platform (link to be provided)
 
 
+## Terms
+
+
+<details>
+  <summary>More Information</summary>
+  <p>When you click "More Information", this content will be revealed.</p>
+  <ul>
+    <li>Additional point 1</li>
+    <li>Additional point 2</li>
+    <li>Additional point 3</li>
+  </ul>
+</details>
+
 ## Organizers
 
 
