@@ -34,12 +34,12 @@ The shared task includes the following languages:
 Participants can participate in one or more of the following tracks:
 
 
-**Track A: Multi-label Emotion Detection**: Given a set of labeled training data in a target language, predict one or more emotions that the speaker is likely feeling in the text from the following emotion classes and neutral: Joy, Sadness, Fear, Anger, Surprise, Disgust, or Neutral.
+- **Track A: Multi-label Emotion Detection**: Given a set of labeled training data in a target language, predict one or more emotions that the speaker is likely feeling in the text from the following emotion classes and neutral: Joy, Sadness, Fear, Anger, Surprise, Disgust, or Neutral.
 
-**Track B: Emotion Intensity (ordinal)**: Given a set of labeled training data in a target language annotated with emotion, classify the text into one of four ordinal classes of intensity that best represents the emotional state of the writer:
+- **Track B: Emotion Intensity (ordinal)**: Given a set of labeled training data in a target language annotated with emotion, classify the text into one of four ordinal classes of intensity that best represents the emotional state of the writer:
 (1) No emotion, (2),  A low amount of emotion (3) A moderate amount of emotion (4) A high amount of emotion
 
-**Track C: Cross-lingual Emotion Detection**: Given training and validation data in English, predict the emotion of a new text instance in a different target language from the set of six emotion classes: Joy, Sadness, Fear, Anger, Surprise, Disgust, or classified as Neutral.
+- **Track C: Cross-lingual Emotion Detection**: Given training and validation data in English, predict the emotion of a new text instance in a different target language from the set of six emotion classes: Joy, Sadness, Fear, Anger, Surprise, Disgust, or classified as Neutral.
 
 
 ## Dataset Structure
