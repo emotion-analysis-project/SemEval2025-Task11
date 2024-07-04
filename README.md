@@ -154,7 +154,12 @@ The performance of each submission will be evaluated using F1-score based on the
 
 
 
-## References
+#  Resources
 
-- [SemEval-2019 task 3: EmoContext contextual emotion detection in text](https://doi.org/10.18653/v1/S19-2005)
-- [SemEval-2018 task 1: Affect in tweets](https://doi.org/10.18653/v1/S18-1001)
+1. [SemEval 2024 Shared Tasks](https://semeval.github.io/SemEval2024/tasks)
+2. [Frequently Asked Questions about SemEval](https://semeval.github.io/faq.html)
+3. [Paper Submission Requirements](https://semeval.github.io/paper-requirements.html)
+4. [Guidelines for Writing Papers](https://semeval.github.io/system-paper-template.html)
+5. [Paper style files](https://github.com/acl-org/acl-style-files)
+6. Paper submission link (TBD)
+
