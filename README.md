@@ -37,6 +37,7 @@ Given a set of labeled training data in a target language annotated with emotion
 
 Given training and validation data in English, predict the emotion of a new text instance in a different target language from the set of six emotion classes: Joy, Sadness, Fear, Anger, Surprise, Disgust, or classified as Neutral.
 
+
 ## Dataset Structure
 
 The dataset structure will vary depending on the track:
@@ -48,6 +49,19 @@ The dataset structure will vary depending on the track:
 ## Evaluation
 
 The performance of each submission will be evaluated using F1-score based on the predicted labels and the gold ones. Participants will be provided with an evaluation script and a starter kit that includes a simple baseline.
+
+## Important Dates
+
+
+| Description                   | Deadline                                        |
+|-------------------------------|------------------------------------------------|
+| Training Data Ready           | 18 September 2023                         |
+| Evaluation Start              | 20 January 2024                                 |
+| Evaluation End                | 31 January 2024                                 |
+| System Description Paper Due  | 19 February 2024                                |
+| Notification to authors       | 1 April 2024                                    |
+| Camera ready due              | 22 April 2024                                   |
+| SemEval workshop 2024         | June 16–21, 2024 (co-located with NAACL2024)    |
 
 ## How to Participate
 
