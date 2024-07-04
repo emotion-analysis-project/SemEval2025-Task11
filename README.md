@@ -64,7 +64,7 @@ The performance of each submission will be evaluated using F1-score based on the
 | System Description Paper Due  | 28 February 2025                               |
 | Notification to authors       | 31 March 2025                                   |
 | Camera ready due              | 21 April 2025                                   |
-| SemEval workshop 2025         | (co-located with a major NLP conference)****   |
+| SemEval workshop 2025         | (co-located with a major NLP conference)   |
 
 ## How to Participate
 
