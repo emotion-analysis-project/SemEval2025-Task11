@@ -1,5 +1,19 @@
 # SemEval-2025 Task 12 : Bridging the Gap in Text-Based Emotion Detection
 
+- [Overview](#overview)
+- [Languages](#languages)
+- [Tracks](#tracks)
+  - [Track A: Multi-label Emotion Detection](#track-a-multi-label-emotion-detection)
+  - [Track B: Emotion Intensity (ordinal)](#track-b-emotion-intensity-ordinal)
+  - [Track C: Cross-lingual Emotion Detection](#track-c-cross-lingual-emotion-detection)
+- [Dataset Structure](#dataset-structure)
+- [Evaluation](#evaluation)
+- [Important Dates](#important-dates)
+- [How to Participate](#how-to-participate)
+- [Organizers](#organizers)
+- [Competition Rules and Terms](#competition-rules-and-terms)
+- [Resources](#resources)
+
 ## Overview
 
 Emotion detection is an important task in Natural Language Processing (NLP) that various applications such as building dialogue systems, opinion mining, and mental health analysis benefit from. However, most work on emotion detection has focused on high-resource languages. This shared task aims to reduce this gap by introducing new manually annotated emotion datasets for more than 30 predominantly low-resource languages from Africa, Asia, Eastern Europe, Latin America, along with a few high-resource languages.
