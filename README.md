@@ -23,7 +23,7 @@ Emotion detection is an important task in Natural Language Processing (NLP) that
 
 The shared task includes the following languages:
 
-- **Africa**: Afrikaans, Algerian Arabic, Amharic, Hausa, Igbo, Kinyarwanda, Moroccan Arabic, Mozambican Portuguese, Nigerian-Pidgin, Oromo, Setswana, Somali, Swahili, Tigrinya, Twi, Xitsonga, isiXhosa, Yoruba, isiZulu
+- **Africa**: Afrikaans, Algerian Arabic, [Amharic](https://en.wikipedia.org/wiki/Amharic), Hausa, Igbo, Kinyarwanda, Moroccan Arabic, Mozambican Portuguese, Nigerian-Pidgin, Oromo, Setswana, Somali, Swahili, Tigrinya, Twi, Xitsonga, isiXhosa, Yoruba, isiZulu
 - **Asia**: Arabic, Chinese, Hindi, Indonesian, Javanese, Marathi
 - **Europe & North America**: English, German, Romanian, Russian, Spanish, Tatar, Ukrainian
 - **Latin America**: Brazilian Portuguese
