@@ -166,7 +166,36 @@ The performance of each submission will be evaluated using F1-score based on the
 </details>
 
 <details>
-  <summary
+  <summary>9. Public Release of Submissions</summary>
+  <ul>
+    <li>Final team submissions may be made public after the evaluation period.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>10. Disclaimer on Datasets</summary>
+  <ul>
+    <li>Organizers and affiliated institutions provide no warranties on dataset correctness or completeness.</li>
+    <li>They are not liable for dataset access or usage.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>11. Peer Review Process</summary>
+  <ul>
+    <li>Each participant will review another team's system description paper.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>12. Dataset Usage Restrictions</summary>
+  <ul>
+    <li>Datasets should only be used for scientific or research purposes.</li>
+    <li>Any other use is explicitly prohibited.</li>
+    <li>Datasets must not be redistributed or shared with third parties.</li>
+    <li>Interested parties should be directed to the official website.</li>
+  </ul>
+</details>
 
 ## Dataset paper
 
