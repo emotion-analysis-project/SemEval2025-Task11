@@ -58,7 +58,11 @@ The dataset structure will vary depending on the track:
 - **Track 2**: [Example Text, 0,1,2,4]
 - **Track 3**: [Example Text, Joy, Sadness, Fear, Anger, Surprise, Disgust, Neutral]
 
-We provide the pilot dataset in the following folders: [Track A](#), [Track B](#), [Track C](#)
+We provide the Sample dataset in the following folders: [Track A-Pilot](#), [Track B-Pilot](#), [Track C-](#)
+We provide the training dataset in the following folders: [Track A](#), [Track B](#), [Track C](#)
+We provide the evaluation dataset in the following folders: [Track A](#), [Track B](#), [Track C](#)
+
+
 
 ## Evaluation
 
