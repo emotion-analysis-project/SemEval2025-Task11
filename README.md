@@ -1,5 +1,5 @@
 <p align="center" style="max-width: 80%; margin: 0 auto;">
-  <img src="assets/task11.png" style="width: 100%; 80%: auto;" />
+  <img src="assets/task11.png" style="width: 100%; height: 80%:" />
     <h1 align="center"> </h1>
 </p>
 
