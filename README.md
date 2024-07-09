@@ -168,11 +168,15 @@ The performance of each submission will be evaluated using F1-score based on the
 <details>
   <summary
 
+## Dataset paper
+
+We will soon release a dataset paper that describes the data collection, annotation process, and baseline experiments. This paper will provide additional details and information that will be useful for the task participants.
 
 
-## Organizers
+## Communication
 
-
+- Join our Slack group to ask questions and receive updates. 
+- Contact organizers at: 
 ##  Resources
 
 1. [SemEval 2024 Shared Tasks](https://semeval.github.io/SemEval2024/tasks)
