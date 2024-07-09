@@ -1,6 +1,12 @@
-# 🤗😲  SemEval-2025 Task 11 : Bridging the Gap in Text-Based Emotion Detection 😔😱😡😲🤮
+<p align="center">
+  <img align="center" src="assets/task11.png" />
+  
 
-- [Overview](#overview)
+  <h1 align="center"> </h1>
+</p>
+
+
+- [Task Overview](#Task-Overview)
 - [Languages](#languages)
 - [Tracks](#tracks)
   - [Track A: Multi-label Emotion Detection](#track-a-multi-label-emotion-detection)
@@ -8,13 +14,17 @@
   - [Track C: Cross-lingual Emotion Detection](#track-c-cross-lingual-emotion-detection)
 - [Dataset Structure](#dataset-structure)
 - [Evaluation](#evaluation)
-- [Important Dates](#important-dates)
+- [Important Dates and Phases of the Task](#important-dates-and-phases-of-the-task)
 - [How to Participate](#how-to-participate)
-- [Organizers](#organizers)
 - [Competition Rules and Terms](#competition-rules-and-terms)
+- [Dataset Paper](#dataset-paper)
+- [Communication](#communication)
+- [Frequently Asked Questions (FAQs)](#frequently-asked-questions-faqs)
 - [Resources](#resources)
+- [Organizers](#Organizers)
 
-## Overview
+
+## Task Overview
 
 Emotion detection is an important task in Natural Language Processing (NLP) that various applications such as building dialogue systems, opinion mining, and mental health analysis benefit from. However, most work on emotion detection has focused on high-resource languages. This shared task aims to reduce this gap by introducing new manually annotated emotion datasets for more than 30 predominantly low-resource languages from Africa, Asia, Eastern Europe, Latin America, along with a few high-resource languages.
 
@@ -74,7 +84,7 @@ The performance of each submission will be evaluated using F1-score based on the
 The task will be divided into three phases: Development, Evaluation, and Post-Evaluation. The following summarize the phases and their timelines.
 
 
-  <details>
+<details>
     <summary><strong>Development Phase:</strong> Codalab submission link coming soon</summary>
     <ul>
       <li>This phase runs from 02 September to 10 January 2024.</li>
@@ -104,6 +114,8 @@ The task will be divided into three phases: Development, Evaluation, and Post-Ev
       <li>You can use CodaLab to talk with other participants, share ideas, and learn how to make your system better.</li>
     </ul>
   </details>
+
+
 
 ## How to Participate
 
@@ -245,6 +257,7 @@ We will soon release a dataset paper that describes the data collection, annotat
 
 ## Frequently Asked Questions (FAQs)
 
+
 ##  Resources
 
 1. [SemEval 2024 Shared Tasks](https://semeval.github.io/SemEval2024/tasks)
@@ -254,3 +267,4 @@ We will soon release a dataset paper that describes the data collection, annotat
 5. [Paper style files](https://github.com/acl-org/acl-style-files)
 6. Paper submission link (TBD)
 
+## Organizers
