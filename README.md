@@ -56,7 +56,7 @@ We provide the pilot dataset in the following folders: [Track A](#), [Track B](#
 
 The performance of each submission will be evaluated using F1-score based on the predicted labels and the gold ones. Participants will be provided with an evaluation script and a starter kit that includes a simple baseline.
 
-## Important Dates
+## Important Dates and Phases of the Task
 
 
 | Description                   | Deadline                                        |
@@ -69,6 +69,41 @@ The performance of each submission will be evaluated using F1-score based on the
 | Notification to authors       | 31 March 2025                                   |
 | Camera ready due              | 21 April 2025                                   |
 | SemEval workshop 2025         | (co-located with a major NLP conference)   |
+
+
+The task will be divided into three phases: Development, Evaluation, and Post-Evaluation. The following sections summarize the phases and their timelines.
+
+
+  <details>
+    <summary>Development Phase: Submit on this Codalab</summary>
+    <ul>
+      <li>This phase runs from 12 September to 20 January 2024.</li>
+      <li>Train (with gold labels) and dev data (without gold labels) will be released for this phase.</li>
+      <li>Train and evaluate your model on the dev set via CodaLab.</li>
+      <li>Up to 999 submissions are allowed, and the leaderboard is open for you to view your results and those of others.</li>
+    </ul>
+  </details>
+
+  <details>
+    <summary>Evaluation Phase: Codalab Link coming soon</summary>
+    <ul>
+      <li>This phase runs from around 20 January to 31 January 2024 (tentative).</li>
+      <li>Test data will be released (without gold labels).</li>
+      <li>Participants will have the opportunity to evaluate their models on the test data.</li>
+      <li>Each team is allowed only one submission. This single submission will be considered your official entry for the competition.</li>
+      <li>The leaderboard is disabled and will only be published after the submission deadline.</li>
+    </ul>
+  </details>
+
+  <details>
+    <summary>Post-Evaluation Phase: Codalab Link coming soon</summary>
+    <ul>
+      <li>Starts around 31 January 2024 and never ends.</li>
+      <li>In this phase, you can still submit and test your system even after the official competition ends. This way, you can keep improving your work.</li>
+      <li>We will make the leaderboard public again so you can see how you are doing compared to others.</li>
+      <li>You can use CodaLab to talk with other participants, share ideas, and learn how to make your system better.</li>
+    </ul>
+  </details>
 
 ## How to Participate
 
