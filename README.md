@@ -1,10 +1,6 @@
-<p align="center">
-  <img align="center" src="assets/task11.png" />
-  
-
-  <h1 align="center"> </h1>
+<p align="center" style="max-width: 80%; margin: 0 auto;">
+  <img src="assets/task11.png" style="width: 100%; height: auto;" />
 </p>
-
 
 - [Task Overview](#Task-Overview)
 - [Languages](#languages)
