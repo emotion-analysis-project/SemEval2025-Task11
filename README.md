@@ -214,10 +214,8 @@ We will soon release a dataset paper that describes the data collection, annotat
 
 ## Phases of the Task
 
+The task will be divided into three phases: Development, Evaluation, and Post-Evaluation. The following sections summarize the phases and their timelines.
 
-<details>
-  <summary>Phases of the Task</summary>
-  The task will be divided into three phases: Development, Evaluation, and Post-Evaluation. The following sections summarize the phases and their timelines.
 
   <details>
     <summary>Development Phase: Submit on this Codalab</summary>
@@ -249,7 +247,7 @@ We will soon release a dataset paper that describes the data collection, annotat
       <li>You can use CodaLab to talk with other participants, share ideas, and learn how to make your system better.</li>
     </ul>
   </details>
-</details>
+
 
 
 ##  Resources
