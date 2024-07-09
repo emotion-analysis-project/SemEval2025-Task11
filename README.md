@@ -6,7 +6,7 @@
 </p>
 
 
-- [Overview](#overview)
+- [Overview](#Task-Overview)
 - [Languages](#languages)
 - [Tracks](#tracks)
   - [Track A: Multi-label Emotion Detection](#track-a-multi-label-emotion-detection)
