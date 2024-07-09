@@ -20,7 +20,7 @@
 - [Competition Rules and Terms](#competition-rules-and-terms)
 - [Resources](#resources)
 
-## Overview
+## Task Overview
 
 Emotion detection is an important task in Natural Language Processing (NLP) that various applications such as building dialogue systems, opinion mining, and mental health analysis benefit from. However, most work on emotion detection has focused on high-resource languages. This shared task aims to reduce this gap by introducing new manually annotated emotion datasets for more than 30 predominantly low-resource languages from Africa, Asia, Eastern Europe, Latin America, along with a few high-resource languages.
 
