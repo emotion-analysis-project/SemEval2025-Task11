@@ -75,7 +75,7 @@ The task will be divided into three phases: Development, Evaluation, and Post-Ev
 
 
   <details>
-    <summary>Development Phase: Codalab submission link coming soon</summary>
+    <summary>**Development Phase:** Codalab submission link coming soon</summary>
     <ul>
       <li>This phase runs from 02 September to 10 January 2024.</li>
       <li>Train (with gold labels) and dev data (without gold labels) will be released for this phase.</li>
@@ -85,7 +85,7 @@ The task will be divided into three phases: Development, Evaluation, and Post-Ev
   </details>
 
   <details>
-    <summary>Evaluation Phase: Codalab submission link coming soon</summary>
+    <summary>**Evaluation Phase:** Codalab submission link coming soon</summary>
     <ul>
       <li>This phase runs from around 10 January to 31 January 2024 (tentative).</li>
       <li>Test data will be released (without gold labels).</li>
@@ -96,7 +96,7 @@ The task will be divided into three phases: Development, Evaluation, and Post-Ev
   </details>
 
   <details>
-    <summary>Post-Evaluation Phase:  Codalab submission link coming soon</summary>
+    <summary>**Post-Evaluation Phase:**  Codalab submission link coming soon</summary>
     <ul>
       <li>Starts around 31 January 2024 and never ends.</li>
       <li>In this phase, you can still submit and test your system even after the official competition ends. This way, you can keep improving your work.</li>
