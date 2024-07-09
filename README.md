@@ -1,4 +1,13 @@
-# 🤗😲  SemEval-2025 Task 11 : Bridging the Gap in Text-Based Emotion Detection 😔😱😡😲🤮
+<p align="center">
+  <img align="center" src="assets/task11.png" />
+  
+
+  <h1 align="center"> </h1>
+</p>
+
+assets/task11.png
+
+🤗😲  SemEval-2025 Task 11 : Bridging the Gap in Text-Based Emotion Detection 😔😱😡😲🤮
 
 - [Overview](#overview)
 - [Languages](#languages)
