@@ -79,81 +79,95 @@ The performance of each submission will be evaluated using F1-score based on the
 
 
 ## Competition Rules and Terms
-
 <details>
   <summary>1. Consent to Public Release of Scores</summary>
-  <p>By submitting results, you consent to the public release of your scores on the competition website, at the designated workshop, and in associated proceedings.</p>
-  <p>Task organizers have discretion over the release and choice of metrics.</p>
-  <p>Scores may include automatic and manual quantitative judgments, qualitative judgments, and other metrics as deemed appropriate.</p>
+  <ul>
+    <li>By submitting results, you consent to the public release of your scores on:
+      <ul>
+        <li>the competition website,</li>
+        <li>at the designated workshop,</li>
+        <li>in associated proceedings.</li>
+      </ul>
+    </li>
+    <li>Task organizers have discretion over the release and choice of metrics.</li>
+    <li>Scores may include:
+      <ul>
+        <li>automatic and manual quantitative judgments,</li>
+        <li>qualitative judgments,</li>
+        <li>other metrics as deemed appropriate.</li>
+      </ul>
+    </li>
+  </ul>
 </details>
 
 <details>
   <summary>2. Score Release and Validity</summary>
-  <p>Task organizers reserve the right to withhold scores for incomplete, erroneous, deceptive, or rule-violating submissions.</p>
-  <p>Inclusion of a submission's scores does not constitute endorsement.</p>
+  <ul>
+    <li>Task organizers reserve the right to withhold scores for:
+      <ul>
+        <li>incomplete submissions,</li>
+        <li>erroneous submissions,</li>
+        <li>deceptive submissions,</li>
+        <li>rule-violating submissions.</li>
+      </ul>
+    </li>
+    <li>Inclusion of a submission's scores does not constitute endorsement.</li>
+  </ul>
 </details>
 
 <details>
   <summary>3. Team Participation Rules</summary>
-  <p>Participants may be involved in only one team.</p>
-  <p>Exceptions may be granted with prior approval from organizers.</p>
+  <ul>
+    <li>Participants may be involved in only one team.</li>
+    <li>Exceptions may be granted with prior approval from organizers.</li>
+  </ul>
 </details>
 
 <details>
   <summary>4. Account Management</summary>
-  <p>Each team must create and use exactly one account on the designated platform.</p>
+  <ul>
+    <li>Each team must create and use exactly one account on the designated platform.</li>
+  </ul>
 </details>
 
 <details>
   <summary>5. Team Constitution</summary>
-  <p>Team membership cannot be changed after the evaluation period begins.</p>
+  <ul>
+    <li>Team membership cannot be changed after the evaluation period begins.</li>
+  </ul>
 </details>
 
 <details>
   <summary>6. Development Period Rules</summary>
-  <p>Teams can submit up to 999 submissions.</p>
-  <p>Results are visible only to the submitting team.</p>
-  <p>Leaderboard is disabled.</p>
-  <p>Warnings and errors are visible for each submission.</p>
+  <ul>
+    <li>Teams can submit up to 999 submissions.</li>
+    <li>Results are visible only to the submitting team.</li>
+    <li>Leaderboard is disabled.</li>
+    <li>Warnings and errors are visible for each submission.</li>
+  </ul>
 </details>
 
 <details>
   <summary>7. Evaluation Period Rules</summary>
-  <p>Teams are limited to 3 submissions.</p>
-  <p>Only the final submission is considered official.</p>
-  <p>Warnings and errors are visible for each submission.</p>
+  <ul>
+    <li>Teams are limited to 3 submissions.</li>
+    <li>Only the final submission is considered official.</li>
+    <li>Warnings and errors are visible for each submission.</li>
+  </ul>
 </details>
 
 <details>
   <summary>8. Post-Competition</summary>
-  <p>Gold labels will be released after the competition.</p>
-  <p>Teams are encouraged to report results on all system variants in their description paper.</p>
-  <p>Official submission results must be clearly indicated.</p>
+  <ul>
+    <li>Gold labels will be released after the competition.</li>
+    <li>Teams are encouraged to report results on all system variants in their description paper.</li>
+    <li>Official submission results must be clearly indicated.</li>
+  </ul>
 </details>
 
 <details>
-  <summary>9. Public Release of Submissions</summary>
-  <p>Final team submissions may be made public after the evaluation period.</p>
-</details>
+  <summary
 
-<details>
-  <summary>10. Disclaimer on Datasets</summary>
-  <p>Organizers and affiliated institutions provide no warranties on dataset correctness or completeness.</p>
-  <p>They are not liable for dataset access or usage.</p>
-</details>
-
-<details>
-  <summary>11. Peer Review Process</summary>
-  <p>Each participant will review another team's system description paper.</p>
-</details>
-
-<details>
-  <summary>12. Dataset Usage Restrictions</summary>
-  <p>Datasets should only be used for scientific or research purposes.</p>
-  <p>Any other use is explicitly prohibited.</p>
-  <p>Datasets must not be redistributed or shared with third parties.</p>
-  <p>Interested parties should be directed to the official website.</p>
-</details>
 
 
 ## Organizers
