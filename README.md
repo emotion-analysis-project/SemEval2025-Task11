@@ -16,12 +16,13 @@
 - [Evaluation](#evaluation)
 - [Important Dates and Phases of the Task](#important-dates-and-phases-of-the-task)
 - [How to Participate](#how-to-participate)
-- [Organizers](#organizers)
 - [Competition Rules and Terms](#competition-rules-and-terms)
 - [Dataset Paper](#dataset-paper)
 - [Communication](#communication)
 - [Frequently Asked Questions (FAQs)](#frequently-asked-questions-faqs)
 - [Resources](#resources)
+- [Organizers](#Organizers)
+
 
 ## Task Overview
 
