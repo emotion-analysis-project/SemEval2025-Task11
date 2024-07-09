@@ -80,7 +80,7 @@ The performance of each submission will be evaluated using F1-score based on the
 The task will be divided into three phases: Development, Evaluation, and Post-Evaluation. The following summarize the phases and their timelines.
 
 
-  <details>
+<details>
     <summary><strong>Development Phase:</strong> Codalab submission link coming soon</summary>
     <ul>
       <li>This phase runs from 02 September to 10 January 2024.</li>
@@ -110,6 +110,8 @@ The task will be divided into three phases: Development, Evaluation, and Post-Ev
       <li>You can use CodaLab to talk with other participants, share ideas, and learn how to make your system better.</li>
     </ul>
   </details>
+
+
 
 ## How to Participate
 
