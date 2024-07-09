@@ -75,7 +75,7 @@ The task will be divided into three phases: Development, Evaluation, and Post-Ev
 
 
   <details>
-    <summary>><strong>Development Phase:</strong> Codalab submission link coming soon</summary>
+    <summary><strong>Development Phase:</strong> Codalab submission link coming soon</summary>
     <ul>
       <li>This phase runs from 02 September to 10 January 2024.</li>
       <li>Train (with gold labels) and dev data (without gold labels) will be released for this phase.</li>
