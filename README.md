@@ -205,7 +205,11 @@ We will soon release a dataset paper that describes the data collection, annotat
 ## Communication
 
 - Join our Slack group to ask questions and receive updates. 
-- Contact organizers at: 
+- Contact organizers at:
+
+## Frequently Asked Questions (FAQs)
+
+
 ##  Resources
 
 1. [SemEval 2024 Shared Tasks](https://semeval.github.io/SemEval2024/tasks)
