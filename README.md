@@ -71,7 +71,7 @@ The performance of each submission will be evaluated using F1-score based on the
 | SemEval workshop 2025         | (co-located with a major NLP conference)   |
 
 
-The task will be divided into three phases: Development, Evaluation, and Post-Evaluation. The following sections summarize the phases and their timelines.
+The task will be divided into three phases: Development, Evaluation, and Post-Evaluation. The following summarize the phases and their timelines.
 
 
   <details>
