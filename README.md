@@ -108,9 +108,10 @@ The task will be divided into three phases: Development, Evaluation, and Post-Ev
 ## How to Participate
 
 1. **Register**: Sign up on the Codalab competition platform (link to be provided).
-2. **Download**: Access the datasets and starter kit from the repository (to be provided).
-3. **Develop**: Build your models using the provided data and baseline.
-4. **Submit**: Upload your predictions on the Codalab competition  platform (link to be provided)
+2. **Track**: Decide which track you want to participate (Track A, B or C)
+3. **Download**: Access the datasets for each track from this repository (to be provided).
+4. **Develop**: Build your models using the provided data.
+5. **Submit**: Submit your predictions on the Codalab competition  platform (link to be provided)
 
 
 ## Competition Rules and Terms
