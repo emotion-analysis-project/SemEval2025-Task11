@@ -250,7 +250,7 @@ We will soon release a dataset paper that describes the data collection, annotat
 
 ## Communication
 
-- Join our Slack group to ask questions and receive updates. 
+- Join our Discord Channel to ask questions and receive updates. 
 - Contact organizers at:
 
 ## Frequently Asked Questions (FAQs)
