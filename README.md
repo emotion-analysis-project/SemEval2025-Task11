@@ -27,12 +27,7 @@
 
 # Emotion Recognition in Text
 
-Emotions are simultaneously familiar and mysterious. On the one hand, we all express and manage our emotions every day. Yet, on the other hand, emotions are complex, nuanced, and sometimes hard to articulate [Ref]. We also use language in subtle and complex ways to express emotion [Ref]. Further, people are highly variable in how they perceive and express emotions (even within the same culture or social group) [Ref]. Thus, we can never truly identify how one is feeling based on something that they have said with absolute certainty [Ref].
-
-Emotion recognition is not one task but an umbrella term for several tasks [5]. For example:
-- Detecting the emotions of the speaker
-- Identifying what emotion a piece of text is conveying
-- Detecting emotions evoked in a reader
+Emotions are simultaneously familiar and mysterious. On the one hand, we all express and manage our emotions every day. Yet, on the other hand, emotions are complex, nuanced, and sometimes hard to articulate [Ref]. We also use language in subtle and complex ways to express emotion [Ref]. Further, people are highly variable in how they perceive and express emotions (even within the same culture or social group) [Ref]. Thus, we can never truly identify how one is feeling based on something that they have said with absolute certainty [Ref]. Emotion recognition is not one task but an umbrella term for several tasks [5]. For example, detecting the emotions of the speaker, identifying what emotion a piece of text is conveying and Detecting emotions evoked in a reader. 
 
 SemEval 2025 Task 11 focuses on:
 
