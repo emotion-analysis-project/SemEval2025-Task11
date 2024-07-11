@@ -38,7 +38,7 @@ SemEval 2025 Task 11 focuses on:
 
 > Determining what emotion most people will think the speaker may be feeling given a sentence or short text snippet uttered by the speaker.
 
-It's crucial to understand that this task is about perceived emotion and not about:
+The task is about perceived emotion and not about:
 - The emotion evoked in the reader
 - The emotion of someone else mentioned in the text
 - Or even the true emotion of the speaker (which cannot be definitively known from just a short text snippet) [Ref]
