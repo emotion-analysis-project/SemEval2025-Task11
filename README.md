@@ -7,7 +7,7 @@
  -->
 # SemEval 2025 Task 11: Bridging the Gap in Text-Based Emotion Detection 
 
-- [Task Overview](#Task-Overview)
+- [Emotion Recognition in Text](#Emotion-Recognition-in-Text)
 - [Languages](#languages)
 - [Tracks](#tracks)
   - [Track A: Multi-label Emotion Detection](#track-a-multi-label-emotion-detection)
