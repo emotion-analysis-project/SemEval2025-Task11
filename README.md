@@ -32,6 +32,19 @@ Emotion recognition is not one task but an umbrella term for several tasks [5]. 
 - Detecting emotions evoked in a reader
 
 
+## Our SemEval Task
+
+Our SemEval task focuses on:
+
+> Determining what emotion most people will think the speaker may be feeling given a sentence or short text snippet uttered by the speaker.
+
+It's crucial to understand that this task is about perceived emotion and not about:
+- The emotion evoked in the reader
+- The emotion of someone else mentioned in the text
+- Or even the true emotion of the speaker (which cannot be definitively known from just a short text snippet) [6]
+
+This distinction is important because perceived emotions can differ from actual emotions due to various factors such as cultural context, individual differences in emotional expression, and the limitations of text-based communication [7].
+
 
 ## Languages
 
