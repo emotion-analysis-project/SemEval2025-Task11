@@ -5,7 +5,7 @@
 </p>
 
  -->
-
+# Bridging the Gap in Text-Based Emotion Detection 
 
 - [Task Overview](#Task-Overview)
 - [Languages](#languages)
