@@ -24,6 +24,18 @@
 
 ## Task Overview
 
+Emotions are simultaneously familiar and mysterious. On the one hand, we all express and manage our emotions every day. Yet, on the other hand, emotions are complex, nuanced, and sometimes hard to articulate. We also use language in subtle and complex ways to express emotion. Further, people are highly variable in how they perceive and express emotions (even within the same culture or social group). Thus, we can never truly identify how one is feeling based on something that they have said. 
+
+Emotion recognition is not one task but an umbrella term for several tasks. For example, detecting the emotions of the speaker, identifying what emotion a piece of text is conveying, detecting emotions evoked in a reader, etc. Our SemEval task is on: 
+
+> Determining what emotion most people will think the speaker may be feeling given a sentence or short text snippet uttered by the speaker.
+
+This task is on perceived emotion not about:
+
+ - the emotion evoked in the reader
+ - the emotion of someone else mentioned in the text
+ - or even, the true emotion of the speaker (we cannot know that from just a short text snippet)
+
 Emotion detection is an important task in Natural Language Processing (NLP) that various applications such as building dialogue systems, opinion mining, and mental health analysis benefit from. However, most work on emotion detection has focused on high-resource languages. This shared task aims to reduce this gap by introducing new manually annotated emotion datasets for more than 30 predominantly low-resource languages from Africa, Asia, Eastern Europe, Latin America, along with a few high-resource languages.
 
 
