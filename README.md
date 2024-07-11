@@ -22,7 +22,7 @@
 - [Organizers](#Organizers)
 
 
-## Text-Based Emotion Detection
+## Emotion Recognition in Text
 
 Emotions are simultaneously familiar and mysterious. On the one hand, we all express and manage our emotions every day. Yet, on the other hand, emotions are complex, nuanced, and sometimes hard to articulate [1]. We also use language in subtle and complex ways to express emotion [2]. Further, people are highly variable in how they perceive and express emotions (even within the same culture or social group) [3]. Thus, we can never truly identify how one is feeling based on something that they have said with absolute certainty [4].
 
