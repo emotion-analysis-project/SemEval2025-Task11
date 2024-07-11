@@ -24,7 +24,7 @@
 
 # Emotion Recognition in Text
 
-Emotions are simultaneously familiar and mysterious. On the one hand, we all express and manage our emotions every day. Yet, on the other hand, emotions are complex, nuanced, and sometimes hard to articulate [1]. We also use language in subtle and complex ways to express emotion [2]. Further, people are highly variable in how they perceive and express emotions (even within the same culture or social group) [3]. Thus, we can never truly identify how one is feeling based on something that they have said with absolute certainty [4].
+Emotions are simultaneously familiar and mysterious. On the one hand, we all express and manage our emotions every day. Yet, on the other hand, emotions are complex, nuanced, and sometimes hard to articulate [Ref]. We also use language in subtle and complex ways to express emotion [Ref]. Further, people are highly variable in how they perceive and express emotions (even within the same culture or social group) [Ref]. Thus, we can never truly identify how one is feeling based on something that they have said with absolute certainty [Ref].
 
 Emotion recognition is not one task but an umbrella term for several tasks [5]. For example:
 - Detecting the emotions of the speaker
@@ -38,9 +38,9 @@ Our SemEval task focuses on:
 It's crucial to understand that this task is about perceived emotion and not about:
 - The emotion evoked in the reader
 - The emotion of someone else mentioned in the text
-- Or even the true emotion of the speaker (which cannot be definitively known from just a short text snippet) [6]
+- Or even the true emotion of the speaker (which cannot be definitively known from just a short text snippet) [Ref]
 
-This distinction is important because perceived emotions can differ from actual emotions due to various factors such as cultural context, individual differences in emotional expression, and the limitations of text-based communication [7].
+This distinction is important because perceived emotions can differ from actual emotions due to various factors such as cultural context, individual differences in emotional expression, and the limitations of text-based communication [Ref].
 
 
 ## Languages
