@@ -31,9 +31,6 @@ Emotion recognition is not one task but an umbrella term for several tasks [5]. 
 - Identifying what emotion a piece of text is conveying
 - Detecting emotions evoked in a reader
 
-
-## Our SemEval Task
-
 Our SemEval task focuses on:
 
 > Determining what emotion most people will think the speaker may be feeling given a sentence or short text snippet uttered by the speaker.
