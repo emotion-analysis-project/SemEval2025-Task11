@@ -284,6 +284,8 @@ We will soon release a dataset paper that describes the data collection, annotat
 3. [Paper Submission Requirements](https://semeval.github.io/paper-requirements.html)
 4. [Guidelines for Writing Papers](https://semeval.github.io/system-paper-template.html)
 5. [Paper style files](https://github.com/acl-org/acl-style-files)
-6. Paper submission link (TBD)
+6. [Previous shared-tasks on emotion detection](#)
+7. [Resources for Beginners](#)
+8. Paper submission link (TBD)
 
 ## Organizers
