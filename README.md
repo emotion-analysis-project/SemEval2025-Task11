@@ -27,20 +27,22 @@
 
 # Emotion Recognition in Text
 
-Emotions are simultaneously familiar and mysterious. On the one hand, we all express and manage our emotions every day. Yet, on the other hand, emotions are complex, nuanced, and sometimes hard to articulate [Ref]. We also use language in subtle and complex ways to express emotion [Ref]. Further, people are highly variable in how they perceive and express emotions (even within the same culture or social group) [Ref]. Thus, we can never truly identify how one is feeling based on something that they have said with absolute certainty [Ref]. 
+Emotions are simultaneously familiar and mysterious. On the one hand, we all express and manage our emotions every day. Yet, on the other hand, emotions are complex, nuanced, and sometimes hard to articulate. We also use language in subtle and complex ways to express emotion. Further, people are highly variable in how they perceive and express emotions (even within the same culture or social group). Thus, we can never truly identify how one is feeling based on something that they have said with absolute certainty. 
 
-Emotion recognition is not one task but an umbrella term for several tasks [Ref]. For example, detecting the emotions of the speaker, identifying what emotion a piece of text is conveying and Detecting emotions evoked in a reader. 
+Emotion recognition is not one task but an umbrella term for several tasks such as detecting the emotions of the speaker, identifying what emotion a piece of text is conveying and detecting emotions evoked in a reader. 
 
-SemEval 2025 Task 11 focuses on:
 
-> Determining what emotion most people will think the speaker may be feeling given a sentence or short text snippet uttered by the speaker.
+This task is on **perceived emotion** and focuses on:
 
-The task is about perceived emotion and not about:
-- The emotion evoked in the reader
-- The emotion of someone else mentioned in the text
-- Or even the true emotion of the speaker (which cannot be definitively known from just a short text snippet) [Ref]
+- **Determining what emotion most people will think the speaker may be feeling given a sentence or short text snippet uttered by the speaker.**
 
-This distinction is important because perceived emotions can differ from actual emotions due to various factors such as cultural context, individual differences in emotional expression, and the limitations of text-based communication [Ref].
+The task is **not** about:
+
+- The emotion evoked in the reader.
+- The emotion of someone else mentioned in the text.
+- Or **even** the true emotion of the speaker (which cannot be definitively known from just a short text snippet).
+
+We acknowledge the importance of this distinction as perceived emotions can differ from actual emotions due to various factors such as cultural context, individual differences in emotional expression, and the limitations of text-based communication.
 
 
 ## Languages
@@ -133,10 +135,10 @@ The task will be divided into three phases: Development, Evaluation, and Post-Ev
 ## How to Participate
 
 1. **Register**: Sign up on the Codalab competition platform (link to be provided).
-2. **Track**: Decide which track you want to participate (Track A, B or C)
-3. **Download**: Access the datasets for each track from this repository (to be provided).
+2. **Track**: Decide on the track(s) you want to participate in (Track A, B and/or C)
+3. **Download**: Access to the datasets for each track will be provided in this repository.
 4. **Develop**: Build your models using the provided data.
-5. **Submit**: Submit your predictions on the Codalab competition  platform (link to be provided)
+5. **Submit**: Submit your predictions on the Codalab competition platform (link to be provided).
 
 
 ## Competition Rules and Terms
@@ -257,6 +259,12 @@ The task will be divided into three phases: Development, Evaluation, and Post-Ev
     <li>Interested parties should be directed to the official website.</li>
   </ul>
 </details>
+<details>
+  <summary>13. Final ranking</summary>
+  <ul>
+    <li>To be included in the official task ranking, you **MUST** submit a system description paper.</li>
+  </ul>
+</details>
 
 ## Dataset paper
 
@@ -266,7 +274,8 @@ We will soon release a dataset paper that describes the data collection, annotat
 ## Communication
 
 - Join our Discord Channel to ask questions and receive updates. 
-- Contact organizers at:
+- Contact organizers at: to emotion-semeval-2025-organisers[at]googlegroups[dot]com
+
 
 ## Frequently Asked Questions (FAQs)
 
@@ -279,7 +288,7 @@ We will soon release a dataset paper that describes the data collection, annotat
 
 ##  Resources
 
-1. [SemEval 2024 Shared Tasks](https://semeval.github.io/SemEval2024/tasks)
+1. [SemEval 2025 Shared Tasks](https://semeval.github.io/SemEval2025/tasks)
 2. [Frequently Asked Questions about SemEval](https://semeval.github.io/faq.html)
 3. [Paper Submission Requirements](https://semeval.github.io/paper-requirements.html)
 4. [Guidelines for Writing Papers](https://semeval.github.io/system-paper-template.html)
