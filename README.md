@@ -27,9 +27,9 @@
 
 # Emotion Recognition in Text
 
-Emotions are simultaneously familiar and mysterious. On the one hand, we all express and manage our emotions every day. Yet, on the other hand, emotions are complex, nuanced, and sometimes hard to articulate. We also use language in subtle and complex ways to express emotion. Further, people are highly variable in how they perceive and express emotions (even within the same culture or social group). Thus, we can never truly identify how one is feeling based on something that they have said with absolute certainty. 
+Emotions are simultaneously familiar and mysterious. On the one hand, we all express and manage our emotions every day. Yet, on the other hand, emotions are complex, nuanced, and sometimes hard to articulate. We also use language in subtle and complex ways to express emotion (Wiebe et al. 2005, Mohammad and Kiritcheko 2018, Mohammad et al. 2018). Further, people are highly variable in how they perceive and express emotions (even within the same culture or social group). Thus, we can never truly identify how one is feeling based on something that they have said with absolute certainty. 
 
-Emotion recognition is not one task but an umbrella term for several tasks such as detecting the emotions of the speaker, identifying what emotion a piece of text is conveying and detecting emotions evoked in a reader. 
+Emotion recognition is not one task but an umbrella term for several tasks such as detecting the emotions of the speaker, identifying what emotion a piece of text is conveying and detecting emotions evoked in a reader (Mohammad 2021, Mohammad 2023). 
 
 
 This task is on **perceived emotion** and focuses on:
@@ -42,7 +42,8 @@ The task is **not** about:
 - The emotion of someone else mentioned in the text.
 - Or **even** the true emotion of the speaker (which cannot be definitively known from just a short text snippet).
 
-We acknowledge the importance of this distinction as perceived emotions can differ from actual emotions due to various factors such as cultural context, individual differences in emotional expression, and the limitations of text-based communication.
+We acknowledge the importance of this distinction as perceived emotions can differ from actual emotions due to various factors such as cultural context, individual differences in emotional expression, and the limitations of text-based communication (Van Woensel and Nevil 2019, Wakerfield 2021).
+
 
 
 ## Languages
@@ -296,5 +297,23 @@ We will soon release a dataset paper that describes the data collection, annotat
 6. [Previous shared-tasks on emotion detection](#)
 7. [Resources for Beginners](#)
 8. Paper submission link (TBD)
+
+
+## References 
+Janyce Wiebe, Theresa Wilson, and Claire Cardie. "Annotating expressions of opinions and emotions in language." Language resources and evaluation 39 (2005): 165-210.
+
+Saif M. Mohammad,, and Svetlana Kiritchenko. "Understanding Emotions: A Dataset of Tweets to Study Interactions between Affect Categories." Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018). 2018.
+
+Saif M. Mohammad, Felipe Bravo-Marquez, Mohammad Salameh, and Svetlana Kiritchenko. In Proceedings of the International Workshop on Semantic Evaluation (SemEval-2018), New Orleans, LA, USA, June 2018.
+
+Lieve Van Woensel and Nissy Nevil. 2019. What if your emotions were tracked to spy on you? European Parliamentary Research Service, PE 634.415. https://www.europarl.europa.eu /RegData/etudes/ATAG/2019/6344 15/EPRS_ATA(2019)634415_EN.pdf.
+
+Wakefield, Jane. 2021. AI emotion-detection software tested on Uyghurs. BBC. https://www.bbc.com/news/techn ology- 57101248.
+
+Saif M.  Mohammad "Ethics sheet for automatic emotion recognition and sentiment analysis." Computational Linguistics 48.2 (2022): 239-278.
+
+Saif. Mohammad "Best Practices in the Creation and Use of Emotion Lexicons." Findings of the Association for Computational Linguistics: EACL 2023. 2023.
+
+
 
 ## Organizers
