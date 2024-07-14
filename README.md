@@ -76,7 +76,7 @@ The dataset structure will vary depending on the track:
 - **Track 2**: [Example Text, 0,1,2,4]
 - **Track 3**: [Example Text, Joy, Sadness, Fear, Anger, Surprise, Disgust, Neutral]
 
-For each track, we provide the sample dataset, training dataset, and evaluation dataset in the data folder.
+For each track, we provide the sample dataset, training dataset, and evaluation dataset in the [data folder](https://github.com/emotion-analysis-project/SemEval2025-task11/tree/main/data).
 
 ## Evaluation
 
