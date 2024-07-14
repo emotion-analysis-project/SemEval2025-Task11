@@ -1,12 +1,13 @@
-<p align="center">
-  <img align="center" src="assets/task11.png" />
-  
 
-  <h1 align="center"> </h1>
+<!--  <p align="center" style="max-width: 80%; margin: 0 auto;">
+  <img src="assets/task11.png" style="width: 100%; height: auto;" />
+    <h1 align="center"> </h1>
 </p>
 
+ -->
+# SemEval-2025 Task 11: Bridging the Gap in Text-Based Emotion Detection 😔😱😡
 
-- [Task Overview](#Task-Overview)
+- [Emotion Recognition in Text](#Emotion-Recognition-in-Text)
 - [Languages](#languages)
 - [Tracks](#tracks)
   - [Track A: Multi-label Emotion Detection](#track-a-multi-label-emotion-detection)
@@ -24,19 +25,31 @@
 - [Organizers](#Organizers)
 
 
-## Task Overview
+# Emotion Recognition in Text
 
-Emotion detection is an important task in Natural Language Processing (NLP) that various applications such as building dialogue systems, opinion mining, and mental health analysis benefit from. However, most work on emotion detection has focused on high-resource languages. This shared task aims to reduce this gap by introducing new manually annotated emotion datasets for more than 30 predominantly low-resource languages from Africa, Asia, Eastern Europe, Latin America, along with a few high-resource languages.
+Emotions are simultaneously familiar and mysterious. On the one hand, we all express and manage our emotions every day. Yet, on the other hand, emotions are complex, nuanced, and sometimes hard to articulate [Ref]. We also use language in subtle and complex ways to express emotion [Ref]. Further, people are highly variable in how they perceive and express emotions (even within the same culture or social group) [Ref]. Thus, we can never truly identify how one is feeling based on something that they have said with absolute certainty [Ref]. 
+
+Emotion recognition is not one task but an umbrella term for several tasks [Ref]. For example, detecting the emotions of the speaker, identifying what emotion a piece of text is conveying and Detecting emotions evoked in a reader. 
+
+SemEval 2025 Task 11 focuses on:
+
+> Determining what emotion most people will think the speaker may be feeling given a sentence or short text snippet uttered by the speaker.
+
+The task is about perceived emotion and not about:
+- The emotion evoked in the reader
+- The emotion of someone else mentioned in the text
+- Or even the true emotion of the speaker (which cannot be definitively known from just a short text snippet) [Ref]
+
+This distinction is important because perceived emotions can differ from actual emotions due to various factors such as cultural context, individual differences in emotional expression, and the limitations of text-based communication [Ref].
 
 
 ## Languages
 
 The shared task includes the following languages:
 
-- **Africa**: [Afrikaans](https://en.wikipedia.org/wiki/Afrikaans), [Algerian Arabic](https://en.wikipedia.org/wiki/Algerian_Arabic), [Amharic](https://en.wikipedia.org/wiki/Amharic), [Hausa](https://en.wikipedia.org/wiki/Hausa_language), [Igbo](https://en.wikipedia.org/wiki/Igbo_language), [Kinyarwanda](https://en.wikipedia.org/wiki/Kinyarwanda), [Moroccan Arabic](https://en.wikipedia.org/wiki/Moroccan_Arabic), [Mozambican Portuguese](https://en.wikipedia.org/wiki/Mozambican_Portuguese), [Nigerian-Pidgin](https://en.wikipedia.org/wiki/Nigerian_Pidgin), [Oromo](https://en.wikipedia.org/wiki/Oromo_language), [Setswana](https://en.wikipedia.org/wiki/Tswana_language), [Somali](https://en.wikipedia.org/wiki/Somali_language), [Swahili](https://en.wikipedia.org/wiki/Swahili_language), [Tigrinya](https://en.wikipedia.org/wiki/Tigrinya_language),[Xitsonga](https://en.wikipedia.org/wiki/Tsonga_language), [isiXhosa](https://en.wikipedia.org/wiki/Xhosa_language), [Yoruba](https://en.wikipedia.org/wiki/Yoruba_language), [isiZulu](https://en.wikipedia.org/wiki/Zulu_language)
-- **Asia**: [Arabic](https://en.wikipedia.org/wiki/Arabic), [Chinese](https://en.wikipedia.org/wiki/Chinese_language), [Hindi](https://en.wikipedia.org/wiki/Hindi), [Indonesian](https://en.wikipedia.org/wiki/Indonesian_language), [Javanese](https://en.wikipedia.org/wiki/Javanese_language), [Marathi](https://en.wikipedia.org/wiki/Marathi_language)
-- **Europe & North America**: [English](https://en.wikipedia.org/wiki/English_language), [German](https://en.wikipedia.org/wiki/German_language), [Romanian](https://en.wikipedia.org/wiki/Romanian_language), [Russian](https://en.wikipedia.org/wiki/Russian_language), [Spanish](https://en.wikipedia.org/wiki/Spanish_language), [Tatar](https://en.wikipedia.org/wiki/Tatar_language), [Ukrainian](https://en.wikipedia.org/wiki/Ukrainian_language)
-- **Latin America**: [Brazilian Portuguese](https://en.wikipedia.org/wiki/Brazilian_Portuguese)
+- [Afrikaans](https://en.wikipedia.org/wiki/Afrikaans), [Algerian Arabic](https://en.wikipedia.org/wiki/Algerian_Arabic), [Amharic](https://en.wikipedia.org/wiki/Amharic), [Hausa](https://en.wikipedia.org/wiki/Hausa_language), [Igbo](https://en.wikipedia.org/wiki/Igbo_language), [Kinyarwanda](https://en.wikipedia.org/wiki/Kinyarwanda), [Moroccan Arabic](https://en.wikipedia.org/wiki/Moroccan_Arabic), [Mozambican Portuguese](https://en.wikipedia.org/wiki/Mozambican_Portuguese), [Nigerian-Pidgin](https://en.wikipedia.org/wiki/Nigerian_Pidgin), [Oromo](https://en.wikipedia.org/wiki/Oromo_language), [Setswana](https://en.wikipedia.org/wiki/Tswana_language), [Somali](https://en.wikipedia.org/wiki/Somali_language), [Swahili](https://en.wikipedia.org/wiki/Swahili_language), [Tigrinya](https://en.wikipedia.org/wiki/Tigrinya_language),[Xitsonga](https://en.wikipedia.org/wiki/Tsonga_language), [isiXhosa](https://en.wikipedia.org/wiki/Xhosa_language), [Yoruba](https://en.wikipedia.org/wiki/Yoruba_language), [isiZulu](https://en.wikipedia.org/wiki/Zulu_language) [Arabic](https://en.wikipedia.org/wiki/Arabic), [Chinese](https://en.wikipedia.org/wiki/Chinese_language), [Hindi](https://en.wikipedia.org/wiki/Hindi), [Indonesian](https://en.wikipedia.org/wiki/Indonesian_language), [Javanese](https://en.wikipedia.org/wiki/Javanese_language), [Marathi](https://en.wikipedia.org/wiki/Marathi_language) [English](https://en.wikipedia.org/wiki/English_language), [German](https://en.wikipedia.org/wiki/German_language), [Romanian](https://en.wikipedia.org/wiki/Romanian_language), [Russian](https://en.wikipedia.org/wiki/Russian_language), [Spanish](https://en.wikipedia.org/wiki/Spanish_language), [Tatar](https://en.wikipedia.org/wiki/Tatar_language), [Ukrainian](https://en.wikipedia.org/wiki/Ukrainian_language), [Swedish](https://en.wikipedia.org/wiki/Swedish_language) [Brazilian Portuguese](https://en.wikipedia.org/wiki/Brazilian_Portuguese)
+
+
 
 
 ## Tracks
@@ -60,7 +73,7 @@ The dataset structure will vary depending on the track:
 - **Track 2**: [Example Text, 0,1,2,4]
 - **Track 3**: [Example Text, Joy, Sadness, Fear, Anger, Surprise, Disgust, Neutral]
 
-We provide the pilot dataset in the following folders: [Track A](#), [Track B](#), [Track C](#)
+For each track, we provide the sample dataset, training dataset, and evaluation dataset in the following folders: [Track A](#), [Track B](#), [Track](#)
 
 ## Evaluation
 
@@ -252,10 +265,16 @@ We will soon release a dataset paper that describes the data collection, annotat
 
 ## Communication
 
-- Join our Slack group to ask questions and receive updates. 
+- Join our Discord Channel to ask questions and receive updates. 
 - Contact organizers at:
 
 ## Frequently Asked Questions (FAQs)
+
+
+
+## Ethical considerations.
+
+
 
 
 ##  Resources
@@ -265,6 +284,8 @@ We will soon release a dataset paper that describes the data collection, annotat
 3. [Paper Submission Requirements](https://semeval.github.io/paper-requirements.html)
 4. [Guidelines for Writing Papers](https://semeval.github.io/system-paper-template.html)
 5. [Paper style files](https://github.com/acl-org/acl-style-files)
-6. Paper submission link (TBD)
+6. [Previous shared-tasks on emotion detection](#)
+7. [Resources for Beginners](#)
+8. Paper submission link (TBD)
 
 ## Organizers
