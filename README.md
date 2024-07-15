@@ -103,13 +103,13 @@ The table below shows the languages of the different datasets, their sizes and t
 | 20  | Nigerian-Pidgin       | PCM  |                   |                      |                |        |
 | 21  | Oromo                 | ORM  |    ✓                  |                      |                |        |
 | 22  | Romanian              | RON  |                   |                      |                |        |
-| 23  | Russian               | RUS  |                   |                      |                |        |
+| 23  | Russian               | RUS  |   ✓                   |                      |                |        |
 | 24  | Setswana              | TSN  |                   |                      |                |        |
 | 25  | Somali                | SOM  |   ✓                   |                      |                |        |
 | 26  | Spanish               | SPA  |                   |                      |                |        |
 | 27  | Swahili               | SWA  |                   |                      |                |        |
 | 28  | Swedish               | SWE  |                   |                      |                |        |
-| 29  | Tatar                 | TAT  |                   |                      |                |        |
+| 29  | Tatar                 | TAT  |  ✓                    |                      |                |        |
 | 30  | Tigrinya              | TIR  |    ✓                  |                      |                |        |
 | 31  | Ukrainian             | UKR  |                   |                      |                |        |
 | 32  | Xitsonga              | TSO  |                   |                      |                |        |
