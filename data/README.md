@@ -6,25 +6,23 @@ For more information, visit the [official GitHub repository](https://github.com/
 
 ## Dataset Information
 
-Our dataset collection includes datasets in multiple languages. The datasets are designed for research on text-based emotion detection and related tasks, and contain text instances along with their annotations for various emotions. 
+Our collection includes datasets in multiple languages designed for research on text-based emotion detection and related tasks. They contain text instances along with their annotations for various emotions. 
 
 ### Track 1 (Emotion Classification)
 
-For the track 1 datasets, each entry in the dataset consists of a unique identifier, a text sample in Hausa, and seven columns representing different emotions: Joy, Fear, Anger, Sadness, Disgust, Neutral, and Surprise. Each emotion column is binary, where `0` indicates the absence of the emotion and `1` indicates its presence. Note: A single text sample can express multiple emotions simultaneously. 
+For track 1, each entry in a given dataset consists of a unique identifier, a text sample, and seven columns representing different emotions: Joy, Fear, Anger, Sadness, Disgust, Neutral, and Surprise. Each emotion column is binary, where 0 indicates the absence of the emotion and 1 indicates its presence. Note that a single text can express multiple emotions simultaneously. The columns are named as follows:
 
-Here are the components of the dataset:
+- **id**: the unique identifier of a given instance.
+- **text**: the annotated textual instance.
+- **Joy**: binary labeled, such as ``0'' indicates the absence of joy in the text, and ``1'' indicates its presence.
+- **Fear**: binary labeled, such as ``0'' indicates the absence of fear in the text, and ``1'' indicates its presence.
+- **Anger**: binary labeled, such as ``0'' indicates the absence of anger in the text, and ``1'' indicates its presence.
+- **Sadness**: binary labeled, such as ``0'' indicates the absence of sadness in the text, and ``1'' indicates its presence.
+- **Disgust**: binary labeled, such as ``0'' indicates the absence of disgust in the text, and ``1'' indicates its presence.
+- **Neutral**: binary labeled, such as ``1'' indicates that the text in neutral and  and ``0'' indicates that it is not.
+- **Surprise**: binary labeled, such as ``0'' indicates the absence of surpise in the text, and ``1'' indicates its presence.
 
-- **id**: A unique identifier for each text.
-- **text**: The actual text in the Hausa language.
-- **Joy**: Indicates the presence (`1`) or absence (`0`) of joy in the text.
-- **Fear**: Indicates the presence (`1`) or absence (`0`) of fear in the text.
-- **Anger**: Indicates the presence (`1`) or absence (`0`) of anger in the text.
-- **Sadness**: Indicates the presence (`1`) or absence (`0`) of sadness in the text.
-- **Disgust**: Indicates the presence (`1`) or absence (`0`) of disgust in the text.
-- **Neutral**: Indicates the presence (`1`) or absence (`0`) of a neutral tone in the text.
-- **Surprise**: Indicates the presence (`1`) or absence (`0`) of surprise in the text.
-
-### Sample Data
+#### Sample Data Instance
 
 | id                      | text                                                                                          | Joy | Fear | Anger | Sadness | Disgust | Neutral | Surprise |
 |-------------------------|-----------------------------------------------------------------------------------------------|-----|------|-------|---------|---------|---------|----------|
@@ -33,16 +31,15 @@ Here are the components of the dataset:
 
 ### Track 2 (Ordinal Intensity)
 
-For the track 2 datasets, each entry includes a unique identifier, a text, the dominant emotion expressed in the text, and an intensity class indicating the strength of the emotion on a scale from 0 to 3, with 0 being no-emotion and 3 being the highest.
+For track 2, each entry in a given dataset includes a unique identifier, a text, the dominant emotion expressed in the text, and an intensity class representing the strength of the emotion on a scale from 0 to 3, with 0 indicating the absence of emotion and 3 indicating the highest level of intensity. Such as:
 
-Here are the components of the dataset:
 
-- **id**: A unique identifier for each text.
-- **text**: The actual text in one of the language.
-- **emotion**: The primary emotion expressed in the text.
-- **intensity_class**: The intensity level of the emotion, ranging from 0 (no emotion) to 3 (high intensity).
+- **id**: the unique identifier of a given instance.
+- **text**: the annotated textual instance.
+- **emotion**: the primary emotion expressed in the text.
+- **intensity_class**: the intensity level of the emotion, ranging from 0 (no emotion) to 3 (high intensity).
 
-### Sample Data
+#### Sample Data Instance
 
 | id                      | text                                                                                          | emotion | intensity_class |
 |-------------------------|-----------------------------------------------------------------------------------------------|---------|-----------------|
