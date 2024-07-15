@@ -14,13 +14,13 @@ For track 1, each entry in a given dataset consists of a unique identifier, a te
 
 - **id**: the unique identifier of a given instance.
 - **text**: the annotated textual instance.
-- **Joy**: binary labeled, such as ``0'' indicates the absence of joy in the text, and ``1'' indicates its presence.
-- **Fear**: binary labeled, such as ``0'' indicates the absence of fear in the text, and ``1'' indicates its presence.
-- **Anger**: binary labeled, such as ``0'' indicates the absence of anger in the text, and ``1'' indicates its presence.
-- **Sadness**: binary labeled, such as ``0'' indicates the absence of sadness in the text, and ``1'' indicates its presence.
-- **Disgust**: binary labeled, such as ``0'' indicates the absence of disgust in the text, and ``1'' indicates its presence.
-- **Neutral**: binary labeled, such as ``1'' indicates that the text in neutral and  and ``0'' indicates that it is not.
-- **Surprise**: binary labeled, such as ``0'' indicates the absence of surpise in the text, and ``1'' indicates its presence.
+- **Joy**: binary labeled, such as ''0'' indicates the absence of joy in the text, and ''1'' indicates its presence.
+- **Fear**: binary labeled, such as ''0'' indicates the absence of fear in the text, and ''1'' indicates its presence.
+- **Anger**: binary labeled, such as ''0'' indicates the absence of anger in the text, and ''1'' indicates its presence.
+- **Sadness**: binary labeled, such as ''0'' indicates the absence of sadness in the text, and ''1'' indicates its presence.
+- **Disgust**: binary labeled, such as ''0'' indicates the absence of disgust in the text, and ''1'' indicates its presence.
+- **Neutral**: binary labeled, such as ''1'' indicates that the text in neutral and  and ''0'' indicates that it is not.
+- **Surprise**: binary labeled, such as ''0'' indicates the absence of surpise in the text, and ''1'' indicates its presence.
 
 #### Sample Data Instance
 
