@@ -10,7 +10,7 @@ Our dataset collection includes datasets in multiple languages. The datasets are
 
 ### Track 1 (Emotion Classification)
 
-For the track 1 dataset, each entry in the dataset consists of a unique identifier, a text sample in Hausa, and seven columns representing different emotions: Joy, Fear, Anger, Sadness, Disgust, Neutral, and Surprise. Each emotion column is binary, where `0` indicates the absence of the emotion and `1` indicates its presence. Note: A single text sample can express multiple emotions simultaneously. 
+For the track 1 datasets, each entry in the dataset consists of a unique identifier, a text sample in Hausa, and seven columns representing different emotions: Joy, Fear, Anger, Sadness, Disgust, Neutral, and Surprise. Each emotion column is binary, where `0` indicates the absence of the emotion and `1` indicates its presence. Note: A single text sample can express multiple emotions simultaneously. 
 
 Here are the components of the dataset:
 
@@ -33,7 +33,7 @@ Here are the components of the dataset:
 
 ### Track 2 (Ordinal Intensity)
 
-For the track 1 dataset, each entry includes a unique identifier, a text, the dominant emotion expressed in the text, and an intensity class indicating the strength of the emotion on a scale from 0 to 3, with 0 being no-emotion and 3 being the highest.
+For the track 2 datasets, each entry includes a unique identifier, a text, the dominant emotion expressed in the text, and an intensity class indicating the strength of the emotion on a scale from 0 to 3, with 0 being no-emotion and 3 being the highest.
 
 Here are the components of the dataset:
 
