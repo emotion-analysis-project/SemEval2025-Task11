@@ -283,7 +283,7 @@ The table below shows the languages, their corresponding language codes, the sta
 
 The table below shows the languages, their corresponding language codes, the status of the data in each language for sample, training, and development (dev) sets, and the size of the datasets.
 
-| No. | Language              | Code |  Data Ready | Training   | Dev   | Size   |
+| No. | Language              | Code |  Data  | Training   | Dev   | Size   |
 |-----|-----------------------|------|-------------------|----------------------|----------------|--------|
 | 1   | Afrikaans             | AFR  |                   |                      |                |        |
 | 2   | Algerian Arabic       | ARQ  |                   |                      |                |        |
