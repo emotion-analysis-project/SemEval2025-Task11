@@ -70,8 +70,6 @@ Participants can participate in one or more of the following tracks:
 
 ## Dataset
 
-## Dataset Structure
-
 For each track, we provide the sample dataset, training dataset, and evaluation dataset in the [data folder](https://github.com/emotion-analysis-project/SemEval2025-task11/tree/main/data).
 
 
