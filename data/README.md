@@ -15,9 +15,9 @@ The dataset includes data in the following languages:
 | No. | Language              | Code | Sample Data Ready | Training Data  | Dev Data  | Size   |
 |-----|-----------------------|------|-------------------|----------------------|----------------|--------|
 | 1   | Afrikaans             | AFR  |                   |                      |                |        |
-| 2   | Algerian Arabic       | DZA  |                   |                      |                |        |
+| 2   | Algerian Arabic       | ARQ  |                   |                      |                |        |
 | 3   | Amharic               | AMH  |                   |                      |                |        |
-| 4   | Arabic                | ARA  |                   |                      |                |        |
+| 4   | Arabic                | ARB  |                   |                      |                |        |
 | 5   | Brazilian Portuguese  | PTB  |                   |                      |                |        |
 | 6   | Chinese               | ZHO  | ✓                |                      |                |        |
 | 7   | English               | ENG  |                   |                      |                |        |
