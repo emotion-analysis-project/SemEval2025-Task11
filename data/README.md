@@ -8,6 +8,30 @@ For more information, visit the [official GitHub repository](https://github.com/
 
 Our dataset collection includes datasets in multiple languages. The datasets are designed for research on text-based emotion detection and related tasks, and contain text instances along with their annotations for various emotions. We provide samples from the training and development (dev) sets.
 
+Each entry in the dataset consists of a unique identifier, a text sample in Hausa, and seven columns representing different emotions: Joy, Fear, Anger, Sadness, Disgust, Neutral, and Surprise. Each emotion column is binary, where `0` indicates the absence of the emotion and `1` indicates its presence. A single text sample can express multiple emotions simultaneously.
+
+Here are the components of the dataset:
+
+- **id**: A unique identifier for each text sample.
+- **text**: The actual text in the Hausa language.
+- **Joy**: Indicates the presence (`1`) or absence (`0`) of joy in the text.
+- **Fear**: Indicates the presence (`1`) or absence (`0`) of fear in the text.
+- **Anger**: Indicates the presence (`1`) or absence (`0`) of anger in the text.
+- **Sadness**: Indicates the presence (`1`) or absence (`0`) of sadness in the text.
+- **Disgust**: Indicates the presence (`1`) or absence (`0`) of disgust in the text.
+- **Neutral**: Indicates the presence (`1`) or absence (`0`) of a neutral tone in the text.
+- **Surprise**: Indicates the presence (`1`) or absence (`0`) of surprise in the text.
+
+### Sample Data
+
+| id                      | text                                                                                          | Joy | Fear | Anger | Sadness | Disgust | Neutral | Surprise |
+|-------------------------|-----------------------------------------------------------------------------------------------|-----|------|-------|---------|---------|---------|----------|
+| hau_sample_track1_00001 | Obasanjo prayed to God to take his life: I have seen enough, I am not praying to see the fourth Olu of Warri | 0   | 0    | 0     | 1       | 0       | 0       | 1        |
+| hau_sample_track1_00002 | The coronavirus was created to cause fear and panic among people                              | 0   | 1    | 1     | 0       | 0       | 0       | 0        |
+| hau_sample_track1_00003 | Tragedy: Pirates killed a young woman while she was undergoing Christian initiation rites      | 0   | 0    | 0     | 1       | 0       | 0       | 1        |
+| hau_sample_track1_00004 | Shehu Sani condemned those taking action on allegations of penis thefts in Abuja              | 0   | 0    | 1     | 0       | 1       | 0       | 0        |
+| hau_sample_track1_00005 | Five family members died mysteriously in Enugu State                                          | 0   | 0    | 0     | 1       | 0       | 0       | 1        |
+
 ### Languages Included
 
 We provide datasets in the following languages:
