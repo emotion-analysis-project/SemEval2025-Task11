@@ -309,7 +309,7 @@ We will soon release a dataset paper that describes the data collection, annotat
 
 ## Communication
 
-- Join our Discord Channel to ask questions and receive updates. 
+- Join our Discord Channel to ask questions and receive updates (coming soon). 
 - Contact organizers at: emotion-semeval-2025-organisers[at]googlegroups[dot]com
 
 
