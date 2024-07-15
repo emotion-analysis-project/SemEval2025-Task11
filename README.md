@@ -279,15 +279,6 @@ We will soon release a dataset paper that describes the data collection, annotat
 - Contact organizers at: to emotion-semeval-2025-organisers[at]googlegroups[dot]com
 
 
-## Frequently Asked Questions (FAQs)
-
-
-
-## Ethical considerations.
-
-
-
-
 ##  Resources
 
 1. [SemEval 2025 Shared Tasks](https://semeval.github.io/SemEval2025/tasks)
@@ -314,7 +305,6 @@ Wakefield, Jane. 2021. AI emotion-detection software tested on Uyghurs. BBC. htt
 Saif M.  Mohammad "Ethics sheet for automatic emotion recognition and sentiment analysis." Computational Linguistics 48.2 (2022): 239-278.
 
 Saif. Mohammad "Best Practices in the Creation and Use of Emotion Lexicons." Findings of the Association for Computational Linguistics: EACL 2023. 2023.
-
 
 
 ## Organizers
