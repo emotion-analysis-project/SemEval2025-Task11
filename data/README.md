@@ -6,7 +6,7 @@ For more information, visit the [official GitHub repository](https://github.com/
 
 ## Dataset Information
 
-The datasets contain text instances in multiple languages, along with their annotations for various emotions. It is structured to support tasks related to text-based emotion detection. We provide samples from the training, and development (dev) sets.
+Our dataset collection includes datasets in multiple languages. The datasets are designed for research on text-based emotion detection and related tasks, and contain text instances along with their annotations for various emotions. We provide samples from the training and development (dev) sets.
 
 ### Languages Included
 
