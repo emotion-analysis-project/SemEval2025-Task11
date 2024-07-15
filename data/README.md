@@ -46,6 +46,11 @@ For track 2, each entry in a given dataset includes a unique identifier, a text,
 | eng_sample_track2_00001 |APC has a bright future in the Southeast 	                                     | Joy     | 1               |
 
 
+### Track 3
+
+Same data format with Track 1. 
+
+
 ## Languages Included
 
 We provide datasets in the following languages: 
