@@ -144,11 +144,9 @@ The task will be divided into three phases: Development, Evaluation, and Post-Ev
 
 
 ## Data Release
-The table below shows the languages, their corresponding language codes, the status of the data in each language for sample, training, and development (dev) sets, and the size of the datasets.
+The table below shows the languages of the different datasets, their sizes and the release status of their pilot sample, training, and development (dev) sets. Note that ✓ means released and can be found in the data folder.
 
-The table below shows the languages, their corresponding language codes, the status of the data in each language for sample, training, and development (dev) sets, and the size of the datasets.
-
-| No. | Language              | Code |  Data  | Training   | Dev   | Size   |
+| No. | Language              | Code |  Pilot Data  | Training   | Dev   | Size   |
 |-----|-----------------------|------|-------------------|----------------------|----------------|--------|
 | 1   | Afrikaans             | AFR  |                   |                      |                |        |
 | 2   | Algerian Arabic       | ARQ  |                   |                      |                |        |
