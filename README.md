@@ -5,6 +5,9 @@
 </p>
 
  -->
+
+![Visitor Count](https://komarev.com/ghpvc/?username=emotion-analysis-project&repo=SemEval2025-task11&color=green)
+
 # SemEval-2025 Task 11: Bridging the Gap in Text-Based Emotion Detection 😔😱😡
 
 - [Emotion Recognition in Text](#emotion-recognition-in-text)
