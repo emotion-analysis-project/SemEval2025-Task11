@@ -59,7 +59,7 @@ We provide datasets in the following languages:
 |-----|-----------------------|------|-------------------|----------------------|----------------|--------|
 | 1   | Afrikaans             | AFR  |                   |                      |                |        |
 | 2   | Algerian Arabic       | ARQ  |                   |                      |                |        |
-| 3   | Amharic               | AMH  |                   |                      |                |        |
+| 3   | Amharic               | AMH  |   ✓                |                      |                |        |
 | 4   | Arabic                | ARB  |                   |                      |                |        |
 | 5   | Brazilian Portuguese  | PTB  |                   |                      |                |        |
 | 6   | Chinese               | ZHO  | ✓                |                      |                |        |
@@ -77,16 +77,16 @@ We provide datasets in the following languages:
 | 18  | Moroccan Arabic       | ARY  |                   |                      |                |        |
 | 19  | Mozambican Portuguese | PTM  |                   |                      |                |        |
 | 20  | Nigerian-Pidgin       | PCM  |                   |                      |                |        |
-| 21  | Oromo                 | ORM  |                   |                      |                |        |
+| 21  | Oromo                 | ORM  |    ✓               |                      |                |        |
 | 22  | Romanian              | RON  |                   |                      |                |        |
-| 23  | Russian               | RUS  |                   |                      |                |        |
+| 23  | Russian               | RUS  |    ✓               |                      |                |        |
 | 24  | Setswana              | TSN  |                   |                      |                |        |
-| 25  | Somali                | SOM  |                   |                      |                |        |
+| 25  | Somali                | SOM  |      ✓             |                      |                |        |
 | 26  | Spanish               | SPA  |                   |                      |                |        |
 | 27  | Swahili               | SWA  |                   |                      |                |        |
 | 28  | Swedish               | SWE  |                   |                      |                |        |
-| 29  | Tatar                 | TAT  |                   |                      |                |        |
-| 30  | Tigrinya              | TIR  |                   |                      |                |        |
+| 29  | Tatar                 | TAT  |      ✓             |                      |                |        |
+| 30  | Tigrinya              | TIR  |     ✓              |                      |                |        |
 | 31  | Ukrainian             | UKR  |                   |                      |                |        |
 | 32  | Xitsonga              | TSO  |                   |                      |                |        |
 | 33  | Yoruba                | YOR  |                   |                      |                |        |
