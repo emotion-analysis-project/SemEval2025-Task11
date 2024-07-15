@@ -1,16 +1,16 @@
-# SemEval-2025 Task 11 Dataset
+# SemEval-2025 Task 11 Datasets
 
-This dataset is used for **SemEval-2025 Task 11: Bridging the Gap in Text-Based Emotion Detection** 😔😱😡.
+These datasets are used for **SemEval-2025 Task 11: Bridging the Gap in Text-Based Emotion Detection** 😔😱😡.
 
 For more information, visit the [official GitHub repository](https://github.com/emotion-analysis-project/SemEval2025-task11).
 
 ## Dataset Information
 
-This dataset contains text data in multiple languages, along with annotations for various emotions. It is structured to support tasks related to emotion detection in text, providing sample, training, and development (dev) sets.
+The datasets contain text instances in multiple languages, along with their annotations for various emotions. It is structured to support tasks related to text-based emotion detection. We provide samples from the training, and development (dev) sets.
 
 ### Languages Included
 
-The dataset includes data in the following languages:
+We provide datasets in the following languages:
 
 | No. | Language              | Code | Sample Data Ready | Training Data  | Dev Data  | Size   |
 |-----|-----------------------|------|-------------------|----------------------|----------------|--------|
@@ -50,5 +50,5 @@ The dataset includes data in the following languages:
 
 ## Citation
 
-If you use our dataset, please cite our work as follows:
+If you use our datasets, please cite our work as follows: **citation coming soon**
 
