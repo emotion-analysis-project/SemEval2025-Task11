@@ -281,41 +281,43 @@ We will soon release a dataset paper that describes the data collection, annotat
 ## Data Release
 The table below shows the languages, their corresponding language codes, the status of the data in each language for sample, training, and development (dev) sets, and the size of the datasets.
 
-| No. | Language              | Code | Sample  | Training  | Dev | Size   |
+The table below shows the languages, their corresponding language codes, the status of the data in each language for sample, training, and development (dev) sets, and the size of the datasets.
+
+| No. | Language              | Code |  Data Ready | Training   | Dev   | Size   |
 |-----|-----------------------|------|-------------------|----------------------|----------------|--------|
 | 1   | Afrikaans             | AFR  |                   |                      |                |        |
-| 2   | Algerian Arabic       | DZA  |                   |                      |                |        |
+| 2   | Algerian Arabic       | ARQ  |                   |                      |                |        |
 | 3   | Amharic               | AMH  |                   |                      |                |        |
-| 4   | Hausa                 | HAU  | ✓                 |                      |                |        |
-| 5   | Igbo                  | IBO  |                   |                      |                |        |
-| 6   | Kinyarwanda           | KIN  |                   |                      |                |        |
-| 7   | Moroccan Arabic       | ARY  |                   |                      |                |        |
-| 8   | Mozambican Portuguese | PTM  |                   |                      |                |        |
-| 9   | Nigerian-Pidgin       | PCM  |                   |                      |                |        |
-| 10  | Oromo                 | ORM  |                   |                      |                |        |
-| 11  | Setswana              | TSN  |                   |                      |                |        |
-| 12  | Somali                | SOM  |                   |                      |                |        |
-| 13  | Swahili               | SWA  |                   |                      |                |        |
-| 14  | Tigrinya              | TIR  |                   |                      |                |        |
-| 15  | Xitsonga              | TSO  |                   |                      |                |        |
-| 16  | isiXhosa              | XHO  |                   |                      |                |        |
-| 17  | Yoruba                | YOR  |                   |                      |                |        |
-| 18  | isiZulu               | ZUL  |                   |                      |                |        |
-| 19  | Arabic                | ARA  |                   |                      |                |        |
-| 20  | Chinese               | ZHO  | ✓                 |                      |                |        |
-| 21  | Hindi                 | HIN  | ✓                    |                      |                |        |
-| 22  | Indonesian            | IND  |                   |                      |                |        |
-| 23  | Javanese              | JAV  |                   |                      |                |        |
-| 24  | Marathi               | MAR  | ✓                  |                      |                |        |
-| 25  | English               | ENG  | ✓                   |                      |                |        |
-| 26  | German                | DEU  |                   |                      |                |        |
-| 27  | Romanian              | RON  |                   |                      |                |        |
-| 28  | Russian               | RUS  |                   |                      |                |        |
-| 29  | Spanish               | SPA  |                   |                      |                |        |
-| 30  | Tatar                 | TAT  |                   |                      |                |        |
+| 4   | Arabic                | ARB  |                   |                      |                |        |
+| 5   | Brazilian Portuguese  | PTB  |                   |                      |                |        |
+| 6   | Chinese               | ZHO  | ✓                 |                      |                |        |
+| 7   | English               | ENG  |                   |                      |                |        |
+| 8   | German                | DEU  |                   |                      |                |        |
+| 9   | Hausa                 | HAU  | ✓                 |                      |                |        |
+| 10  | Hindi                 | HIN  |                   |                      |                |        |
+| 11  | Igbo                  | IBO  |                   |                      |                |        |
+| 12  | Indonesian            | IND  |                   |                      |                |        |
+| 13  | isiXhosa              | XHO  |                   |                      |                |        |
+| 14  | isiZulu               | ZUL  |                   |                      |                |        |
+| 15  | Javanese              | JAV  |                   |                      |                |        |
+| 16  | Kinyarwanda           | KIN  |                   |                      |                |        |
+| 17  | Marathi               | MAR  |                   |                      |                |        |
+| 18  | Moroccan Arabic       | ARY  |                   |                      |                |        |
+| 19  | Mozambican Portuguese | PTM  |                   |                      |                |        |
+| 20  | Nigerian-Pidgin       | PCM  |                   |                      |                |        |
+| 21  | Oromo                 | ORM  |                   |                      |                |        |
+| 22  | Romanian              | RON  |                   |                      |                |        |
+| 23  | Russian               | RUS  |                   |                      |                |        |
+| 24  | Setswana              | TSN  |                   |                      |                |        |
+| 25  | Somali                | SOM  |                   |                      |                |        |
+| 26  | Spanish               | SPA  |                   |                      |                |        |
+| 27  | Swahili               | SWA  |                   |                      |                |        |
+| 28  | Swedish               | SWE  |                   |                      |                |        |
+| 29  | Tatar                 | TAT  |                   |                      |                |        |
+| 30  | Tigrinya              | TIR  |                   |                      |                |        |
 | 31  | Ukrainian             | UKR  |                   |                      |                |        |
-| 32  | Swedish               | SWE  |                   |                      |                |        |
-| 33  | Brazilian Portuguese  | PTB  |                   |                      |                |        |
+| 32  | Xitsonga              | TSO  |                   |                      |                |        |
+| 33  | Yoruba                | YOR  |                   |                      |                |        |
 
 ##  Resources
 
