@@ -7,7 +7,7 @@
  -->
 # SemEval-2025 Task 11: Bridging the Gap in Text-Based Emotion Detection 😔😱😡
 
-- [Emotion Recognition in Text](#Emotion-Recognition-in-Text)
+- [Emotion Recognition in Text](#emotion-recognition-in-text)
 - [Languages](#languages)
 - [Tracks](#tracks)
   - [Track A: Multi-label Emotion Detection](#track-a-multi-label-emotion-detection)
@@ -20,9 +20,9 @@
 - [Competition Rules and Terms](#competition-rules-and-terms)
 - [Dataset Paper](#dataset-paper)
 - [Communication](#communication)
-- [Frequently Asked Questions (FAQs)](#frequently-asked-questions-faqs)
+- [Data Release](#data-release)
 - [Resources](#resources)
-- [Organizers](#Organizers)
+- [Organizers](#organizers)
 
 
 # Emotion Recognition in Text
