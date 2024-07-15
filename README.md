@@ -303,11 +303,11 @@ The table below shows the languages, their corresponding language codes, the sta
 | 18  | isiZulu               | ZUL  |                   |                      |                |        |
 | 19  | Arabic                | ARA  |                   |                      |                |        |
 | 20  | Chinese               | ZHO  | ✓                 |                      |                |        |
-| 21  | Hindi                 | HIN  |                   |                      |                |        |
+| 21  | Hindi                 | HIN  | ✓                    |                      |                |        |
 | 22  | Indonesian            | IND  |                   |                      |                |        |
 | 23  | Javanese              | JAV  |                   |                      |                |        |
-| 24  | Marathi               | MAR  |                   |                      |                |        |
-| 25  | English               | ENG  |                   |                      |                |        |
+| 24  | Marathi               | MAR  | ✓                  |                      |                |        |
+| 25  | English               | ENG  | ✓                   |                      |                |        |
 | 26  | German                | DEU  |                   |                      |                |        |
 | 27  | Romanian              | RON  |                   |                      |                |        |
 | 28  | Russian               | RUS  |                   |                      |                |        |
