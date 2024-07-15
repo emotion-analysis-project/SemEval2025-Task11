@@ -96,5 +96,5 @@ We provide datasets in the following languages:
 If you use our datasets, please cite our work as follows: **citation coming soon**
 
 
-Contact organizers at: to emotion-semeval-2025-organisers[at]googlegroups[dot]com
+Contact organizers at: emotion-semeval-2025-organisers[at]googlegroups[dot]com
 
