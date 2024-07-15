@@ -14,13 +14,13 @@ For track 1, each entry in a given dataset consists of a unique identifier, a te
 
 - **id**: the unique identifier of a given instance.
 - **text**: the annotated textual instance.
-- **Joy**: binary labeled, such as 0 indicates the absence of joy in the text, and 1 indicates its presence.
-- **Fear**: binary labeled, such as 0 indicates the absence of fear in the text, and 1 indicates its presence.
-- **Anger**: binary labeled, such as 0 indicates the absence of anger in the text, and 1 indicates its presence.
-- **Sadness**: binary labeled, such as 0 indicates the absence of sadness in the text, and 1 indicates its presence.
-- **Disgust**: binary labeled, such as 0 indicates the absence of disgust in the text, and 1 indicates its presence.
-- **Neutral**: binary labeled, such as 1 indicates that the text in neutral and  and 0 indicates that it is not.
-- **Surprise**: binary labeled, such as 0 indicates the absence of surpise in the text, and 1 indicates its presence.
+- **Joy**: binary labeled. 0 indicates the absence of joy in the text, and 1 indicates its presence.
+- **Fear**: binary labeled. 0 indicates the absence of fear in the text, and 1 indicates its presence.
+- **Anger**: binary labeled. 0 indicates the absence of anger in the text, and 1 indicates its presence.
+- **Sadness**: binary labeled. 0 indicates the absence of sadness in the text, and 1 indicates its presence.
+- **Disgust**: binary labeled. 0 indicates the absence of disgust in the text, and 1 indicates its presence.
+- **Neutral**: binary labeled. 1 indicates that the text in neutral and  and 0 indicates that it is not.
+- **Surprise**: binary labeled. 0 indicates the absence of surpise in the text, and 1 indicates its presence.
 
 #### Sample Data Instance
 
@@ -37,7 +37,7 @@ For track 2, each entry in a given dataset includes a unique identifier, a text,
 - **id**: the unique identifier of a given instance.
 - **text**: the annotated textual instance.
 - **emotion**: the primary emotion expressed in the text.
-- **intensity_class**: the intensity level of the emotion, ranging from 0 (no emotion) to 3 (high intensity).
+- **intensity_class**: the intensity level of the emotion (0:no emotion, 1: low emotion, 2: medium emotion, and 3: high intensity).
 
 #### Sample Data Instance
 
