@@ -68,16 +68,51 @@ Participants can participate in one or more of the following tracks:
 
 - **Track C: Cross-lingual Emotion Detection**: Given training and validation data in English, predict the emotion of a new text instance in a different target language from the set of six emotion classes: Joy, Sadness, Fear, Anger, Surprise, Disgust, or classified as Neutral.
 
+## Dataset
 
 ## Dataset Structure
 
-The dataset structure will vary depending on the track:
-
-- **Track 1**: [Example Text, Joy, Sadness, Fear, Anger, Surprise, Disgust, Neutral]
-- **Track 2**: [Example Text, 0,1,2,4]
-- **Track 3**: [Example Text, Joy, Sadness, Fear, Anger, Surprise, Disgust, Neutral]
-
 For each track, we provide the sample dataset, training dataset, and evaluation dataset in the [data folder](https://github.com/emotion-analysis-project/SemEval2025-task11/tree/main/data).
+
+
+The table below shows the languages of the different datasets, their sizes and the release status of their pilot sample, training, and development (dev) sets. Note that ✓ means released and can be found in the data folder.
+
+| No. | Language              | Code |  Pilot Data  | Training   | Dev   | Size   |
+|-----|-----------------------|------|-------------------|----------------------|----------------|--------|
+| 1   | Afrikaans             | AFR  |                   |                      |                |        |
+| 2   | Algerian Arabic       | ARQ  |                   |                      |                |        |
+| 3   | Amharic               | AMH  |                   |                      |                |        |
+| 4   | Arabic                | ARB  |                   |                      |                |        |
+| 5   | Brazilian Portuguese  | PTB  |                   |                      |                |        |
+| 6   | Chinese               | ZHO  | ✓                 |                      |                |        |
+| 7   | English               | ENG  |                   |                      |                |        |
+| 8   | German                | DEU  |                   |                      |                |        |
+| 9   | Hausa                 | HAU  | ✓                 |                      |                |        |
+| 10  | Hindi                 | HIN  |  ✓                    |                      |                |        |
+| 11  | Igbo                  | IBO  |                   |                      |                |        |
+| 12  | Indonesian            | IND  |                   |                      |                |        |
+| 13  | isiXhosa              | XHO  |                   |                      |                |        |
+| 14  | isiZulu               | ZUL  |                   |                      |                |        |
+| 15  | Javanese              | JAV  |                   |                      |                |        |
+| 16  | Kinyarwanda           | KIN  |                   |                      |                |        |
+| 17  | Marathi               | MAR  |  ✓                    |                      |                |        |
+| 18  | Moroccan Arabic       | ARY  |                   |                      |                |        |
+| 19  | Mozambican Portuguese | PTM  |                   |                      |                |        |
+| 20  | Nigerian-Pidgin       | PCM  |                   |                      |                |        |
+| 21  | Oromo                 | ORM  |                   |                      |                |        |
+| 22  | Romanian              | RON  |                   |                      |                |        |
+| 23  | Russian               | RUS  |                   |                      |                |        |
+| 24  | Setswana              | TSN  |                   |                      |                |        |
+| 25  | Somali                | SOM  |                   |                      |                |        |
+| 26  | Spanish               | SPA  |                   |                      |                |        |
+| 27  | Swahili               | SWA  |                   |                      |                |        |
+| 28  | Swedish               | SWE  |                   |                      |                |        |
+| 29  | Tatar                 | TAT  |                   |                      |                |        |
+| 30  | Tigrinya              | TIR  |                   |                      |                |        |
+| 31  | Ukrainian             | UKR  |                   |                      |                |        |
+| 32  | Xitsonga              | TSO  |                   |                      |                |        |
+| 33  | Yoruba                | YOR  |                   |                      |                |        |
+
 
 ## Evaluation
 
@@ -143,44 +178,7 @@ The task will be divided into three phases: Development, Evaluation, and Post-Ev
 5. **Submit**: Submit your predictions on the Codalab competition platform (link to be provided).
 
 
-## Data Release
-The table below shows the languages of the different datasets, their sizes and the release status of their pilot sample, training, and development (dev) sets. Note that ✓ means released and can be found in the data folder.
 
-| No. | Language              | Code |  Pilot Data  | Training   | Dev   | Size   |
-|-----|-----------------------|------|-------------------|----------------------|----------------|--------|
-| 1   | Afrikaans             | AFR  |                   |                      |                |        |
-| 2   | Algerian Arabic       | ARQ  |                   |                      |                |        |
-| 3   | Amharic               | AMH  |                   |                      |                |        |
-| 4   | Arabic                | ARB  |                   |                      |                |        |
-| 5   | Brazilian Portuguese  | PTB  |                   |                      |                |        |
-| 6   | Chinese               | ZHO  | ✓                 |                      |                |        |
-| 7   | English               | ENG  |                   |                      |                |        |
-| 8   | German                | DEU  |                   |                      |                |        |
-| 9   | Hausa                 | HAU  | ✓                 |                      |                |        |
-| 10  | Hindi                 | HIN  |  ✓                    |                      |                |        |
-| 11  | Igbo                  | IBO  |                   |                      |                |        |
-| 12  | Indonesian            | IND  |                   |                      |                |        |
-| 13  | isiXhosa              | XHO  |                   |                      |                |        |
-| 14  | isiZulu               | ZUL  |                   |                      |                |        |
-| 15  | Javanese              | JAV  |                   |                      |                |        |
-| 16  | Kinyarwanda           | KIN  |                   |                      |                |        |
-| 17  | Marathi               | MAR  |  ✓                    |                      |                |        |
-| 18  | Moroccan Arabic       | ARY  |                   |                      |                |        |
-| 19  | Mozambican Portuguese | PTM  |                   |                      |                |        |
-| 20  | Nigerian-Pidgin       | PCM  |                   |                      |                |        |
-| 21  | Oromo                 | ORM  |                   |                      |                |        |
-| 22  | Romanian              | RON  |                   |                      |                |        |
-| 23  | Russian               | RUS  |                   |                      |                |        |
-| 24  | Setswana              | TSN  |                   |                      |                |        |
-| 25  | Somali                | SOM  |                   |                      |                |        |
-| 26  | Spanish               | SPA  |                   |                      |                |        |
-| 27  | Swahili               | SWA  |                   |                      |                |        |
-| 28  | Swedish               | SWE  |                   |                      |                |        |
-| 29  | Tatar                 | TAT  |                   |                      |                |        |
-| 30  | Tigrinya              | TIR  |                   |                      |                |        |
-| 31  | Ukrainian             | UKR  |                   |                      |                |        |
-| 32  | Xitsonga              | TSO  |                   |                      |                |        |
-| 33  | Yoruba                | YOR  |                   |                      |                |        |
 
 ## Competition Rules and Terms
 <details>
