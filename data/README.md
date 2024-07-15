@@ -29,9 +29,6 @@ Here are the components of the dataset:
 | id                      | text                                                                                          | Joy | Fear | Anger | Sadness | Disgust | Neutral | Surprise |
 |-------------------------|-----------------------------------------------------------------------------------------------|-----|------|-------|---------|---------|---------|----------|
 | hau_sample_track1_00002 | The coronavirus was created to cause fear and panic among people                              | 0   | 1    | 1     | 0       | 0       | 0       | 0        |
-| hau_sample_track1_00003 | Tragedy: Pirates killed a young woman while she was undergoing Christian initiation rites      | 0   | 0    | 0     | 1       | 0       | 0       | 1        |
-| hau_sample_track1_00004 | Shehu Sani condemned those taking action on allegations of penis thefts in Abuja              | 0   | 0    | 1     | 0       | 1       | 0       | 0        |
-| hau_sample_track1_00005 | Five family members died mysteriously in Enugu State                                          | 0   | 0    | 0     | 1       | 0       | 0       | 1        |
 
 
 ### Track 2
