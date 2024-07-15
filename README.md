@@ -294,14 +294,14 @@ The table below shows the languages, their corresponding language codes, the sta
 | 7   | English               | ENG  |                   |                      |                |        |
 | 8   | German                | DEU  |                   |                      |                |        |
 | 9   | Hausa                 | HAU  | ✓                 |                      |                |        |
-| 10  | Hindi                 | HIN  |                   |                      |                |        |
+| 10  | Hindi                 | HIN  |  ✓                    |                      |                |        |
 | 11  | Igbo                  | IBO  |                   |                      |                |        |
 | 12  | Indonesian            | IND  |                   |                      |                |        |
 | 13  | isiXhosa              | XHO  |                   |                      |                |        |
 | 14  | isiZulu               | ZUL  |                   |                      |                |        |
 | 15  | Javanese              | JAV  |                   |                      |                |        |
 | 16  | Kinyarwanda           | KIN  |                   |                      |                |        |
-| 17  | Marathi               | MAR  |                   |                      |                |        |
+| 17  | Marathi               | MAR  |  ✓                    |                      |                |        |
 | 18  | Moroccan Arabic       | ARY  |                   |                      |                |        |
 | 19  | Mozambican Portuguese | PTM  |                   |                      |                |        |
 | 20  | Nigerian-Pidgin       | PCM  |                   |                      |                |        |
