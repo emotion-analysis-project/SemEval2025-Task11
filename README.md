@@ -388,7 +388,7 @@ We will soon release a dataset paper that describes the data collection, annotat
 
 <details>
   <summary>Our system did not perform very well, should I still write a system de
-
+</details>
 
 #  Resources
 
