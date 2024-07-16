@@ -320,6 +320,33 @@ We will soon release a dataset paper that describes the data collection, annotat
 
 
 
+## FAQs
+### Do I have to participate in all languages for a given track?
+No, you can participate in one or more languages.
+
+### How will you verify my submitted model?
+To be included in the final team rankings of our shared task, it is mandatory for participants to submit a system description paper describing their approaches and methodologies in detail, therefore ensuring scientific integrity.
+
+### When will you release the gold labels?
+For the dev set, the gold labels will be released when the evaluation phase starts and the gold labels for the different test sets will be released after the competition is over.
+
+### Can I use LLMs in the different tracks?
+Yes.
+
+### Will I be included in the final ranking if I do not write a system description paper?
+No. You MUST write a system description paper to be included in the final ranking.
+
+### I have never written a system description paper. How can I write one?
+We will have an online writing tutorial and share resources to help you write a system description paper. 
+
+### Do I need to pay conference registration fees and/or attend SemEval for my paper to be published?
+It is not required to attend the SemEval workshop for the paper to be published. You do not have to pay any registration fees if you do not attend the workshop 
+However, If you want to attend the workshop, you need to pay for attendance.
+
+### Our system did not perform very well, should I still write a system description paper?
+We want to hear from **all** of you even if you did not outperform other systems!
+Write about the details of your system. (**Yes we want your insights from any negative results!**)
+
 ##  Resources
 
 1. [SemEval 2025 Shared Tasks](https://semeval.github.io/SemEval2025/tasks)
