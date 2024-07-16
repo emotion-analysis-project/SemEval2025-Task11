@@ -72,12 +72,12 @@ Participants can participate in one or more of the following tracks:
 
 - **Track C: Cross-lingual Emotion Detection**: Given training and validation data in English, predict the emotion of a new text instance in a different target language from the set of six emotion classes: Joy, Sadness, Fear, Anger, Surprise, Disgust, or classified as Neutral.
 
-## Dataset
+## Data
 
-For each track, we provide the sample dataset, training dataset, and evaluation dataset in the [data folder](https://github.com/emotion-analysis-project/SemEval2025-task11/tree/main/data).
+For each track, we provide the sample, training, and evaluation datasets in the [data folder](https://github.com/emotion-analysis-project/SemEval2025-task11/tree/main/data).
 
 
-The table below shows the languages of the different datasets, their sizes and the release status of their pilot sample, training, and development (dev) sets. Note that ✓ means released and can be found in the data folder.
+The table below shows the languages of the different datasets, their sizes and the release status of their pilot samples, training, and development (dev) sets. Note that ✓ means released and can be found in the data folder.
 
 | No. | Language              | Code |  Pilot Data  | Training   | Dev   | Size   |
 |-----|-----------------------|------|-------------------|----------------------|----------------|--------|
