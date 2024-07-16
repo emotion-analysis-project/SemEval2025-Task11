@@ -18,13 +18,14 @@
   - [Track A: Multi-label Emotion Detection](#track-a-multi-label-emotion-detection)
   - [Track B: Emotion Intensity (ordinal)](#track-b-emotion-intensity-ordinal)
   - [Track C: Cross-lingual Emotion Detection](#track-c-cross-lingual-emotion-detection)
-- [Dataset](#dataset)
+- [Data](#data)
 - [Evaluation](#evaluation)
 - [Important Dates and Phases of the Task](#important-dates-and-phases-of-the-task)
 - [How to Participate](#how-to-participate)
 - [Competition Rules and Terms](#competition-rules-and-terms)
 - [Dataset Paper](#dataset-paper)
 - [Communication](#communication)
+- [FAQs](#faqs)
 - [Resources](#resources)
 - [Organizers](#organizers)
 
@@ -50,7 +51,7 @@ We acknowledge the importance of this distinction as perceived emotions can diff
 
 
 
-## Languages
+# Languages
 
 We include a large number of languages with many predominantly spoken in regions characterised by a relatively limited availability of NLP resources (e.g., Africa, Asia, Eastern Europe and Latin America):
 
@@ -60,19 +61,22 @@ We include a large number of languages with many predominantly spoken in regions
 
 
 
-## Tracks
+# Tracks
 
 Participants can participate in one or more of the following tracks:
 
 
-- **Track A: Multi-label Emotion Detection**: Given a set of labeled training data in a target language, predict one or more emotions that the speaker is likely feeling in the text from the following emotion classes and neutral: Joy, Sadness, Fear, Anger, Surprise, Disgust, or Neutral.
+## Track A: Multi-label Emotion Detection 
+Given a set of labeled training data in a target language, predict one or more emotions that the speaker is likely feeling in the text from the following emotion classes and neutral: Joy, Sadness, Fear, Anger, Surprise, Disgust, or Neutral.
 
-- **Track B: Emotion Intensity (ordinal)**: Given a set of labeled training data in a target language annotated with emotion, classify the text into one of four ordinal classes of intensity that best represents the emotional state of the writer:
+## Track B: Emotion Intensity (ordinal) 
+Given a set of labeled training data in a target language annotated with emotion, classify the text into one of four ordinal classes of intensity that best represents the emotional state of the writer:
 (1) No emotion, (2),  A low amount of emotion (3) A moderate amount of emotion (4) A high amount of emotion
 
-- **Track C: Cross-lingual Emotion Detection**: Given training and validation data in English, predict the emotion of a new text instance in a different target language from the set of six emotion classes: Joy, Sadness, Fear, Anger, Surprise, Disgust, or classified as Neutral.
+## Track C: Cross-lingual Emotion Detection 
+Given training and validation data in English, predict the emotion of a new text instance in a different target language from the set of six emotion classes: Joy, Sadness, Fear, Anger, Surprise, Disgust, or classified as Neutral.
 
-## Data
+# Data
 
 For each track, we provide the sample, training, and evaluation datasets in the [data folder](https://github.com/emotion-analysis-project/SemEval2025-task11/tree/main/data).
 
@@ -116,11 +120,11 @@ The table below shows the languages of the different datasets, their sizes and t
 | 33  | Yoruba                | YOR  |                   |                      |                |        |
 
 
-## Evaluation
+# Evaluation
 
 The performance of each submission will be evaluated using F1-score based on the predicted labels and the gold ones. Participants will be provided with an evaluation script and a starter kit that includes a simple baseline.
 
-## Important Dates and Phases of the Task
+# Important Dates and Phases of the Task
 
 
 | Description                   | Deadline                                        |
@@ -171,7 +175,7 @@ The task will be divided into three phases: Development, Evaluation, and Post-Ev
 
 
 
-## How to Participate
+# How to Participate
 
 1. **Register**: Sign up on the Codalab competition platform (link to be provided).
 2. **Track**: Decide on the track(s) you want to participate in (Track A, B and/or C)
@@ -182,7 +186,7 @@ The task will be divided into three phases: Development, Evaluation, and Post-Ev
 
 
 
-## Competition Rules and Terms
+# Competition Rules and Terms
 <details>
   <summary>1. Consent to Public Release of Scores</summary>
   <ul>
@@ -307,12 +311,12 @@ The task will be divided into three phases: Development, Evaluation, and Post-Ev
   </ul>
 </details>
 
-## Dataset paper
+# Dataset paper
 
 We will soon release a dataset paper that describes the data collection, annotation process, and baseline experiments. This paper will provide additional details and information that will be useful for the task participants.
 
 
-## Communication
+# Communication
 
 - Join our Discord Channel to ask questions and receive updates (coming soon).
 - If you have any questions or issues, please feel free to [create an issue](https://github.com/emotion-analysis-project/SemEval2025-task11/issues).
@@ -320,34 +324,34 @@ We will soon release a dataset paper that describes the data collection, annotat
 
 
 
-## FAQs
-### Do I have to participate in all languages for a given track?
+# FAQs
+## Do I have to participate in all languages for a given track?
 No, you can participate in one or more languages.
 
-### How will you verify my submitted model?
+## How will you verify my submitted model?
 To be included in the final team rankings of our shared task, it is mandatory for participants to submit a system description paper describing their approaches and methodologies in detail, therefore ensuring scientific integrity.
 
-### When will you release the gold labels?
+## When will you release the gold labels?
 For the dev set, the gold labels will be released when the evaluation phase starts and the gold labels for the different test sets will be released after the competition is over.
 
-### Can I use LLMs in the different tracks?
+## Can I use LLMs in the different tracks?
 Yes.
 
-### Will I be included in the final ranking if I do not write a system description paper?
+## Will I be included in the final ranking if I do not write a system description paper?
 No. You MUST write a system description paper to be included in the final ranking.
 
-### I have never written a system description paper. How can I write one?
+## I have never written a system description paper. How can I write one?
 We will have an online writing tutorial and share resources to help you write a system description paper. 
 
-### Do I need to pay conference registration fees and/or attend SemEval for my paper to be published?
+## Do I need to pay conference registration fees and/or attend SemEval for my paper to be published?
 It is not required to attend the SemEval workshop for the paper to be published. You do not have to pay any registration fees if you do not attend the workshop 
 However, If you want to attend the workshop, you need to pay for attendance.
 
-### Our system did not perform very well, should I still write a system description paper?
+## Our system did not perform very well, should I still write a system description paper?
 We want to hear from **all** of you even if you did not outperform other systems!
 Write about the details of your system. (**Yes we want your insights from any negative results!**)
 
-##  Resources
+#  Resources
 
 1. [SemEval 2025 Shared Tasks](https://semeval.github.io/SemEval2025/tasks)
 2. [Frequently Asked Questions about SemEval](https://semeval.github.io/faq.html)
@@ -359,7 +363,7 @@ Write about the details of your system. (**Yes we want your insights from any ne
 8. Paper submission link (to be added)
 
 
-## References 
+# References 
 Janyce Wiebe, Theresa Wilson, and Claire Cardie. "Annotating expressions of opinions and emotions in language." Language resources and evaluation 39 (2005): 165-210.
 
 Saif M. Mohammad,, and Svetlana Kiritchenko. "Understanding Emotions: A Dataset of Tweets to Study Interactions between Affect Categories." Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018). 2018.
@@ -375,4 +379,4 @@ Saif M.  Mohammad "Ethics sheet for automatic emotion recognition and sentiment 
 Saif M. Mohammad "Best Practices in the Creation and Use of Emotion Lexicons." Findings of the Association for Computational Linguistics: EACL 2023. 2023.
 
 
-## Organizers
+# Organizers
