@@ -354,9 +354,9 @@ Write about the details of your system. (**Yes we want your insights from any ne
 3. [Paper Submission Requirements](https://semeval.github.io/paper-requirements.html)
 4. [Guidelines for Writing Papers](https://semeval.github.io/system-paper-template.html)
 5. [Paper style files](https://github.com/acl-org/acl-style-files)
-6. [Previous shared-tasks on emotion detection](#)
-7. [Resources for Beginners](#)
-8. Paper submission link (TBD)
+6. Previous shared-tasks on emotion detection (to be added)
+7. Resources for Beginners (to be added)
+8. Paper submission link (to be added)
 
 
 ## References 
