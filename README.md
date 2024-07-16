@@ -10,6 +10,17 @@
 
  -->
 
+<!--  <p align="center" style="max-width: 80%; margin: 0 auto;">
+  <img src="assets/task11.png" style="width: 100%; height: auto;" />
+    <h1 align="center"> </h1>
+</p>
+
+
+
+![Visitor Count](https://komarev.com/ghpvc/?username=emotion-analysis-project&repo=SemEval2025-task11&color=green)
+
+ -->
+
 # SemEval-2025 Task 11: Bridging the Gap in Text-Based Emotion Detection 😔😱😡
 
 - [Emotion Recognition in Text](#emotion-recognition-in-text)
@@ -69,12 +80,13 @@ Participants can participate in one or more of the following tracks:
 ## Track A: Multi-label Emotion Detection 
 Given a set of labeled training data in a target language, predict one or more emotions that the speaker is likely feeling in the text from the following emotion classes and neutral: Joy, Sadness, Fear, Anger, Surprise, Disgust, or Neutral.
 
-## Track B: Emotion Intensity (ordinal) 
-Given a set of labeled training data in a target language annotated with emotion, classify the text into one of four ordinal classes of intensity that best represents the emotional state of the writer:
-(1) No emotion, (2),  A low amount of emotion (3) A moderate amount of emotion (4) A high amount of emotion
+## Track B: Emotion Intensity
+Given a labeled training set in a target language, classify the emotion intensity of the annotated text into one of the four (ordinal) classes that represents the perceived emotional state of the writer best. The classes are:
+
+(0) for no emotion, (1) for a low amount of emotion, (2) for a moderate amount of emotion, and (3) represents a high amount of emotion.
 
 ## Track C: Cross-lingual Emotion Detection 
-Given training and validation data in English, predict the emotion of a new text instance in a different target language from the set of six emotion classes: Joy, Sadness, Fear, Anger, Surprise, Disgust, or classified as Neutral.
+Given training and validation sets in English, predict the perceived emotion of a new text instance in a different target language given the set of the six emotion classes: Joy, Sadness, Fear, Anger, Surprise, Disgust, or classified as Neutral.
 
 # Data
 
@@ -325,62 +337,31 @@ We will soon release a dataset paper that describes the data collection, annotat
 
 
 # FAQs
-<details>
-  <summary>Do I have to participate in all languages for a given track?</summary>
-  <ul>
-    <li>No, you can participate in one or more languages.</li>
-  </ul>
-</details>
+## Do I have to participate in all languages for a given track?
+No, you can participate in one or more languages.
 
-<details>
-  <summary>How will you verify my submitted model?</summary>
-  <ul>
-    <li>To be included in the final team rankings of our shared task, it is mandatory for participants to submit a system description paper describing their approaches and methodologies in detail, therefore ensuring scientific integrity.</li>
-  </ul>
-</details>
+## How will you verify my submitted model?
+To be included in the final team rankings of our shared task, it is mandatory for participants to submit a system description paper describing their approaches and methodologies in detail, therefore ensuring scientific integrity.
 
-<details>
-  <summary>When will you release the gold labels?</summary>
-  <ul>
-    <li>For the dev set, the gold labels will be released when the evaluation phase starts and the gold labels for the different test sets will be released after the competition is over.</li>
-  </ul>
-</details>
+## When will you release the gold labels?
+For the dev set, the gold labels will be released when the evaluation phase starts and the gold labels for the different test sets will be released after the competition is over.
 
-<details>
-  <summary>Can I use LLMs in the different tracks?</summary>
-  <ul>
-    <li>Yes.</li>
-  </ul>
-</details>
+## Can I use LLMs in the different tracks?
+Yes.
 
-<details>
-  <summary>Will I be included in the final ranking if I do not write a system description paper?</summary>
-  <ul>
-    <li>No. You MUST write a system description paper to be included in the final ranking.</li>
-  </ul>
-</details>
+## Will I be included in the final ranking if I do not write a system description paper?
+No. You MUST write a system description paper to be included in the final ranking.
 
-<details>
-  <summary>I have never written a system description paper. How can I write one?</summary>
-  <ul>
-    <li>We will have an online writing tutorial and share resources to help you write a system description paper.</li>
-  </ul>
-</details>
+## I have never written a system description paper. How can I write one?
+We will have an online writing tutorial and share resources to help you write a system description paper. 
 
-<details>
-  <summary>Do I need to pay conference registration fees and/or attend SemEval for my paper to be published?</summary>
-  <ul>
-    <li>It is not required to attend the SemEval workshop for the paper to be published. You do not have to pay any registration fees if you do not attend the workshop. However, if you want to attend the workshop, you need to pay for attendance.</li>
-  </ul>
-</details>
+## Do I need to pay conference registration fees and/or attend SemEval for my paper to be published?
+It is not required to attend the SemEval workshop for the paper to be published. You do not have to pay any registration fees if you do not attend the workshop 
+However, If you want to attend the workshop, you need to pay for attendance.
 
-<details>
-  <summary>Our system did not perform very well, should I still write a system description paper?</summary>
-  <ul>
-    <li>We want to hear from <strong>all</strong> of you even if you did not outperform other systems! Write about the details of your system. (<strong>Yes, we want your insights from any negative results!</strong>)</li>
-  </ul>
-</details>
-
+## Our system did not perform very well, should I still write a system description paper?
+We want to hear from **all** of you even if you did not outperform other systems!
+Write about the details of your system. (**Yes we want your insights from any negative results!**)
 
 #  Resources
 
@@ -411,3 +392,4 @@ Saif M. Mohammad "Best Practices in the Creation and Use of Emotion Lexicons." F
 
 
 # Organizers
+
