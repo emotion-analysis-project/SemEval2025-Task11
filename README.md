@@ -79,15 +79,15 @@ We include a large number of languages with many predominantly spoken in regions
 Participants can participate in one or more of the following tracks:
 
 
-## Track A: Multi-label Emotion Detection 
+### Track A: Multi-label Emotion Detection 
 Given a set of labeled training data in a target language, predict one or more emotions that the speaker is likely feeling in the text from the following emotion classes and neutral: Joy, Sadness, Fear, Anger, Surprise, Disgust, or Neutral.
 
-## Track B: Emotion Intensity
+### Track B: Emotion Intensity
 Given a labeled training set in a target language, classify the emotion intensity of the annotated text into one of the four (ordinal) classes that represents the perceived emotional state of the writer best. The classes are:
 
 (0) for no emotion, (1) for a low amount of emotion, (2) for a moderate amount of emotion, and (3) represents a high amount of emotion.
 
-## Track C: Cross-lingual Emotion Detection 
+### Track C: Cross-lingual Emotion Detection 
 Given training and validation sets in English, predict the perceived emotion of a new text instance in a different target language given the set of the six emotion classes: Joy, Sadness, Fear, Anger, Surprise, Disgust, or classified as Neutral.
 
 # Data
