@@ -390,7 +390,11 @@ We will soon release a dataset paper that describes the data collection, annotat
 </details>
 
 <details>
-  <summary>Our system did not perform very well, should I still write a system de
+  <summary> ## Our system did not perform very well, should I still write a system description paper? </summary>
+ <ul>
+    <li> We want to hear from **all** of you even if you did not outperform other systems!Write about the details of your system. (**Yes we want your insights from any negative results!**)</li>
+  </ul>
+
 </details>
 
 #  Resources
