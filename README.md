@@ -25,9 +25,6 @@
 
 # SemEval-2025 Task 11: Bridging the Gap in Text-Based Emotion Detection 😔😱😡
 
-[Join the organizers' Google Group](mailto:emotion-semeval-2025-participants@googlegroups.com) | 
-
-
 - [Emotion Recognition in Text](#emotion-recognition-in-text)
 - [Languages](#languages)
 - [Tracks](#tracks)
