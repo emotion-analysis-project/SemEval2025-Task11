@@ -295,7 +295,7 @@ The task will be divided into three phases: Development, Evaluation, and Post-Ev
 </details>
 
 <details>
-  <summary>10. Disclaimer on Datasets</summary>
+  <summary>10. Disclaimer about the Datasets</summary>
   <ul>
     <li>Organizers and affiliated institutions provide no warranties on dataset correctness or completeness.</li>
     <li>They are not liable for dataset access or usage.</li>
