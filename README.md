@@ -127,7 +127,7 @@ The table below shows the languages of the different datasets, their sizes and t
 | 23  | Russian               | RUS  |   ✓                   |                      |                |        |
 | 24  | Setswana              | TSN  |                   |                      |                |        |
 | 25  | Somali                | SOM  |   ✓                   |                      |                |        |
-| 26  | Spanish               | SPA  |                   |                      |                |        |
+| 26  | Spanish               | SPA  |   ✓                  |                      |                |        |
 | 27  | Swahili               | SWA  |                   |                      |                |        |
 | 28  | Swedish               | SWE  |                   |                      |                |        |
 | 29  | Tatar                 | TAT  |  ✓                    |                      |                |        |
