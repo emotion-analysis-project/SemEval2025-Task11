@@ -21,10 +21,12 @@
 
  -->
 
-[Join the organizers' Google Group](https://groups.google.com/g/emotion-semeval-2025-participants)
 
 
 # SemEval-2025 Task 11: Bridging the Gap in Text-Based Emotion Detection 😔😱😡
+
+[Google Group](https://groups.google.com/g/emotion-semeval-2025-participants)
+
 
 - [Emotion Recognition in Text](#emotion-recognition-in-text)
 - [Languages](#languages)
