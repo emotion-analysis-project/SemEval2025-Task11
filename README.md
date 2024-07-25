@@ -418,9 +418,9 @@ Saif M. Mohammad,, and Svetlana Kiritchenko. "Understanding Emotions: A Dataset 
 
 Saif M. Mohammad, Felipe Bravo-Marquez, Mohammad Salameh, and Svetlana Kiritchenko. In Proceedings of the International Workshop on Semantic Evaluation (SemEval-2018), New Orleans, LA, USA, June 2018.
 
-Lieve Van Woensel and Nissy Nevil. 2019. What if your emotions were tracked to spy on you? European Parliamentary Research Service, PE 634.415. https://www.europarl.europa.eu /RegData/etudes/ATAG/2019/6344 15/EPRS_ATA(2019)634415_EN.pdf.
+Lieve Van Woensel and Nissy Nevil. 2019. What if your emotions were tracked to spy on you? European Parliamentary Research Service, PE 634.415. https://www.europarl.europa.eu/RegData/etudes/ATAG/2019/6344 15/EPRS_ATA(2019)634415_EN.pdf.
 
-Jane Wakefield. 2021. AI emotion-detection software tested on Uyghurs. BBC. https://www.bbc.com/news/techn ology- 57101248.
+Jane Wakefield. 2021. AI emotion-detection software tested on Uyghurs. BBC. https://www.bbc.com/news/technology- 57101248.
 
 Saif M.  Mohammad "Ethics sheet for automatic emotion recognition and sentiment analysis." Computational Linguistics 48.2 (2022): 239-278.
 
