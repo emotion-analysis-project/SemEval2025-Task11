@@ -114,8 +114,7 @@ To download the datasets using gdown, follow these steps:
 
 2. Use the following commands to download the datasets using provided IDs:
 
-
-  ```gdown --folder https://drive.google.com/drive/folders/<file_id>```
+   ```gdown --folder https://drive.google.com/drive/folders/<file_id> ```
 
   
 The training and evaluation data links will be updated soon. Stay tuned!
