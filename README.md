@@ -100,7 +100,7 @@ For each track, we provide the sample, training, and evaluation datasets. Find t
 
 - Track A : [Sample Data](https://drive.google.com/drive/folders/1yL410uz_tRZ5475HiWitazj36duhPO_t?usp=share_link) | [Training Data](#) | [Evaluation Data](#) 
 
-- Track B : [Sample Data](https://drive.google.com/drive/folders/1Pvptx6XDsfLcR0IGvGUV4ZDD1qezyzUo?usp=sharing) | [Training Data](#) | [Evaluation Data](#) 
+- Track B : [Sample Data](https://drive.google.com/drive/folders/19MQVu58fPymWXfJabVyBRtBZw8P01NT4?usp=share_link) | [Training Data](#) | [Evaluation Data](#) 
 
 - Track C : [Sample Data](https://drive.google.com/drive/folders/1Pvptx6XDsfLcR0IGvGUV4ZDD1qezyzUo?usp=sharing) | [Training Data](#) |  [Evaluation Data](#) 
 
