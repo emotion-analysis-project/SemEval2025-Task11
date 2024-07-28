@@ -94,7 +94,7 @@ Given a labeled training set in a target language, classify the emotion intensit
 Given training and validation sets in English, predict the perceived emotion of a new text instance in a different target language given the set of the six emotion classes: Joy, Sadness, Fear, Anger, Surprise, Disgust, or classified as Neutral.
 
 
-# Dataset Download Links
+# Dataset and Download Links
 
 For each track, we provide the sample, training, and evaluation datasets. Find the links to download the datasets for each track below:
 
