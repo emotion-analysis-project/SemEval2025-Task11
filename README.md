@@ -101,8 +101,8 @@ For each track, we provide the sample, training, and evaluation datasets. Find t
 | Track | Drive Link | File ID |
 |-------|------------|---------|
 | Track A | [Track A Dataset](https://drive.google.com/drive/folders/1Pvptx6XDsfLcR0IGvGUV4ZDD1qezyzUo?usp=share_link) | `1Pvptx6XDsfLcR0IGvGUV4ZDD1qezyzUo` |
-| Track B  | [Track B Dataset]](https://drive.google.com/drive/folders/1OCzDN5RuWdos47P3TvIzIqVcspf1_4yZ?usp=share_link) | `1OCzDN5RuWdos47P3TvIzIqVcspf1_4yZ` |
-| Track C | [Track C Dataset]](#) | `` |
+| Track B  | [Track B Dataset](https://drive.google.com/drive/folders/1OCzDN5RuWdos47P3TvIzIqVcspf1_4yZ?usp=share_link) | `1OCzDN5RuWdos47P3TvIzIqVcspf1_4yZ` |
+| Track C | [Track C Dataset](#) | `` |
 | All Tracks | [All Tracks](https://drive.google.com/drive/folders/1vYggpyd0O0FNL99OvHHUp_wsCKVOcZWn?usp=share_link) | `1vYggpyd0O0FNL99OvHHUp_wsCKVOcZWn` |
 
 
