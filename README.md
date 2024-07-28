@@ -106,10 +106,6 @@ For each track, we provide the sample, training, and evaluation datasets. Find t
 
 - Complete Dataset :  [Sample Data](https://drive.google.com/drive/folders/1Pvptx6XDsfLcR0IGvGUV4ZDD1qezyzUo?usp=sharing)
 
-The training and evaluation data links will be updated soon. Stay tuned!
-
-## Downloading Datasets using gdown
-
 To download the datasets using gdown, follow these steps:
 
 1. Install gdown if you haven't already:
@@ -122,6 +118,7 @@ To download the datasets using gdown, follow these steps:
   ```gdown --folder https://drive.google.com/drive/folders/<file_id>```
 
   
+The training and evaluation data links will be updated soon. Stay tuned!
 
 
 The table below shows the languages of the different datasets, their sizes and the release status of their pilot samples, training, and development (dev) sets. Note that ✓ means released and can be found in the data folder.
