@@ -98,29 +98,13 @@ Given training and validation sets in English, predict the perceived emotion of 
 
 For each track, we provide the sample, training, and evaluation datasets. Find the links to download the datasets for each track below:
 
-#### Track A
-- [Sample Data](https://drive.google.com/drive/folders/1Pvptx6XDsfLcR0IGvGUV4ZDD1qezyzUo?usp=sharing)
-- [Training Data](#) *(Link to be updated)*
-- [Evaluation Data](#) *(Link to be updated)*
+- Track A : [Sample Data](https://drive.google.com/drive/folders/1Pvptx6XDsfLcR0IGvGUV4ZDD1qezyzUo?usp=sharing) | [Training Data](#) | [Evaluation Data](#) 
 
-#### Track B
-- [Sample Data](https://drive.google.com/drive/folders/1Pvptx6XDsfLcR0IGvGUV4ZDD1qezyzUo?usp=sharing)
-- [Training Data](#) *(Link to be updated)*
-- [Evaluation Data](#) *(Link to be updated)*
+- Track B : [Sample Data](https://drive.google.com/drive/folders/1Pvptx6XDsfLcR0IGvGUV4ZDD1qezyzUo?usp=sharing) | [Training Data](#) | [Evaluation Data](#) 
 
-#### Track C
-- [Sample Data](https://drive.google.com/drive/folders/1Pvptx6XDsfLcR0IGvGUV4ZDD1qezyzUo?usp=sharing)
-- [Training Data](#) *(Link to be updated)*
-- [Evaluation Data](#) *(Link to be updated)*
+_  Track C : [Sample Data](https://drive.google.com/drive/folders/1Pvptx6XDsfLcR0IGvGUV4ZDD1qezyzUo?usp=sharing) | [Training Data](#) |  [Evaluation Data](#) 
 
 The training and evaluation data links will be updated soon. Stay tuned!
-
-
-For each track, we provide the sample, training, and evaluation datasets 
-
-- Track A: [Sample data](https://drive.google.com/drive/folders/1Pvptx6XDsfLcR0IGvGUV4ZDD1qezyzUo?usp=sharing),| [training data](#) | [evaluation data](#)
-- Track B: [Sample data](https://drive.google.com/drive/folders/1Pvptx6XDsfLcR0IGvGUV4ZDD1qezyzUo?usp=sharing)  | [training data](#) | [evaluation data](#)
-- Track c: [Sample data](https://drive.google.com/drive/folders/1Pvptx6XDsfLcR0IGvGUV4ZDD1qezyzUo?usp=sharing) |  [training data](#) | [evaluation data](#)
 
 
 The table below shows the languages of the different datasets, their sizes and the release status of their pilot samples, training, and development (dev) sets. Note that ✓ means released and can be found in the data folder.
