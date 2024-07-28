@@ -102,7 +102,7 @@ For each track, we provide the sample, training, and evaluation datasets. Find t
 
 - Track B : [Sample Data](https://drive.google.com/drive/folders/1Pvptx6XDsfLcR0IGvGUV4ZDD1qezyzUo?usp=sharing) | [Training Data](#) | [Evaluation Data](#) 
 
-_  Track C : [Sample Data](https://drive.google.com/drive/folders/1Pvptx6XDsfLcR0IGvGUV4ZDD1qezyzUo?usp=sharing) | [Training Data](#) |  [Evaluation Data](#) 
+- Track C : [Sample Data](https://drive.google.com/drive/folders/1Pvptx6XDsfLcR0IGvGUV4ZDD1qezyzUo?usp=sharing) | [Training Data](#) |  [Evaluation Data](#) 
 
 The training and evaluation data links will be updated soon. Stay tuned!
 
