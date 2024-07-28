@@ -34,7 +34,7 @@
   - [Track A: Multi-label Emotion Detection](#track-a-multi-label-emotion-detection)
   - [Track B: Emotion Intensity (ordinal)](#track-b-emotion-intensity-ordinal)
   - [Track C: Cross-lingual Emotion Detection](#track-c-cross-lingual-emotion-detection)
-- [Data](#data)
+- [Data](#Dataset-Download-Links)
 - [Evaluation](#evaluation)
 - [Important Dates and Phases of the Task](#important-dates-and-phases-of-the-task)
 - [How to Participate](#how-to-participate)
