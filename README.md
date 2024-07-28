@@ -119,10 +119,6 @@ To download the datasets using gdown, follow these steps:
 
    ```gdown --folder https://drive.google.com/drive/folders/<file_id> ```
 
-  
-The training and evaluation data links will be updated soon. Stay tuned!
-
-
 The table below shows the languages of the different datasets, their sizes and the release status of their pilot samples, training, and development (dev) sets. Note that ✓ means released and can be found in the data folder.
 
 | No. | Language              | Code |  Pilot Data  | Training   | Dev   | Size   |
