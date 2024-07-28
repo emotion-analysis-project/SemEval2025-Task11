@@ -1,0 +1,4 @@
+# .gitignore
+
+# Exclude the data folder
+/data/
