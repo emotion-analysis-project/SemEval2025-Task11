@@ -98,7 +98,7 @@ Given training and validation sets in English, predict the perceived emotion of 
 
 For each track, we provide the sample, training, and evaluation datasets. Find the links to download the datasets for each track below:
 
-- Track A : [Sample Data](https://drive.google.com/drive/folders/1Pvptx6XDsfLcR0IGvGUV4ZDD1qezyzUo?usp=sharing) | [Training Data](#) | [Evaluation Data](#) 
+- Track A : [Sample Data](https://drive.google.com/drive/folders/1Pvptx6XDsfLcR0IGvGUV4ZDD1qezyzUo?usp=share_link) | [Training Data](#) | [Evaluation Data](#) 
 
 - Track B : [Sample Data](https://drive.google.com/drive/folders/1Pvptx6XDsfLcR0IGvGUV4ZDD1qezyzUo?usp=sharing) | [Training Data](#) | [Evaluation Data](#) 
 
