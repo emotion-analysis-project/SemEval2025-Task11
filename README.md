@@ -106,7 +106,7 @@ For each track, we provide the sample, training, and evaluation datasets. Find t
 | All Tracks | [Complete Dataset](https://drive.google.com/drive/folders/1vYggpyd0O0FNL99OvHHUp_wsCKVOcZWn?usp=share_link) | `1vYggpyd0O0FNL99OvHHUp_wsCKVOcZWn` |
 
 
-To download the datasets using gdown, follow these steps:
+Download the dataset using [gdown](https://github.com/wkentaro/gdown):
 
 1. Install gdown if you haven't already:
 
