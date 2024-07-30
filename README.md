@@ -23,7 +23,7 @@
 
 
 
-# SemEval-2025 Task 11: Bridging the Gap in Text-Based Emotion Detection 😔😱😡
+# SemEval-2025 Task 11: Bridging the Gap in Text-Based Emotion Detection
 
 [Google Group](https://groups.google.com/g/emotion-semeval-2025-participants) | [Create an Issue](https://github.com/emotion-analysis-project/SemEval2025-task11/issues) | [Join Discord](#) | [Contact Us](#)
 
