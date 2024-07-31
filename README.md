@@ -86,9 +86,11 @@ Participants can participate in one or more of the following tracks:
 Given a set of labeled training data in a target language, predict one or more emotions in the text from the following emotion classes: **Joy**, **Sadness**, **Fear**, **Anger**, **Surprise**, or **Disgust**. If an instance does not exhibit any of these emotions, it will be labeled as **Neutral**.
 
 ### Track B: Emotion Intensity
-Given a labeled training set in a target language, classify the emotion intensity of the annotated text into one of the four (ordinal) classes that represents the perceived emotional state of the writer best. The classes are:
+Given a labeled training set in a target language, classify the emotion intensity of the annotated text into one of the four (ordinal) classes. The classes are:
 
-(0) for no emotion, (1) for a low amount of emotion, (2) for a moderate amount of emotion, and (3) represents a high amount of emotion.
+(**0**) for no emotion, (**1**) for a low level of emotion, (**2**) for a moderate level of emotion, and (**3**) for a high level of emotion.
+
+The (**0**) for no emotion indicates that the text does not have any of the 6 emotion labels. The emotion classes remain the same as listed in Track A: **Joy**, **Sadness**, **Fear**, **Anger**, **Surprise**, or **Disgust**.
 
 ### Track C: Cross-lingual Emotion Detection 
 Given training and validation sets in English, predict the perceived emotion of a new text instance in a different target language given the set of the six emotion classes: Joy, Sadness, Fear, Anger, Surprise, Disgust, or classified as Neutral.
