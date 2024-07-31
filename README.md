@@ -67,7 +67,7 @@ We acknowledge the importance of this distinction as perceived emotions can diff
 
 
 
-# <a name="Languages"> Languages </a>
+# Languages
 
 We include a large number of languages with many predominantly spoken in regions characterised by a relatively limited availability of NLP resources (e.g., Africa, Asia, Eastern Europe and Latin America):
 
@@ -93,7 +93,7 @@ Given a labeled training set in a target language, classify the emotion intensit
 The (**0**) for no emotion indicates that the text does not have any of the 6 emotion labels. The emotion classes remain the same as listed in Track A: **Joy**, **Sadness**, **Fear**, **Anger**, **Surprise**, or **Disgust**.
 
 ### Track C: Cross-lingual Emotion Detection 
-Given a labeled training set in one of the languages given [above](#Languages), predict the emotion labels of a new text instance in a different target language using the set of six emotion classes:**Joy**, **Sadness**, **Fear**, **Anger**, **Surprise**, or **Disgust**. The objective of this task is to evaluate the effectiveness of transfer learning in enhancing emotion detection across different languages.
+Given a labeled training set in one of the languages given [above](#languages), predict the emotion labels of a new text instance in a different target language using the set of six emotion classes:**Joy**, **Sadness**, **Fear**, **Anger**, **Surprise**, or **Disgust**. The objective of this task is to evaluate the effectiveness of transfer learning in enhancing emotion detection across different languages.
 
 
 # Dataset and Download Links
