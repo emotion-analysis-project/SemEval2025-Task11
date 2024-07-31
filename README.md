@@ -83,7 +83,7 @@ Participants can participate in one or more of the following tracks:
 
 
 ### Track A: Multi-label Emotion Detection 
-Given a set of labeled training data in a target language, predict one or more emotions that the speaker is likely feeling in the text from the following emotion classes and neutral: Joy, Sadness, Fear, Anger, Surprise, Disgust, or Neutral.
+Given a set of labeled training data in a target language, predict one or more emotions in the text from the following emotion classes: **Joy**, **Sadness**, **Fear**, **Anger**, **Surprise**, or **Disgust**. If an instance does not exhibit any of these emotions, it will be labeled as **Neutral**.
 
 ### Track B: Emotion Intensity
 Given a labeled training set in a target language, classify the emotion intensity of the annotated text into one of the four (ordinal) classes that represents the perceived emotional state of the writer best. The classes are:
