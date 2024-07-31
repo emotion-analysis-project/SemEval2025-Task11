@@ -448,7 +448,7 @@ Saif M. Mohammad "Best Practices in the Creation and Use of Emotion Lexicons." F
 # Organizers
 
 
-## License
+# License
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
