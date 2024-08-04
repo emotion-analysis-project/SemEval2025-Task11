@@ -4,10 +4,11 @@
     <h1 align="center"> </h1>
 </p>
 
+<!-- 
 [Visitor Count](https://komarev.com/ghpvc/?username=emotion-analysis-project&repo=SemEval2025-task11&color=green)
 
 
-<!--  <p align="center" style="max-width: 80%; margin: 0 auto;">
+ <p align="center" style="max-width: 80%; margin: 0 auto;">
   <img src="assets/task11.png" style="width: 100%; height: auto;" />
     <h1 align="center"> </h1>
 </p>
