@@ -14,7 +14,7 @@
 
 <style>
   img {
-    margin-bottom: -50px; 
+    margin-bottom: -20px; 
   }
   h1, p {
     margin-top: -10px; 
