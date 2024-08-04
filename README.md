@@ -12,6 +12,14 @@
   <h1 align="center"> </h1>
 </p>
 
+<style>
+  img {
+    margin-bottom: -20px; 
+  }
+  h1, p {
+    margin-top: -10px; 
+  }
+</style>
 
 <!-- 
 [Visitor Count](https://komarev.com/ghpvc/?username=emotion-analysis-project&repo=SemEval2025-task11&color=green)
