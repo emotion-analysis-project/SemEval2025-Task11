@@ -444,7 +444,7 @@ Shamsuddeen Hassan Muhammad, [Seid Muhie Yimam ](https://seyyaw.github.io/) , [N
 Idris Abdulmumin, Ibrahim Said Ahmad, Alham Fikri Aji, Vladimir Araujo
 Abinew Ali Ayele, Tadesse Destaw Belay, David Ifeoluwa Adelani, Daniela Teodorescu,
 Jan Philip Wahle, Terry Ruas, Nirmal Surange, Yi Zhou,
-Alexander Panchenko, Vukosi Marivate, Saif M. Mohammad
+Alexander Panchenko, Vukosi Marivate, [Saif M. Mohammad](https://www.saifmohammad.com/)
 
 # License
 
