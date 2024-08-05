@@ -8,7 +8,7 @@
  -->
 
 <p align="center" style="overflow: hidden; height: 300px; width: 400px; position: relative;">
-  <img align="center" src="assets/20240731_145513.png" style="position: absolute; top: -50px; width: 100%;" />
+  <img align="center" src="assets/20240731_145513.png" style="position: absolute; bottom: -50px; width: 100%;" />
 </p>
 
 
