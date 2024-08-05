@@ -440,6 +440,11 @@ Saif M. Mohammad "Best Practices in the Creation and Use of Emotion Lexicons." F
 
 # Organizers
 
+Shamsuddeen Hassan Muhammad, [Seid Muhie Yimam](https://seyyaw.github.io/) , Nedjma Ousidhoum3,
+Idris Abdulmumin4, Ibrahim Said Ahmad5, Alham Fikri Aji6, Vladimir Araujo7
+Abinew Ali Ayele2, Tadesse Destaw Belay8, David Ifeoluwa Adelani9, Daniela Teodorescu10,
+Jan Philip Wahle11, Terry Ruas11, Nirmal Surange12, Yi Zhou3,
+Alexander Panchenko13, Vukosi Marivate4, Saif M. Mohammad
 
 # License
 
