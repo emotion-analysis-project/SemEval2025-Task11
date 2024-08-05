@@ -446,12 +446,24 @@ Saif M. Mohammad "Best Practices in the Creation and Use of Emotion Lexicons." F
 [Jan Philip Wahle](https://jpwahle.com/), [Terry Ruas](https://terryruas.com/), Nirmal Surange, Yi Zhou,
 [Alexander Panchenko](https://faculty.skoltech.ru/people/alexanderpanchenko), [Vukosi Marivate](https://www.vima.co.za/), [Saif M. Mohammad](https://www.saifmohammad.com/)
 
+
+<!-- 
+
+
 # License
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
+
+<!-- 
+<p align="center" style="max-width: 80%; margin: 0 auto;">
+  <img src="assets/bridging_emotion.png" style="width: 100%; height: auto;" />
+    <h1 align="center"> </h1>
+</p>
+
+ -->
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
