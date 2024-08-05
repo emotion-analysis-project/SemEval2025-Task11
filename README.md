@@ -440,11 +440,11 @@ Saif M. Mohammad "Best Practices in the Creation and Use of Emotion Lexicons." F
 
 # Organizers
 
-Shamsuddeen Hassan Muhammad, [Seid Muhie Yimam ](https://seyyaw.github.io/) , [Nedjma Ousidhoum](https://nedjmaou.github.io/),
-Idris Abdulmumin, Ibrahim Said Ahmad, Alham Fikri Aji, Vladimir Araujo
-Abinew Ali Ayele, Tadesse Destaw Belay, David Ifeoluwa Adelani, Daniela Teodorescu,
-Jan Philip Wahle, Terry Ruas, Nirmal Surange, Yi Zhou,
-Alexander Panchenko, Vukosi Marivate, [Saif M. Mohammad](https://www.saifmohammad.com/)
+[Shamsuddeen Hassan Muhammad](https://shmuhammadd.github.io/), [Seid Muhie Yimam ](https://seyyaw.github.io/) , [Nedjma Ousidhoum](https://nedjmaou.github.io/),
+[Idris Abdulmumin](https://abumafrim.github.io/), [Ibrahim Said Ahmad](https://isahmadbbr.github.io/), [Alham Fikri Aji](https://afaji.github.io/), [Vladimir Araujo](https://vgaraujov.github.io/),
+[Abinew Ali Ayele](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/abinew-ali.html), [Tadesse Destaw Belay](https://tadesse-destaw.github.io/), [David Ifeoluwa Adelani](https://dadelani.github.io/), Daniela Teodorescu,
+[Jan Philip Wahle](https://jpwahle.com/), [Terry Ruas](https://terryruas.com/), Nirmal Surange, Yi Zhou,
+[Alexander Panchenko](https://faculty.skoltech.ru/people/alexanderpanchenko), [Vukosi Marivate](https://www.vima.co.za/), [Saif M. Mohammad](https://www.saifmohammad.com/)
 
 # License
 
