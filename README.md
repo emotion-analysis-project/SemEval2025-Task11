@@ -7,11 +7,17 @@
 
  -->
 
+<p align="center" style="overflow: hidden; height: 300px; width: 400px; position: relative;">
+  <img align="center" src="assets/20240731_145513.png" style="position: absolute; top: -50px; width: 100%;" />
+</p>
+
+
+<!-- 
 <p align="center">
   <img align="center" src="assets/20240731_145513.png" />
   <h1 align="center"> </h1>
 </p>
-
+ -->
 <!-- 
 [Visitor Count](https://komarev.com/ghpvc/?username=emotion-analysis-project&repo=SemEval2025-task11&color=green)
 
