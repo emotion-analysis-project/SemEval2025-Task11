@@ -12,27 +12,6 @@
 </p>
 
 
-<!-- 
-<p align="center">
-  <img align="center" src="assets/20240731_145513.png" />
-  <h1 align="center"> </h1>
-</p>
- -->
-<!-- 
-[Visitor Count](https://komarev.com/ghpvc/?username=emotion-analysis-project&repo=SemEval2025-task11&color=green)
-
-
- <p align="center" style="max-width: 80%; margin: 0 auto;">
-  <img src="assets/task11.png" style="width: 100%; height: auto;" />
-    <h1 align="center"> </h1>
-</p>
-
-
-
-![Visitor Count](https://komarev.com/ghpvc/?username=emotion-analysis-project&repo=SemEval2025-task11&color=green)
-
- -->
-
 
 <!-- 
 # SemEval-2025 Task 11: Bridging the Gap in Text-Based Emotion Detection
