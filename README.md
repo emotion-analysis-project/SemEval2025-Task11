@@ -8,7 +8,7 @@
  -->
 
 <p align="center" style="overflow: hidden; height: 300px; width: 400px; position: relative;">
-  <img align="center" src="assets/20240731_145513.png" style="position: absolute; bottom: -50px; width: 100%;" />
+  <img align="center" src="assets/bridge-logo.png" style="position: absolute; bottom: -50px; width: 100%;" />
 </p>
 
 
@@ -19,21 +19,22 @@
 [Google Group](https://groups.google.com/g/emotion-semeval-2025-participants) | [Create an Issue](https://github.com/emotion-analysis-project/SemEval2025-task11/issues) | [Join Discord](#) | [Contact Us](#)
 
 
-- [Emotion Recognition in Text](#emotion-recognition-in-text)
+- [Bridging the Gap in Text-Based Emotion Detection](#bridging-the-gap-in-text-based-emotion-detection)
 - [Languages](#languages)
 - [Tracks](#tracks)
-  - [Track A: Multi-label Emotion Detection](#track-a-multi-label-emotion-detection)
-  - [Track B: Emotion Intensity (ordinal)](#track-b-emotion-intensity-ordinal)
-  - [Track C: Cross-lingual Emotion Detection](#track-c-cross-lingual-emotion-detection)
-- [Data](#Dataset-Download-Links)
+    - [Track A: Multi-label Emotion Detection](#track-a-multi-label-emotion-detection)
+    - [Track B: Emotion Intensity](#track-b-emotion-intensity)
+    - [Track C: Cross-lingual Emotion Detection](#track-c-cross-lingual-emotion-detection)
+- [Dataset and Download Links](#dataset-and-download-links)
 - [Evaluation](#evaluation)
 - [Important Dates and Phases of the Task](#important-dates-and-phases-of-the-task)
 - [How to Participate](#how-to-participate)
 - [Competition Rules and Terms](#competition-rules-and-terms)
-- [Dataset Paper](#dataset-paper)
+- [Dataset paper](#dataset-paper)
 - [Communication](#communication)
 - [FAQs](#faqs)
 - [Resources](#resources)
+- [References](#references)
 - [Organizers](#organizers)
 
 
