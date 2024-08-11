@@ -93,7 +93,7 @@ The set of ordinal classes of intensity includes:
 
 
 ### Track C: Cross-lingual Emotion Detection 
-Given a labeled training set in one of the languages given [above](#languages), predict the emotion labels of a new text instance in a different target language using the set of six emotion classes:**Joy**, **Sadness**, **Fear**, **Anger**, **Surprise**, or **Disgust**. The objective of this task is to evaluate the effectiveness of transfer learning in emotion detection across different languages.
+Given a labeled training set in one of the languages given [above](#languages), predict the emotion labels of a new text instance in a different target language using the set of six emotion classes:**Joy**, **Sadness**, **Fear**, **Anger**, **Surprise**, or **Disgust**.
 
 
 # Dataset and Download Links
