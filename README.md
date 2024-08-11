@@ -81,11 +81,16 @@ joy (**1**) or no joy (**0**), sadness (**1**) or no sadness (**0**), anger (**1
 A training dataset with gold emotion labels will be provided for this track.
 
 ### Track B: Emotion Intensity
-Given a labeled training set in a target language, classify the emotion intensity of the annotated text into one of the four (ordinal) classes. The classes are:
+Given a target text  and a target emotion, predict the intensity with which the speaker is perceived to be experiencing the target emotion. 
 
-(**0**) for no emotion, (**1**) for a low level of emotion, (**2**) for a moderate level of emotion, and (**3**) for a high level of emotion.
+The set of target emotions includes: **Joy**, **Sadness**, **Fear**, **Anger**, **Surprise**, or **Disgust**. 
 
-The (**0**) for no emotion indicates that the text does not have any of the 6 emotion labels. The emotion classes remain the same as listed in Track A: **Joy**, **Sadness**, **Fear**, **Anger**, **Surprise**, or **Disgust**.
+The set of ordinal classes of intensity includes:
+**0** for no emotion
+**1** for a low degree of emotion
+**2** for a moderate degree of emotion
+**3** for a high degree of emotion.
+
 
 ### Track C: Cross-lingual Emotion Detection 
 Given a labeled training set in one of the languages given [above](#languages), predict the emotion labels of a new text instance in a different target language using the set of six emotion classes:**Joy**, **Sadness**, **Fear**, **Anger**, **Surprise**, or **Disgust**. The objective of this task is to evaluate the effectiveness of transfer learning in emotion detection across different languages.
