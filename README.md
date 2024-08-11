@@ -81,7 +81,7 @@ joy (**1**) or no joy (**0**), sadness (**1**) or no sadness (**0**), anger (**1
 A training dataset with gold emotion labels will be provided for this track.
 
 ### Track B: Emotion Intensity
-Given a target text  and a target emotion, predict the intensity with which the speaker is perceived to be experiencing the target emotion. 
+Given a target text  and a target emotion, predict the intensity for each of the target emotion classes. 
 
 The set of target emotions includes: **Joy**, **Sadness**, **Fear**, **Anger**, **Surprise**, or **Disgust**. 
 
