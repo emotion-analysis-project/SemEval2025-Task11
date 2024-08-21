@@ -75,25 +75,24 @@ Participants can participate in one or more of the following tracks:
 
 
 ### Track A: Multi-label Emotion Detection 
-Given a target text snippet, predict the **perceived emotion(s) of the speaker**. Specifically, select whether each of the following emotions apply: **Joy**, **Sadness**, **Fear**, **Anger**, **Surprise**, or **Disgust**. In other words, label the text snippet with:
+Given a target text snippet, predict the **perceived emotion(s) of the speaker**. Specifically, select whether each of the following emotions apply: **joy**, **sadness**, **fear**, **anger**, **surprise**, or **disgust**. In other words, label the text snippet with:
 joy (**1**) or no joy (**0**), sadness (**1**) or no sadness (**0**), anger (**1**) or no anger (**0**), surprise (**1**) or no surprise (**0**), and disgust (**1**) or no disgust (**0**).
 
 A training dataset with gold emotion labels will be provided for this track.
 
 ### Track B: Emotion Intensity
-Given a target text  and a target emotion, predict the intensity for each of the target emotion classes. 
+Given a target text  and a target perceived emotion, predict the intensity for each of the classes. 
 
-The set of target emotions includes: **Joy**, **Sadness**, **Fear**, **Anger**, **Surprise**, or **Disgust**. 
+The set of the perceived emotions includes: **joy**, **sadness**, **fear**, **anger**, **surprise**, or **disgust**.
 
-The set of ordinal classes of intensity includes:
-**0** for no emotion
-**1** for a low degree of emotion
-**2** for a moderate degree of emotion
-**3** for a high degree of emotion.
+The set of ordinal intensity classes includes:
+**0** for no emotion, **1** for a low degree of emotion, **2** for a moderate degree of emotion, and **3** for a high degree of emotion.
 
 
 ### Track C: Cross-lingual Emotion Detection 
-Given a labeled training set in one of the languages given [above](#languages), predict the emotion labels of a new text instance in a different target language using the set of six emotion classes:**Joy**, **Sadness**, **Fear**, **Anger**, **Surprise**, or **Disgust**.
+Given a labeled training set in one of the languages given [above](#languages), predict the perceived emotion labels of a new text instance in a different target language. 
+
+The set of the six perceived emotion classes includes: **joy**, **sadness**, **fear**, **anger**, **surprise**, or **disgust**.
 
 
 # Dataset and Download Links
@@ -114,7 +113,7 @@ Download the dataset using [gdown](https://github.com/wkentaro/gdown):
 
    ```pip install gdown```
 
-2. Use the following commands to download the datasets using provided IDs:
+2. Use the following commands to download the datasets using the provided IDs:
 
    ```gdown --folder https://drive.google.com/drive/folders/<file_id> ```
 
