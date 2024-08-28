@@ -23,6 +23,7 @@
 [Google Group](https://groups.google.com/g/emotion-semeval-2025-participants) | [Create an Issue](https://github.com/emotion-analysis-project/SemEval2025-task11/issues) | [Join Discord](#) | [Contact Us](mailto:emotion-semeval-2025-organisers@googlegroups.com)
 
 ---
+# Content
 
 - [Bridging the Gap in Text-Based Emotion Detection](#bridging-the-gap-in-text-based-emotion-detection)
 - [Languages](#languages)
