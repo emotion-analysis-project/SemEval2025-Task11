@@ -360,7 +360,7 @@ We will soon release a dataset paper that describes the data collection, annotat
 
 # Communication
 
-- Join our Discord Channel to ask questions and receive updates (coming soon).
+- Join our [Discord Channel]( https://discord.gg/wnVUerj5Rz) to ask questions and receive updates (coming soon).
 - If you have any questions or issues, please feel free to [create an issue](https://github.com/emotion-analysis-project/SemEval2025-task11/issues).
 - Contact organizers at: emotion-semeval-2025-organisers[at]googlegroups[dot]com
 
