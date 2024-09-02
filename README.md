@@ -172,7 +172,7 @@ The performance of each submission will be evaluated using F1-score based on the
 | Description                   | Deadline                                        |
 |-------------------------------|------------------------------------------------|
 | Sample Data Ready             | ~~15 July 2024~~                                  |
-| Training Data Ready           | 02 September 2024                         |
+| Training Data Ready           | 09 September 2024                         |
 | Evaluation Start              | 10 January 2025                                 |
 | Evaluation End                | 31 January 2025                                 |
 | System Description Paper Due  | 28 February 2025                               |
