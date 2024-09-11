@@ -133,41 +133,42 @@ Download the dataset using [gdown](https://github.com/wkentaro/gdown):
 
 The table below shows the languages of the different datasets, their sizes and the release status of their pilot samples, training, and development (dev) sets. Note that ✓ means released and can be found in the data folder.
 
-| No. | Language              | Code |  Pilot Data  | Training   | Dev   | Size   |
-|-----|-----------------------|------|-------------------|----------------------|----------------|--------|
-| 1   | Afrikaans             | AFR  | ✓                  |                      |                |        |
-| 2   | Algerian Arabic       | ARQ  | ✓                  |                         |                   |        |
-| 3   | Amharic               | AMH  | ✓                    |                         |                   |        |
-| 4   | Arabic                | ARB  | ✓                  |                      |                |        |
-| 5   | Brazilian Portuguese  | PTB  | ✓                |   ✓                      |  ✓                 |        |
-| 6   | Chinese               | ZHO  | ✓                 |                      |                |        |
-| 7   | English               | ENG  | ✓                   |  ✓                       |  ✓                 |        |
-| 8   | German                | DEU  | ✓                  |    ✓                     |  ✓                 |        |
-| 9   | Hausa                 | HAU  | ✓                 |                      |                |        |
-| 10  | Hindi                 | HIN  |  ✓                    |                      |                |        |
-| 11  | Igbo                  | IBO  |                   |                      |                |        |
-| 12  | Indonesian            | IND  |                   |                      |                |        |
-| 13  | isiXhosa              | XHO  |                   |                      |                |        |
-| 14  | isiZulu               | ZUL  |                   |                      |                |        |
-| 15  | Javanese              | JAV  |                   |                      |                |        |
-| 16  | Kinyarwanda           | KIN  |                   |                      |                |        |
-| 17  | Marathi               | MAR  |  ✓                    |                      |                |        |
-| 18  | Moroccan Arabic       | ARY  |                   |                      |                |        |
-| 19  | Mozambican Portuguese | PTM  |                   |                      |                |        |
-| 20  | Nigerian-Pidgin       | PCM  |                   |                      |                |        |
-| 21  | Oromo                 | ORM  |    ✓                  |                      |                |        |
-| 22  | Romanian              | RON  |                   |                      |                |        |
-| 23  | Russian               | RUS  |   ✓                   |                      |                |        |
-| 24  | Setswana              | TSN  |                   |                      |                |        |
-| 25  | Somali                | SOM  |   ✓                   |                      |                |        |
-| 26  | Latin American Spanish| SPA  |   ✓                  |                      |                |        |
-| 27  | Swahili               | SWA  |                   |                      |                |        |
-| 28  | Swedish               | SWE  |                   |                      |                |        |
-| 29  | Tatar                 | TAT  |  ✓                    |                      |                |        |
-| 30  | Tigrinya              | TIR  |    ✓                  |                      |                |        |
-| 31  | Ukrainian             | UKR  |                   |                      |                |        |
-| 32  | Xitsonga              | TSO  |                   |                      |                |        |
-| 33  | Yoruba                | YOR  |                   |                      |                |        |
+
+| No. | Language              | Code | Pilot Data | Training | Dev   | Size   | Disgust Class |
+|-----|-----------------------|------|------------|----------|-------|--------|---------------|
+| 1   | Afrikaans             | AFR  | ✓          |          |       |        |            |
+| 2   | Algerian Arabic       | ARQ  | ✓          |          |       |        |             |
+| 3   | Amharic               | AMH  | ✓          |          |       |        |            |
+| 4   | Arabic                | ARB  | ✓          |          |       |        |             |
+| 5   | Brazilian Portuguese  | PTB  | ✓          | ✓        | ✓     |        | Yes        |
+| 6   | Chinese               | ZHO  | ✓          |          |       |        |             |
+| 7   | English               | ENG  | ✓          | ✓        | ✓     |        | No           |
+| 8   | German                | DEU  | ✓          | ✓        | ✓     |        | Yes           |
+| 9   | Hausa                 | HAU  | ✓          |          |       |        |             |
+| 10  | Hindi                 | HIN  | ✓          |          |       |        |             |
+| 11  | Igbo                  | IBO  |            |          |       |        |             |
+| 12  | Indonesian            | IND  |            |          |       |        |            |
+| 13  | isiXhosa              | XHO  |            |          |       |        |             |
+| 14  | isiZulu               | ZUL  |            |          |       |        |            |
+| 15  | Javanese              | JAV  |            |          |       |        |             |
+| 16  | Kinyarwanda           | KIN  |            |          |       |        |             |
+| 17  | Marathi               | MAR  | ✓          |          |       |        |             |
+| 18  | Moroccan Arabic       | ARY  |            |          |       |        |             |
+| 19  | Mozambican Portuguese | PTM  |            |          |       |        |             |
+| 20  | Nigerian-Pidgin       | PCM  |            |          |       |        |            |
+| 21  | Oromo                 | ORM  | ✓          |          |       |        |            |
+| 22  | Romanian              | RON  |            |          |       |        |             |
+| 23  | Russian               | RUS  | ✓          |          |       |        |            |
+| 24  | Setswana              | TSN  |            |          |       |        |            |
+| 25  | Somali                | SOM  | ✓          |          |       |        |            |
+| 26  | Latin American Spanish| SPA  | ✓          |          |       |        |             |
+| 27  | Swahili               | SWA  |            |          |       |        |            |
+| 28  | Swedish               | SWE  |            |          |       |        |             |
+| 29  | Tatar                 | TAT  | ✓          |          |       |        |           |
+| 30  | Tigrinya              | TIR  | ✓          |          |       |        |             |
+| 31  | Ukrainian             | UKR  |            |          |       |        |             |
+| 32  | Xitsonga              | TSO  |            |          |       |        |            |
+| 33  | Yoruba                | YOR  |            |          |       |        |            |
 
 
 # Evaluation
