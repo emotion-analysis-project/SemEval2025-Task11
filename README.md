@@ -64,7 +64,9 @@ The task is **not** about:
 We acknowledge the importance of this distinction as perceived emotions can differ from actual emotions due to various factors such as cultural context, individual differences in emotional expression, and the limitations of text-based communication (Van Woensel and Nevil 2019, Wakerfield 2021).
 
 
-# **News: 10 September 2024**
+# **News**
+
+### **10 September 2024**
 
 - We have released the training and development datasets for **three languages**: English (eng), German (deu), and Brazilian Portuguese (ptbr). More languages are on the way, and we’ll be updating the table (see below table with release info) over the next few days.
 - The competition website will be live soon—stay tuned for more updates!
