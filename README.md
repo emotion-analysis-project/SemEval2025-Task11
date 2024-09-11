@@ -130,7 +130,7 @@ Download the dataset using [gdown](https://github.com/wkentaro/gdown):
 
    ```gdown --folder https://drive.google.com/drive/folders/<file_id> ```
 
-The table below shows the languages of the different datasets, their sizes and the release status of their pilot samples, training, and development (dev) sets. Note that ✓ means released and can be found in the data folder.
+The table below shows the languages of the different datasets, their sizes and the release status of their pilot samples, training, and development (dev) sets. Note that ✓ means released and can be found in the data folder. Please note that some languages include the Disgust class, while others do not.
 
 
 | No. | Language              | Code | Pilot Data | Training | Dev   | Size   | Disgust Class |
