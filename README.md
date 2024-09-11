@@ -49,19 +49,21 @@
 ### **10 September 2024**
 
 - We have released the training and development datasets for **three languages**: English (eng), German (deu), and Brazilian Portuguese (ptbr). More languages are on the way, and we’ll be updating the table (see below table with release info) over the next few days.
-- The competition website will be live soon—stay tuned for more updates!
+- The competition website will be live soon. Stay tuned for more updates!
 
 
 # Bridging the Gap in Text-Based Emotion Detection
 
-Emotions are simultaneously familiar and mysterious. On the one hand, we all express and manage our emotions every day. Yet, on the other hand, emotions are complex, nuanced, and sometimes hard to articulate. We also use language in subtle and complex ways to express emotion (Wiebe et al. 2005, Mohammad and Kiritcheko 2018, Mohammad et al. 2018). Further, people are highly variable in how they perceive and express emotions (even within the same culture or social group). Thus, we can never truly identify how one is feeling based on something that they have said with absolute certainty. 
+Emotions are simultaneously familiar and mysterious. On the one hand, we all express and manage our emotions every day. Yet, on the other hand, emotions are complex, nuanced, and sometimes hard to articulate. 
+
+We use language in subtle and complex ways to express emotion (Wiebe et al. 2005, Mohammad and Kiritcheko 2018, Mohammad et al. 2018). Further, people are highly variable in how they perceive and express emotions (even within the same culture or social group). Thus, we can never truly identify how one is feeling based on something that they have said with absolute certainty. 
 
 Emotion recognition is not one task but an umbrella term for several tasks such as detecting the emotions of the speaker, identifying what emotion a piece of text is conveying and detecting emotions evoked in a reader (Mohammad 2021, Mohammad 2023). 
 
 
-This task is on **perceived emotion** and focuses on:
+This task is on **perceived emotions** and focuses on:
 
-- **Determining what emotion most people will think the speaker may be feeling given a sentence or short text snippet uttered by the speaker.**
+- **Determining what emotion most people will think the speaker may be feeling given a sentence or a short text snippet uttered by the speaker.**
 
 The task is **not** about:
 
@@ -91,7 +93,7 @@ Participants can participate in one or more of the following tracks:
 Given a target text snippet, predict the **perceived emotion(s) of the speaker**. Specifically, select whether each of the following emotions apply: **joy**, **sadness**, **fear**, **anger**, **surprise**, or **disgust**. In other words, label the text snippet with:
 joy (**1**) or no joy (**0**), sadness (**1**) or no sadness (**0**), anger (**1**) or no anger (**0**), surprise (**1**) or no surprise (**0**), and disgust (**1**) or no disgust (**0**).
 
-**Note that for some languages such as English, the set perceived emotions includes  joy, sadness, fear, anger, or surprise (it does not include disgust.)** 
+**Note that for some languages such as English, the set perceived emotions includes 5 emotions: joy, sadness, fear, anger, or surprise and does not include disgust.** 
 
 
 A training dataset with gold emotion labels will be provided for this track.
@@ -104,12 +106,14 @@ The set of the perceived emotions includes: **joy**, **sadness**, **fear**, **an
 The set of ordinal intensity classes includes:
 **0** for no emotion, **1** for a low degree of emotion, **2** for a moderate degree of emotion, and **3** for a high degree of emotion.
 
+**Note that for some languages such as English, the set perceived emotions includes 5 emotions: joy, sadness, fear, anger, or surprise and does not include disgust.** 
 
 ### Track C: Cross-lingual Emotion Detection 
 Given a labeled training set in one of the languages given [above](#languages), predict the perceived emotion labels of a new text instance in a different target language. 
 
 The set of the six perceived emotion classes includes: **joy**, **sadness**, **fear**, **anger**, **surprise**, or **disgust**.
 
+**Note that for some languages such as English, the set perceived emotions includes 5 emotions: joy, sadness, fear, anger, or surprise and does not include disgust.** 
 
 # Dataset and Download Links
 
@@ -136,48 +140,48 @@ Download the dataset using [gdown](https://github.com/wkentaro/gdown):
 The table below shows the languages of the different datasets, their sizes and the release status of their pilot samples, training, and development (dev) sets. Note that ✓ means released and can be found in the data folder. Please note that some languages include the Disgust class, while others do not.
 
 
-| No. | Language              | Code | Pilot Data | Training | Dev   | Size   | Disgust Class |
-|-----|-----------------------|------|------------|----------|-------|--------|---------------|
-| 1   | Afrikaans             | AFR  | ✓          |          |       |        |            |
-| 2   | Algerian Arabic       | ARQ  | ✓          |          |       |        |             |
-| 3   | Amharic               | AMH  | ✓          |          |       |        |            |
-| 4   | Arabic                | ARB  | ✓          |          |       |        |             |
-| 5   | Brazilian Portuguese  | PTB  | ✓          | ✓        | ✓     |        | Yes        |
-| 6   | Chinese               | ZHO  | ✓          |          |       |        |             |
-| 7   | English               | ENG  | ✓          | ✓        | ✓     |        | No           |
-| 8   | German                | DEU  | ✓          | ✓        | ✓     |        | Yes           |
-| 9   | Hausa                 | HAU  | ✓          |          |       |        |             |
-| 10  | Hindi                 | HIN  | ✓          |          |       |        |             |
-| 11  | Igbo                  | IBO  |            |          |       |        |             |
-| 12  | Indonesian            | IND  |            |          |       |        |            |
-| 13  | isiXhosa              | XHO  |            |          |       |        |             |
-| 14  | isiZulu               | ZUL  |            |          |       |        |            |
-| 15  | Javanese              | JAV  |            |          |       |        |             |
-| 16  | Kinyarwanda           | KIN  |            |          |       |        |             |
-| 17  | Marathi               | MAR  | ✓          |          |       |        |             |
-| 18  | Moroccan Arabic       | ARY  |            |          |       |        |             |
-| 19  | Mozambican Portuguese | PTM  |            |          |       |        |             |
-| 20  | Nigerian-Pidgin       | PCM  |            |          |       |        |            |
-| 21  | Oromo                 | ORM  | ✓          |          |       |        |            |
-| 22  | Romanian              | RON  |            |          |       |        |             |
-| 23  | Russian               | RUS  | ✓          |          |       |        |            |
-| 24  | Setswana              | TSN  |            |          |       |        |            |
-| 25  | Somali                | SOM  | ✓          |          |       |        |            |
-| 26  | Latin American Spanish| SPA  | ✓          |          |       |        |             |
-| 27  | Swahili               | SWA  |            |          |       |        |            |
-| 28  | Swedish               | SWE  |            |          |       |        |             |
-| 29  | Tatar                 | TAT  | ✓          |          |       |        |           |
-| 30  | Tigrinya              | TIR  | ✓          |          |       |        |             |
-| 31  | Ukrainian             | UKR  |            |          |       |        |             |
-| 32  | Xitsonga              | TSO  |            |          |       |        |            |
-| 33  | Yoruba                | YOR  |            |          |       |        |            |
+| No. | Language              | Code | Pilot Data | Training | Dev   | Size   | 
+|-----|-----------------------|------|------------|----------|-------|--------|
+| 1   | Afrikaans             | AFR  | ✓          |        |      |        | 
+| 2   | Algerian Arabic       | ARQ  | ✓          |          |       |        |  
+| 3   | Amharic               | AMH  | ✓          |          |       |        | 
+| 4   | Arabic                | ARB  | ✓          |          |       |        |
+| 5   | Brazilian Portuguese  | PTB  | ✓          | ✓        | ✓     |        | 
+| 6   | Chinese               | ZHO  | ✓          |          |       |        | 
+| 7   | English               | ENG  | ✓          | ✓        | ✓     |        |
+| 8   | German                | DEU  | ✓          | ✓        | ✓     |        |
+| 9   | Hausa                 | HAU  | ✓          |          |       |        | 
+| 10  | Hindi                 | HIN  | ✓          |          |       |        | 
+| 11  | Igbo                  | IBO  |            |          |       |        | 
+| 12  | Indonesian            | IND  |            |          |       |        |  
+| 13  | isiXhosa              | XHO  |            |          |       |        | 
+| 14  | isiZulu               | ZUL  |            |          |       |        | 
+| 15  | Javanese              | JAV  |            |          |       |        | 
+| 16  | Kinyarwanda           | KIN  |            |          |       |        |
+| 17  | Marathi               | MAR  | ✓          |          |       |        | 
+| 18  | Moroccan Arabic       | ARY  |            |          |       |        |  
+| 19  | Mozambican Portuguese | PTM  |            |          |       |        |  
+| 20  | Nigerian-Pidgin       | PCM  |            |          |       |        | 
+| 21  | Oromo                 | ORM  | ✓          |          |       |        | 
+| 22  | Romanian              | RON  |            |          |       |        | 
+| 23  | Russian               | RUS  | ✓          |          |       |        | 
+| 24  | Setswana              | TSN  |            |          |       |        | 
+| 25  | Somali                | SOM  | ✓          |          |       |        | 
+| 26  | Latin American Spanish| SPA  | ✓          |          |       |        |
+| 27  | Swahili               | SWA  |            |          |       |        |  
+| 28  | Swedish               | SWE  |            |          |       |        |
+| 29  | Tatar                 | TAT  | ✓          |          |       |        |
+| 30  | Tigrinya              | TIR  | ✓          |          |       |        |
+| 31  | Ukrainian             | UKR  |            |          |       |        | 
+| 32  | Xitsonga              | TSO  |            |          |       |        |  
+| 33  | Yoruba                | YOR  |            |          |       |        | 
 
 
 # Evaluation
 
-The performance of each submission will be evaluated using F1-score based on the predicted labels and the gold ones. Participants will be provided with an evaluation script and a starter kit that includes a simple baseline.
+The performance of each submission will be evaluated using F1-scores based on the predicted labels and the gold ones. Participants will be provided with an evaluation script and a starter kit that includes a simple baseline.
 
-# Important Dates and Phases of the Task
+# Important Dates and Task Phases
 
 
 | Description                   | Deadline                                        |
@@ -311,8 +315,8 @@ The task will be divided into three phases: Development, Evaluation, and Post-Ev
 <details>
   <summary>7. Evaluation Period Rules</summary>
   <ul>
-    <li>Teams are limited to 3 submissions.</li>
-    <li>Only the final submission is considered official.</li>
+    <li>The teams are contrained to make 3 submissions.</li>
+    <li>Only the final submission will be considered official.</li>
     <li>Warnings and errors are visible for each submission.</li>
   </ul>
 </details>
@@ -320,9 +324,9 @@ The task will be divided into three phases: Development, Evaluation, and Post-Ev
 <details>
   <summary>8. Post-Competition</summary>
   <ul>
-    <li>Gold labels will be released after the competition.</li>
-    <li>Teams are encouraged to report results on all system variants in their description paper.</li>
-    <li>Official submission results must be clearly indicated.</li>
+    <li>The gold labels will be released after the competition.</li>
+    <li>The teams are encouraged to report results on all their system variants in their description paper.</li>
+    <li>The official submission results must be clearly indicated.</li>
   </ul>
 </details>
 
