@@ -44,7 +44,7 @@
 - [Organizers](#organizers)
 
 
-# **News**
+# 📢 **News**
 
 ### **10 September 2024**
 
