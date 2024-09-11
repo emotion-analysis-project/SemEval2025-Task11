@@ -176,7 +176,7 @@ The table below shows the languages of the different datasets, their sizes and t
 | 32  | Xitsonga              | TSO  |            |          |       |        |  
 | 33  | Yoruba                | YOR  |            |          |       |        | 
 
-# Class Distribution Per Language for Train, Dev, and Test Data
+# Class Distribution Per Language
 
 ## Training Data
 
