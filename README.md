@@ -91,7 +91,8 @@ Participants can participate in one or more of the following tracks:
 Given a target text snippet, predict the **perceived emotion(s) of the speaker**. Specifically, select whether each of the following emotions apply: **joy**, **sadness**, **fear**, **anger**, **surprise**, or **disgust**. In other words, label the text snippet with:
 joy (**1**) or no joy (**0**), sadness (**1**) or no sadness (**0**), anger (**1**) or no anger (**0**), surprise (**1**) or no surprise (**0**), and disgust (**1**) or no disgust (**0**).
 
-**Note that some languages include the Disgust class, while others do not (check the release table below for detail)**
+**Note that for some languages such as English, the set perceived emotions includes  joy, sadness, fear, anger, or surprise. (And does not include disgust.)** 
+
 
 A training dataset with gold emotion labels will be provided for this track.
 
