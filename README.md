@@ -44,6 +44,14 @@
 - [Organizers](#organizers)
 
 
+# **News**
+
+### **10 September 2024**
+
+- We have released the training and development datasets for **three languages**: English (eng), German (deu), and Brazilian Portuguese (ptbr). More languages are on the way, and we’ll be updating the table (see below table with release info) over the next few days.
+- The competition website will be live soon—stay tuned for more updates!
+
+
 # Bridging the Gap in Text-Based Emotion Detection
 
 Emotions are simultaneously familiar and mysterious. On the one hand, we all express and manage our emotions every day. Yet, on the other hand, emotions are complex, nuanced, and sometimes hard to articulate. We also use language in subtle and complex ways to express emotion (Wiebe et al. 2005, Mohammad and Kiritcheko 2018, Mohammad et al. 2018). Further, people are highly variable in how they perceive and express emotions (even within the same culture or social group). Thus, we can never truly identify how one is feeling based on something that they have said with absolute certainty. 
@@ -62,15 +70,6 @@ The task is **not** about:
 - Or **even** the true emotion of the speaker (which cannot be definitively known from just a short text snippet).
 
 We acknowledge the importance of this distinction as perceived emotions can differ from actual emotions due to various factors such as cultural context, individual differences in emotional expression, and the limitations of text-based communication (Van Woensel and Nevil 2019, Wakerfield 2021).
-
-
-# **News**
-
-### **10 September 2024**
-
-- We have released the training and development datasets for **three languages**: English (eng), German (deu), and Brazilian Portuguese (ptbr). More languages are on the way, and we’ll be updating the table (see below table with release info) over the next few days.
-- The competition website will be live soon—stay tuned for more updates!
-
 
 
 # Languages
