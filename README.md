@@ -66,9 +66,8 @@ We acknowledge the importance of this distinction as perceived emotions can diff
 
 # **News: 10 September 2024**
 
-- We have released the training and development datasets for **three languages**: English (eng), German (deu), and Brazilian Portuguese (ptbr).
-
-- More languages are on the way, and we’ll be updating the table (see below table with release info) over the next few days. The competition website will be live soon—stay tuned for more updates!
+- We have released the training and development datasets for **three languages**: English (eng), German (deu), and Brazilian Portuguese (ptbr). More languages are on the way, and we’ll be updating the table (see below table with release info) over the next few days.
+- The competition website will be live soon—stay tuned for more updates!
 
 
 
