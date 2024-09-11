@@ -92,6 +92,7 @@ Given a target text snippet, predict the **perceived emotion(s) of the speaker**
 joy (**1**) or no joy (**0**), sadness (**1**) or no sadness (**0**), anger (**1**) or no anger (**0**), surprise (**1**) or no surprise (**0**), and disgust (**1**) or no disgust (**0**).
 
 **Please note that some languages include the Disgust class, while others do not (check the release table below for detail)**
+
 A training dataset with gold emotion labels will be provided for this track.
 
 ### Track B: Emotion Intensity
