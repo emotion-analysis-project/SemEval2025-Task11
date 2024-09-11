@@ -190,7 +190,7 @@ The table below shows the languages of the different datasets, their sizes and t
 
 ## Training Data
 
-| S/N | Language             | Language Code | Joy | Surprise | Sadness | Fear | Anger | Neutral | Disgust | Total |
+| S/N | Language             |  Code | Joy | Surprise | Sadness | Fear | Anger | Neutral | Disgust | Total |
 |-----|----------------------|---------------|-----|----------|---------|------|-------|---------|---------|-------|
 | 1   | English              | eng           | 674 | 839      | 878     | 1611 | 333   | 239     | --      | 4574  |
 | 2   | German               | deu           | ... | ...      | ...     | ...  | ...   | ...     | ...     | ...   |
@@ -200,7 +200,7 @@ The table below shows the languages of the different datasets, their sizes and t
 
 ## Development Data
 
-| S/N | Language             | Language Code | Joy | Surprise | Sadness | Fear | Anger | Neutral | Disgust | Total |
+| S/N | Language             |  Code | Joy | Surprise | Sadness | Fear | Anger | Neutral | Disgust | Total |
 |-----|----------------------|---------------|-----|----------|---------|------|-------|---------|---------|-------|
 | 1   | English              | eng           | 31  | 31       | 35      | 63   | 16    | 13      | --      | 189   |
 | 2   | German               | deu           | ... | ...      | ...     | ...  | ...   | ...     | ...     | ...   |
@@ -210,7 +210,7 @@ The table below shows the languages of the different datasets, their sizes and t
 
 ## Test Data
 
-| S/N | Language             | Language Code | Joy | Surprise | Sadness | Fear | Anger | Neutral | Disgust | Total |
+| S/N | Language             |  Code | Joy | Surprise | Sadness | Fear | Anger | Neutral | Disgust | Total |
 |-----|----------------------|---------------|-----|----------|---------|------|-------|---------|---------|-------|
 | 1   | English              | eng           | 670 | 799      | 881     | 1544 | 322   | 293     | --      | 4509  |
 | 2   | German               | deu           | ... | ...      | ...     | ...  | ...   | ...     | ...     | ...   |
