@@ -190,31 +190,22 @@ The table below shows the languages of the different datasets, their sizes and t
 
 ## Training Data
 
-| S/N | Language             |  Code | Joy | Surprise | Sadness | Fear | Anger | Neutral | Disgust | Total |
-|-----|----------------------|---------------|-----|----------|---------|------|-------|---------|---------|-------|
-| 1   | English              | eng           | 674 | 839      | 878     | 1611 | 333   | 239     | --      | 4574  |
-| 2   | German               | deu           | ... | ...      | ...     | ...  | ...   | ...     | ...     | ...   |
-| 3   | Brazilian Portuguese | ptbr          | ... | ...      | ...     | ...  | ...   | ...     | ...     | ...   |
+
+| S/N | Language             | Language Code | Joy  | Surprise | Sadness | Disgust | Fear | Anger | Neutral | Total |
+|-----|----------------------|---------------|------|----------|---------|---------|------|-------|---------|-------|
+| 1   | English              | eng           | 674  | 839      | 878     | --      | 1611 | 333   | 239     | 4574  |
+| 2   | German               | deu           | 541  | 159      | 516     | 832     | 239  | 768   | 645     | 3700  |
+| 3   | Brazilian Portuguese | ptbr          | 581  | 153      | 322     | 75      | 109  | 718   | 632     | 2590  |
 
 
 
 ## Development Data
 
-| S/N | Language             |  Code | Joy | Surprise | Sadness | Fear | Anger | Neutral | Disgust | Total |
-|-----|----------------------|---------------|-----|----------|---------|------|-------|---------|---------|-------|
-| 1   | English              | eng           | 31  | 31       | 35      | 63   | 16    | 13      | --      | 189   |
-| 2   | German               | deu           | ... | ...      | ...     | ...  | ...   | ...     | ...     | ...   |
-| 3   | Brazilian Portuguese | ptbr          | ... | ...      | ...     | ...  | ...   | ...     | ...     | ...   |
-
-
-
-## Test Data
-
-| S/N | Language             |  Code | Joy | Surprise | Sadness | Fear | Anger | Neutral | Disgust | Total |
-|-----|----------------------|---------------|-----|----------|---------|------|-------|---------|---------|-------|
-| 1   | English              | eng           | 670 | 799      | 881     | 1544 | 322   | 293     | --      | 4509  |
-| 2   | German               | deu           | ... | ...      | ...     | ...  | ...   | ...     | ...     | ...   |
-| 3   | Brazilian Portuguese | ptbr          | ... | ...      | ...     | ...  | ...   | ...     | ...     | ...   |
+| S/N | Language             | Language Code | Joy | Surprise | Sadness | Disgust | Fear | Anger | Neutral | Total |
+|-----|----------------------|---------------|-----|----------|---------|---------|------|-------|---------|-------|
+| 1   | English              | eng           | 31  | 31       | 35      | --      | 63   | 16    | 13      | 189   |
+| 2   | German               | deu           | 40  | 15       | 48      | 61      | 20   | 61    | 49      | 294   |
+| 3   | Brazilian Portuguese | ptbr          | 62  | 21       | 28      | 5       | 8    | 58    | 46      | 228   |
 
 
 
