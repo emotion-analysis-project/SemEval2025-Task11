@@ -128,8 +128,8 @@ The table below shows the languages of the different datasets, their sizes and t
 | No. | Language              | Code |  Pilot Data  | Training   | Dev   | Size   |
 |-----|-----------------------|------|-------------------|----------------------|----------------|--------|
 | 1   | Afrikaans             | AFR  | ✓                  |                      |                |        |
-| 2   | Algerian Arabic       | ARQ  | ✓                  |   ✓                      |  ✓                 |        |
-| 3   | Amharic               | AMH  | ✓                    |                      |                |        |
+| 2   | Algerian Arabic       | ARQ  | ✓                  |                         |                   |        |
+| 3   | Amharic               | AMH  | ✓                    |   ✓                      |    ✓               |        |
 | 4   | Arabic                | ARB  | ✓                  |                      |                |        |
 | 5   | Brazilian Portuguese  | PTB  | ✓                |   ✓                      |  ✓                 |        |
 | 6   | Chinese               | ZHO  | ✓                 |                      |                |        |
