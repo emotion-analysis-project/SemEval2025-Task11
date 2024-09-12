@@ -138,9 +138,30 @@ Download the dataset using [gdown](https://github.com/wkentaro/gdown):
    ```gdown --folder https://drive.google.com/drive/folders/<file_id> ```
 
 
-
-The table below presents the class distribution for the currently released languages. Please note that while some languages include the 'Disgust' class, others do not. We will be adding more languages in future releases, so please check back for updates.
 <!-- 
+The table below presents the class distribution for the currently released languages. Please note that while some languages include the 'Disgust' class, others do not. We will be adding more languages in future releases, so please check back for updates.
+# Class Distribution Per Language
+
+## Training Data
+
+
+| S/N | Language             | Language Code | Joy  | Surprise | Sadness | Disgust | Fear | Anger | Neutral | Total |
+|-----|----------------------|---------------|------|----------|---------|---------|------|-------|---------|-------|
+| 1   | English              | eng           | 674  | 839      | 878     | --      | 1611 | 333   | 239     | 4574  |
+| 2   | German               | deu           | 541  | 159      | 516     | 832     | 239  | 768   | 645     | 3700  |
+| 3   | Brazilian Portuguese | ptbr          | 581  | 153      | 322     | 75      | 109  | 718   | 632     | 2590  |
+
+
+
+## Development Data
+
+| S/N | Language             | Language Code | Joy | Surprise | Sadness | Disgust | Fear | Anger | Neutral | Total |
+|-----|----------------------|---------------|-----|----------|---------|---------|------|-------|---------|-------|
+| 1   | English              | eng           | 31  | 31       | 35      | --      | 63   | 16    | 13      | 189   |
+| 2   | German               | deu           | 40  | 15       | 48      | 61      | 20   | 61    | 49      | 294   |
+| 3   | Brazilian Portuguese | ptbr          | 62  | 21       | 28      | 5       | 8    | 58    | 46      | 228   |
+
+ -->
 
 The table below shows the languages of the different datasets, their sizes and the release status of their pilot samples, training, and development (dev) sets. Note that ✓ means released and can be found in the data folder. Please note that some languages include the Disgust class, while others do not.
 
@@ -172,7 +193,7 @@ The table below shows the languages of the different datasets, their sizes and t
 | 20  | Nigerian-Pidgin       | PCM  |            |          |       |        | 
 | 21  | Oromo                 | ORM  | ✓          |          |       |        | 
 | 22  | Romanian              | RON  |            |          |       |        | 
-| 23  | Russian               | RUS  | ✓          |          |       |        | 
+| 23  | Russian               | RUS  | ✓          |  ✓        | ✓       |        | 
 | 24  | Setswana              | TSN  |            |          |       |        | 
 | 25  | Somali                | SOM  | ✓          |          |       |        | 
 | 26  | Latin American Spanish| SPA  | ✓          |          |       |        |
@@ -180,32 +201,11 @@ The table below shows the languages of the different datasets, their sizes and t
 | 28  | Swedish               | SWE  |            |          |       |        |
 | 29  | Tatar                 | TAT  | ✓          |          |       |        |
 | 30  | Tigrinya              | TIR  | ✓          |          |       |        |
-| 31  | Ukrainian             | UKR  |            |          |       |        | 
+| 31  | Ukrainian             | UKR  | ✓           |  ✓        | ✓      |        | 
 | 32  | Xitsonga              | TSO  |            |          |       |        |  
 | 33  | Yoruba                | YOR  |            |          |       |        | 
 
- -->
 
-# Class Distribution Per Language
-
-## Training Data
-
-
-| S/N | Language             | Language Code | Joy  | Surprise | Sadness | Disgust | Fear | Anger | Neutral | Total |
-|-----|----------------------|---------------|------|----------|---------|---------|------|-------|---------|-------|
-| 1   | English              | eng           | 674  | 839      | 878     | --      | 1611 | 333   | 239     | 4574  |
-| 2   | German               | deu           | 541  | 159      | 516     | 832     | 239  | 768   | 645     | 3700  |
-| 3   | Brazilian Portuguese | ptbr          | 581  | 153      | 322     | 75      | 109  | 718   | 632     | 2590  |
-
-
-
-## Development Data
-
-| S/N | Language             | Language Code | Joy | Surprise | Sadness | Disgust | Fear | Anger | Neutral | Total |
-|-----|----------------------|---------------|-----|----------|---------|---------|------|-------|---------|-------|
-| 1   | English              | eng           | 31  | 31       | 35      | --      | 63   | 16    | 13      | 189   |
-| 2   | German               | deu           | 40  | 15       | 48      | 61      | 20   | 61    | 49      | 294   |
-| 3   | Brazilian Portuguese | ptbr          | 62  | 21       | 28      | 5       | 8    | 58    | 46      | 228   |
 
 
 
