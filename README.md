@@ -48,7 +48,7 @@
 
 ### **10 September 2024**
 
-- We have released the training and development datasets for **three languages**: English (eng), German (deu), Russian (RUS), and Brazilian Portuguese (ptbr). More languages are on the way, and we’ll be updating the table (see below table with release info) over the next few days.
+- We have released the training and development datasets for **seven languages**: English (eng), German (deu), Oromo (orm), Brazilian Portuguese (ptbr),  Russian (rus), and Somali (som), and Tigrinya (tig). More languages are on the way, and we’ll be updating the table below table with release information over the next few days.
 - The competition website will be live soon. Stay tuned for more updates!
 
 
@@ -196,17 +196,17 @@ The table below shows the languages of the different datasets, their sizes and t
 | 18  | Moroccan Arabic       | ARY  |            |          |       |        |  
 | 19  | Mozambican Portuguese | PTM  |            |          |       |        |  
 | 20  | Nigerian-Pidgin       | PCM  |            |          |       |        | 
-| 21  | Oromo                 | ORM  | ✓          |          |       |        | 
+| 21  | Oromo                 | ORM  | ✓          | ✓        | ✓     |        | 
 | 22  | Romanian              | RON  |            |          |       |        | 
-| 23  | Russian               | RUS  | ✓          |  ✓        | ✓       |        | 
+| 23  | Russian               | RUS  | ✓          | ✓        | ✓     |        | 
 | 24  | Setswana              | TSN  |            |          |       |        | 
-| 25  | Somali                | SOM  | ✓          |          |       |        | 
+| 25  | Somali                | SOM  | ✓          | ✓        | ✓     |        | 
 | 26  | Latin American Spanish| SPA  | ✓          |          |       |        |
 | 27  | Swahili               | SWA  |            |          |       |        |  
 | 28  | Swedish               | SWE  |            |          |       |        |
 | 29  | Tatar                 | TAT  | ✓          |          |       |        |
-| 30  | Tigrinya              | TIR  | ✓          |          |       |        |
-| 31  | Ukrainian             | UKR  | ✓           |  ✓        | ✓      |        | 
+| 30  | Tigrinya              | TIR  | ✓          | ✓        | ✓     |        |
+| 31  | Ukrainian             | UKR  | ✓          |          |       |        |
 | 32  | Xitsonga              | TSO  |            |          |       |        |  
 | 33  | Yoruba                | YOR  |            |          |       |        | 
 
