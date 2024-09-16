@@ -50,7 +50,7 @@
 
 ### **16 September 2024**
 
-The competition website is now updated at Codabench: [Codabench Competition](https://www.codabench.org/competitions/3863/)
+- The competition website is now updated at Codabench: [Codabench Competition](https://www.codabench.org/competitions/3863/)
 
 ### **10 September 2024**
 
