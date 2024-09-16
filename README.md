@@ -46,6 +46,12 @@
 
 # 📢 **News**
 
+
+
+### **16 September 2024**
+
+The competition website is now updated at Codabench: [Codabench Competition](https://www.codabench.org/competitions/3863/)
+
 ### **10 September 2024**
 
 - We have released the training and development datasets for **seven languages**: English (eng), German (deu), Oromo (orm), Brazilian Portuguese (ptbr),  Russian (rus), and Somali (som), and Tigrinya (tig). More languages are on the way, and we’ll be updating the table below table with release information over the next few days.
