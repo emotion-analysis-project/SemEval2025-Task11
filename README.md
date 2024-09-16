@@ -117,6 +117,10 @@ The set of the six perceived emotion classes includes: **joy**, **sadness**, **f
 
 # Dataset and Download Links
 
+ - Visit the official competition page on Codabench: https://www.codabench.org/competitions/3863/
+ - Navigate to the Dataset section and follow the detailed instructions provided to download the necessary files.
+
+<!-- 
 For each track, we provide the sample, training, and evaluation datasets. Find the links to download the datasets for each track below:
 
 | Track | Download Link | File ID |
@@ -136,7 +140,8 @@ Download the dataset using [gdown](https://github.com/wkentaro/gdown):
 2. Use the following commands to download the datasets using the provided IDs:
 
    ```gdown --folder https://drive.google.com/drive/folders/<file_id> ```
-
+   
+-->
 
 <!-- 
 The table below presents the class distribution for the currently released languages. Please note that while some languages include the 'Disgust' class, others do not. We will be adding more languages in future releases, so please check back for updates.
