@@ -226,15 +226,18 @@ The table below shows the languages of the different datasets, their sizes and t
 # Evaluation
 
 The performance of the submitted systems will be evaluated based on the following metrics:
-## Track A: Multilabel Emotion Detection: 
-F--score based on the predicted labels and the gold ones will be used as the evaluation metric.
-## Track B: Emotion Intensity 
-Pearson correlation between the predicted labels and the gold ones will be used as the evaluation metric.
-## Track C: Crosslingual Emotion Detection 
-F--score based on the predicted labels and the gold ones will be used as the evaluation metric.
 
-### Note
-Participants will be provided with an evaluation script and a starter kit that includes a simple baseline.
+
+- <b> Track A: Multilabel Emotion Detection</b> 
+  F-score based on the predicted labels and the gold ones will be used as the evaluation metric.
+
+- <b> Track B: Emotion Intensity</b> 
+  Pearson correlation between the predicted labels and the gold ones will be used as the evaluation metric.
+
+- <b>Track C: Crosslingual Emotion Detection</b> 
+  F-score based on the predicted labels and the gold ones will be used as the evaluation metric.
+
+- Participants will be provided with an evaluation script and a starter kit that includes a simple baseline.
 
 
 
