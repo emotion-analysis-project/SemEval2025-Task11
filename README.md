@@ -53,8 +53,7 @@
 
 - The competition website is now updated at Codabench: [Codabench Competition](https://www.codabench.org/competitions/3863/)
 - The dataset is now available on the competition website. If you previously downloaded the dataset via Google Drive, please download the updated version from the competition website as the data has been revised.
-- To download the dataset, follow the guides [here](https://docs.google.com/document/d/1yETTEiD8JVL8oeXu8Dvwc7OgPIDp0ROxd9nXifsXYYE/edit?usp=sharing) 
-
+- To download the dataset, follow the instructions [here](https://docs.google.com/document/d/1yETTEiD8JVL8oeXu8Dvwc7OgPIDp0ROxd9nXifsXYYE/edit?usp=sharing) 
   
 ### **10 September 2024**
 
