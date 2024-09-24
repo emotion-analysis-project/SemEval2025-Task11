@@ -127,7 +127,7 @@ The set of the six perceived emotion classes includes: **joy**, **sadness**, **f
 # Dataset and Download Links
 
  - Visit the official competition page on Codabench: https://www.codabench.org/competitions/3863/
- - Follow the detailed instructions provided to download the dataset [here](https://docs.google.com/document/d/1yETTEiD8JVL8oeXu8Dvwc7OgPIDp0ROxd9nXifsXYYE/edit?usp=sharing) 
+ - Follow the detailed instructions provided [here](https://docs.google.com/document/d/1yETTEiD8JVL8oeXu8Dvwc7OgPIDp0ROxd9nXifsXYYE/edit?usp=sharing) to download the data.
 
 <!-- 
 For each track, we provide the sample, training, and evaluation datasets. Find the links to download the datasets for each track below:
