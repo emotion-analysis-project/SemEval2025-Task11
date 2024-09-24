@@ -20,7 +20,7 @@
 ---
 # Join us
 
-[Google Group](https://groups.google.com/g/emotion-semeval-2025-participants) | [Create an Issue](https://github.com/emotion-analysis-project/SemEval2025-task11/issues) | [Join Discord](https://discord.gg/vRcDeYJd) | [Contact Us](mailto:emotion-semeval-2025-organisers@googlegroups.com) | [Visit competition website](https://www.codabench.org/competitions/3863/) | [Download Dataset](https://docs.google.com/document/d/1yETTEiD8JVL8oeXu8Dvwc7OgPIDp0ROxd9nXifsXYYE/edit?usp=sharing) 
+[Google Group](https://groups.google.com/g/emotion-semeval-2025-participants) | [Create an Issue](https://github.com/emotion-analysis-project/SemEval2025-task11/issues) | [Join Discord](https://discord.gg/g2xJtSbWhs) | [Contact Us](mailto:emotion-semeval-2025-organisers@googlegroups.com) | [Visit competition website](https://www.codabench.org/competitions/3863/) | [Download Dataset](https://docs.google.com/document/d/1yETTEiD8JVL8oeXu8Dvwc7OgPIDp0ROxd9nXifsXYYE/edit?usp=sharing) 
 
 ---
 # Content
@@ -438,7 +438,7 @@ We will soon release a dataset paper that describes the data collection, annotat
 
 # Communication
 
-- Join our [Discord Channel](https://discord.gg/vRcDeYJd) to ask questions and receive updates (coming soon).
+- Join our [Discord Channel](https://discord.gg/g2xJtSbWhs) to ask questions and receive updates (coming soon).
 - If you have any questions or issues, please feel free to [create an issue](https://github.com/emotion-analysis-project/SemEval2025-task11/issues).
 - Contact organizers at: emotion-semeval-2025-organisers[at]googlegroups[dot]com
 
