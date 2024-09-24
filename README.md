@@ -20,7 +20,7 @@
 ---
 # Join us
 
-[Google Group](https://groups.google.com/g/emotion-semeval-2025-participants) | [Create an Issue](https://github.com/emotion-analysis-project/SemEval2025-task11/issues) | [Join Discord](https://discord.gg/wnVUerj5Rz) | [Contact Us](mailto:emotion-semeval-2025-organisers@googlegroups.com) | [Visit competition website](https://www.codabench.org/competitions/3863/)
+[Google Group](https://groups.google.com/g/emotion-semeval-2025-participants) | [Create an Issue](https://github.com/emotion-analysis-project/SemEval2025-task11/issues) | [Join Discord](https://discord.gg/wnVUerj5Rz) | [Contact Us](mailto:emotion-semeval-2025-organisers@googlegroups.com) | [Visit competition website](https://www.codabench.org/competitions/3863/) | [Download Dataset](https://docs.google.com/document/d/1yETTEiD8JVL8oeXu8Dvwc7OgPIDp0ROxd9nXifsXYYE/edit?usp=sharing) 
 
 ---
 # Content
