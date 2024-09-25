@@ -25,6 +25,11 @@
 ---
 # Content
 
+- [Join us](#join-us)
+- [Content](#content)
+- [📢 **News**](#-news)
+    - [**16 September 2024**](#16-september-2024)
+    - [**10 September 2024**](#10-september-2024)
 - [Bridging the Gap in Text-Based Emotion Detection](#bridging-the-gap-in-text-based-emotion-detection)
 - [Languages](#languages)
 - [Tracks](#tracks)
@@ -33,7 +38,7 @@
     - [Track C: Cross-lingual Emotion Detection](#track-c-cross-lingual-emotion-detection)
 - [Dataset and Download Links](#dataset-and-download-links)
 - [Evaluation](#evaluation)
-- [Important Dates and Phases of the Task](#important-dates-and-phases-of-the-task)
+- [Important Dates and Task Phases](#important-dates-and-task-phases)
 - [How to Participate](#how-to-participate)
 - [Competition Rules and Terms](#competition-rules-and-terms)
 - [Dataset paper](#dataset-paper)
@@ -189,7 +194,7 @@ The table below shows the languages of the different datasets, their sizes and t
 | 2   | Algerian Arabic       | ARQ  | ✓          |          |       |        |  
 | 3   | Amharic               | AMH  | ✓          |  ✓        |    ✓   |        | 
 | 4   | Arabic                | ARB  | ✓          |          |       |        |
-| 5   | Brazilian Portuguese  | PTB  | ✓          | ✓        | ✓     |        | 
+| 5   | Brazilian Portuguese  | PTBR | ✓          | ✓        | ✓     |        | 
 | 6   | Chinese               | ZHO  | ✓          |          |       |        | 
 | 7   | English               | ENG  | ✓          | ✓        | ✓     |        |
 | 8   | German                | DEU  | ✓          | ✓        | ✓     |        |
