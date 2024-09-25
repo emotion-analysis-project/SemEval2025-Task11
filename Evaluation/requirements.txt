@@ -1,4 +1,0 @@
-scipy
-numpy
-tabulate2
-scikit-learn
