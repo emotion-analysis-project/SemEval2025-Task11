@@ -246,7 +246,7 @@ The performance of the submitted systems will be evaluated based on the followin
 Participants will be provided with an evaluation script and a starter kit that includes a simple baseline.
 
 - Check the Evaluation Script and submission format checker at [Evaluation Folder](https://github.com/emotion-analysis-project/SemEval2025-Task11/tree/main/Evaluation)
-- For details about the evaluation and format checker, check this [evaluation script guide](https://github.com/emotion-analysis-project/SemEval2025-Task11-Evaluation)
+- For details about the evaluation and format checker, check [evaluation script guide](https://github.com/emotion-analysis-project/SemEval2025-Task11-Evaluation)
 
 # Important Dates and Task Phases
 
