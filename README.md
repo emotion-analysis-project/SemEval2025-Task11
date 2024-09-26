@@ -93,7 +93,7 @@ We acknowledge the importance of this distinction as perceived emotions can diff
 We include a large number of languages with many predominantly spoken in regions characterised by a relatively limited availability of NLP resources (e.g., Africa, Asia, Eastern Europe and Latin America):
 
 
-[Afrikaans](https://en.wikipedia.org/wiki/Afrikaans), [Algerian Arabic](https://en.wikipedia.org/wiki/Algerian_Arabic), [Amharic](https://en.wikipedia.org/wiki/Amharic), [Hausa](https://en.wikipedia.org/wiki/Hausa_language), [Igbo](https://en.wikipedia.org/wiki/Igbo_language), [Kinyarwanda](https://en.wikipedia.org/wiki/Kinyarwanda), [Moroccan Arabic](https://en.wikipedia.org/wiki/Moroccan_Arabic), [Mozambican Portuguese](https://en.wikipedia.org/wiki/Mozambican_Portuguese), [Nigerian-Pidgin](https://en.wikipedia.org/wiki/Nigerian_Pidgin), [Oromo](https://en.wikipedia.org/wiki/Oromo_language), [Setswana](https://en.wikipedia.org/wiki/Tswana_language), [Somali](https://en.wikipedia.org/wiki/Somali_language), [Swahili](https://en.wikipedia.org/wiki/Swahili_language), [Tigrinya](https://en.wikipedia.org/wiki/Tigrinya_language),[Xitsonga](https://en.wikipedia.org/wiki/Tsonga_language), [isiXhosa](https://en.wikipedia.org/wiki/Xhosa_language), [Yoruba](https://en.wikipedia.org/wiki/Yoruba_language), [isiZulu](https://en.wikipedia.org/wiki/Zulu_language) [Modern Standard Arabic](https://en.wikipedia.org/wiki/Arabic), [Chinese](https://en.wikipedia.org/wiki/Chinese_language), [Hindi](https://en.wikipedia.org/wiki/Hindi), [Indonesian](https://en.wikipedia.org/wiki/Indonesian_language), [Javanese](https://en.wikipedia.org/wiki/Javanese_language), [Marathi](https://en.wikipedia.org/wiki/Marathi_language) [English](https://en.wikipedia.org/wiki/English_language), [German](https://en.wikipedia.org/wiki/German_language), [Romanian](https://en.wikipedia.org/wiki/Romanian_language), [Russian](https://en.wikipedia.org/wiki/Russian_language), [Latin American Spanish](https://en.wikipedia.org/wiki/Spanish_language_in_the_Americas), [Tatar](https://en.wikipedia.org/wiki/Tatar_language), [Tigrinya](https://en.wikipedia.org/wiki/Tigrinya_language),[Twi](https://en.wikipedia.org/wiki/Twi), [Ukrainian](https://en.wikipedia.org/wiki/Ukrainian_language), [Swedish](https://en.wikipedia.org/wiki/Swedish_language) [Brazilian Portuguese](https://en.wikipedia.org/wiki/Brazilian_Portuguese)
+[Afrikaans](https://en.wikipedia.org/wiki/Afrikaans), [Algerian Arabic](https://en.wikipedia.org/wiki/Algerian_Arabic), [Amharic](https://en.wikipedia.org/wiki/Amharic), [Brazilian Portuguese](https://en.wikipedia.org/wiki/Brazilian_Portuguese), [Chinese](https://en.wikipedia.org/wiki/Chinese_language), [English](https://en.wikipedia.org/wiki/English_language), [German](https://en.wikipedia.org/wiki/German_language), [Hausa](https://en.wikipedia.org/wiki/Hausa_language), [Hindi](https://en.wikipedia.org/wiki/Hindi), [Igbo](https://en.wikipedia.org/wiki/Igbo_language),  [Javanese](https://en.wikipedia.org/wiki/Javanese_language), [Indonesian](https://en.wikipedia.org/wiki/Indonesian_language), [isiXhosa](https://en.wikipedia.org/wiki/Xhosa_language), [isiZulu](https://en.wikipedia.org/wiki/Zulu_language), [Kinyarwanda](https://en.wikipedia.org/wiki/Kinyarwanda),  [Marathi](https://en.wikipedia.org/wiki/Marathi_language), [Latin American Spanish](https://en.wikipedia.org/wiki/Spanish_language_in_the_Americas), [Moroccan Arabic](https://en.wikipedia.org/wiki/Moroccan_Arabic), [Modern Standard Arabic](https://en.wikipedia.org/wiki/Arabic), [Mozambican Portuguese](https://en.wikipedia.org/wiki/Mozambican_Portuguese), [Nigerian-Pidgin](https://en.wikipedia.org/wiki/Nigerian_Pidgin), [Oromo](https://en.wikipedia.org/wiki/Oromo_language), [Romanian](https://en.wikipedia.org/wiki/Romanian_language), [Russian](https://en.wikipedia.org/wiki/Russian_language), [Setswana](https://en.wikipedia.org/wiki/Tswana_language), [Somali](https://en.wikipedia.org/wiki/Somali_language), [Swahili](https://en.wikipedia.org/wiki/Swahili_language), [Sundanese](https://en.wikipedia.org/wiki/Sundanese_language), [Swedish](https://en.wikipedia.org/wiki/Swedish_language), [Tatar](https://en.wikipedia.org/wiki/Tatar_language), [Tigrinya](https://en.wikipedia.org/wiki/Tigrinya_language), [Twi](https://en.wikipedia.org/wiki/Twi),[Xitsonga](https://en.wikipedia.org/wiki/Tsonga_language), [Ukrainian](https://en.wikipedia.org/wiki/Ukrainian_language), [Yoruba](https://en.wikipedia.org/wiki/Yoruba_language)
 
 
 
@@ -206,24 +206,25 @@ The table below shows the languages of the different datasets, their sizes and t
 | 14  | isiZulu               | ZUL  |            |          |       |        | 
 | 15  | Javanese              | JAV  |            |          |       |        | 
 | 16  | Kinyarwanda           | KIN  |            |          |       |        |
-| 17  | Marathi               | MAR  | ✓          |          |       |        | 
-| 18  | Moroccan Arabic       | ARY  |            |          |       |        |  
-| 19  | Mozambican Portuguese | PTM  |            |          |       |        |  
-| 20  | Nigerian-Pidgin       | PCM  |            |          |       |        | 
-| 21  | Oromo                 | ORM  | ✓          | ✓        | ✓     |        | 
-| 22  | Romanian              | RON  |            |          |       |        | 
-| 23  | Russian               | RUS  | ✓          | ✓        | ✓     |        | 
-| 24  | Setswana              | TSN  |            |          |       |        | 
-| 25  | Somali                | SOM  | ✓          | ✓        | ✓     |        | 
-| 26  | Latin American Spanish| SPA  | ✓          |          |       |        |
-| 27  | Swahili               | SWA  |            |          |       |        |  
-| 28  | Swedish               | SWE  |            |          |       |        |
-| 29  | Tatar                 | TAT  | ✓          |          |       |        |
-| 30  | Tigrinya              | TIR  | ✓          | ✓        | ✓     |        |
-| 31  | Twi                   | TWI  |            |          |       |        |
-| 32  | Ukrainian             | UKR  | ✓          |          |       |        |
-| 33  | Xitsonga              | TSO  |            |          |       |        |  
-| 34  | Yoruba                | YOR  |            |          |       |        | 
+| 17  | Latin American Spanish| ESP  | ✓          |          |       |        |
+| 18  | Marathi               | MAR  | ✓          |          |       |        | 
+| 19  | Moroccan Arabic       | ARY  |            |          |       |        |  
+| 20  | Mozambican Portuguese | PTM  |            |          |       |        |  
+| 21  | Nigerian-Pidgin       | PCM  |            |          |       |        | 
+| 22  | Oromo                 | ORM  | ✓          | ✓        | ✓     |        | 
+| 23  | Romanian              | RON  |            |          |       |        | 
+| 24  | Russian               | RUS  | ✓          | ✓        | ✓     |        | 
+| 25  | Setswana              | TSN  |            |          |       |        | 
+| 26  | Somali                | SOM  | ✓          | ✓        | ✓     |        | 
+| 27  | Sundanese             | SUN  | ✓          | ✓        | ✓     |        | 
+| 28  | Swahili               | SWA  |            |          |       |        |  
+| 29  | Swedish               | SWE  |            |          |       |        |
+| 30  | Tatar                 | TAT  | ✓          |          |       |        |
+| 31  | Tigrinya              | TIR  | ✓          | ✓        | ✓     |        |
+| 32  | Twi                   | TWI  |            |          |       |        |
+| 33  | Ukrainian             | UKR  | ✓          |          |       |        |
+| 34  | Xitsonga              | TSO  |            |          |       |        |  
+| 35  | Yoruba                | YOR  |            |          |       |        | 
 
 
 
@@ -236,17 +237,17 @@ The performance of the submitted systems will be evaluated based on the followin
 
 
 - <b> Track A: Multilabel Emotion Detection</b> 
-  F-score based on the predicted labels and the gold ones will be used as the evaluation metric.
+  The evaluation metric will be the F-score based on the predicted labels and the gold ones.
 
 - <b> Track B: Emotion Intensity</b> 
-  Pearson correlation between the predicted labels and the gold ones will be used as the evaluation metric.
+    The evaluation metric will be the Pearson correlation between the predicted labels and the gold ones.
 
 - <b>Track C: Crosslingual Emotion Detection</b> 
-  F-score based on the predicted labels and the gold ones will be used as the evaluation metric.
+  The evaluation metric will be the F-score based on the predicted labels and the gold ones.
 
 Participants will be provided with an evaluation script and a starter kit that includes a simple baseline.
 
-- For details about the evaluation Script and format checker, check [evaluation script guide](https://github.com/emotion-analysis-project/SemEval2025-Task11-Evaluation)
+- For details about the evaluation script and the format checker, check this [guide](https://github.com/emotion-analysis-project/SemEval2025-Task11-Evaluation).
 
 # Important Dates and Task Phases
 
