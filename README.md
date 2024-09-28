@@ -110,9 +110,11 @@ joy (**1**) or no joy (**0**), sadness (**1**) or no sadness (**0**), anger (**1
 **Note that for some languages such as English, the set perceived emotions includes 5 emotions: joy, sadness, fear, anger, or surprise and does not include disgust.** 
 
 
-A training dataset with gold emotion labels will be provided for this track. Below is a sample of English training data. 
+A training dataset with gold emotion labels will be provided for this track. 
 
-<img src="https://github.com/user-attachments/assets/af2973ea-4d3c-4104-8df0-47588952af9b" alt="Sample Training Data" width="100%">
+Below is a sample of English training data. A text can have multiple emotions (sample_5 expresses both joy and surprise), and a text with all 0 entries is considered neutral (sample_4 is neutral)
+
+<img width="627" alt="image" src="https://github.com/user-attachments/assets/73ca700f-6dcc-4dec-8001-75a7842e0cae">
 
 
 ### Track B: Emotion Intensity
