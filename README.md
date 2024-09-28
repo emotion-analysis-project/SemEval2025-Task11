@@ -114,7 +114,7 @@ A training dataset with gold emotion labels will be provided for this track.
 
 Below is a sample of English training data (Track A) . A text can have multiple emotions (sample_5 expresses both joy and surprise), and a text with all 0 entries is considered neutral (sample_4 is neutral)
 
-<img src="https://github.com/user-attachments/assets/73ca700f-6dcc-4dec-8001-75a7842e0cae" alt="Sample Training Data" width="100%">
+<img src="https://github.com/user-attachments/assets/73ca700f-6dcc-4dec-8001-75a7842e0cae" alt="Sample Training DataA" width="100%">
 
 
 ### Track B: Emotion Intensity
@@ -127,8 +127,7 @@ The set of ordinal intensity classes includes:
 
 Below is a sample of English training data (Track B). The value associated with each emotion indicates the degree of emotional presence in the text. For example, sample_5 has a value of 3 for joy and 3 for surprise, which indicates a high degree of both joy and surprise in the text.
 
-
-<img src=""https://github.com/user-attachments/assets/daeefcd8-f4b6-46c3-a692-8d8477d1dc11" alt="Sample Training Data" width="100%">
+<img src=""https://github.com/user-attachments/assets/daeefcd8-f4b6-46c3-a692-8d8477d1dc11" alt="Sample Training DataB" width="100%">
 
 
 **Note that for some languages such as English, the set perceived emotions includes 5 emotions: joy, sadness, fear, anger, or surprise and does not include disgust.** 
