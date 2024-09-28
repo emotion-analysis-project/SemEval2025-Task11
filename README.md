@@ -110,7 +110,7 @@ joy (**1**) or no joy (**0**), sadness (**1**) or no sadness (**0**), anger (**1
 **Note that for some languages such as English, the set perceived emotions includes 5 emotions: joy, sadness, fear, anger, or surprise and does not include disgust.** 
 
 
-A training dataset with gold emotion labels will be provided for this track. See sample of English training data. 
+A training dataset with gold emotion labels will be provided for this track. Below is a sample of English training data. 
 
 <img src="https://github.com/user-attachments/assets/af2973ea-4d3c-4104-8df0-47588952af9b" alt="Sample Training Data" width="100%">
 
