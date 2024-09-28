@@ -544,6 +544,8 @@ Saif M. Mohammad "Best Practices in the Creation and Use of Emotion Lexicons." F
 [Abinew Ali Ayele](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/abinew-ali.html), [Tadesse Destaw Belay](https://tadesse-destaw.github.io/), [Meriem Beloucif](https://belomeriem.github.io), [Christine de Kock](https://christinedekock.com), [Oana Ignat](https://oanaignat.github.io), [Vukosi Marivate](https://www.vima.co.za/), [Alexander Panchenko](https://faculty.skoltech.ru/people/alexanderpanchenko), [Terry Ruas](https://terryruas.com/), Nirmal Surange, [Daniela Teodorescu](https://dteodore.github.io/),
 [Jan Philip Wahle](https://jpwahle.com/), [Yi Zhou](https://jodiechou.github.io), [Saif M. Mohammad](https://www.saifmohammad.com/)
 
+## Ethical statement
+Coming soon
 
 <!-- 
 
