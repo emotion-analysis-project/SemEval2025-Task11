@@ -536,7 +536,7 @@ Janyce Wiebe, Theresa Wilson, and Claire Cardie. "Annotating expressions of opin
 
 Saif M. Mohammad,, and Svetlana Kiritchenko. "Understanding Emotions: A Dataset of Tweets to Study Interactions between Affect Categories." Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018).
 
-Saif M. Mohammad, Felipe Bravo-Marquez, Mohammad Salameh, and Svetlana Kiritchenko: SemEval-2018 Task 1: Affect in Tweets. In Proceedings of the International Workshop on Semantic Evaluation (SemEval-2018), New Orleans, LA, USA, June 2018.
+Saif M. Mohammad, Felipe Bravo-Marquez, Mohammad Salameh, and Svetlana Kiritchenko: SemEval-2018 Task 1: Affect in Tweets. In Proceedings of the International Workshop on Semantic Evaluation (SemEval-2018).
 
 Lieve Van Woensel and Nissy Nevil. 2019. What if your emotions were tracked to spy on you? European Parliamentary Research Service, PE 634.415. https://www.europarl.europa.eu/RegData/etudes/ATAG/2019/634415/EPRS_ATA(2019)634415_EN.pdf.
 
@@ -544,7 +544,7 @@ Jane Wakefield. 2021. AI emotion-detection software tested on Uyghurs. BBC. http
 
 Saif M.  Mohammad "Ethics sheet for automatic emotion recognition and sentiment analysis." Computational Linguistics 48.2 (2022): 239-278.
 
-Saif M. Mohammad "Best Practices in the Creation and Use of Emotion Lexicons." Findings of the Association for Computational Linguistics: EACL 2023. 2023.
+Saif M. Mohammad "Best Practices in the Creation and Use of Emotion Lexicons." Findings of the Association for Computational Linguistics (EACL 2023).
 
 
 # Organizers
