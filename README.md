@@ -521,14 +521,21 @@ We will soon release a dataset paper that describes the data collection, annotat
 
 #  Resources
 
-1. [SemEval 2025 Shared Tasks](https://semeval.github.io/SemEval2025/tasks)
-2. [Frequently Asked Questions about SemEval](https://semeval.github.io/faq.html)
-3. [Paper Submission Requirements](https://semeval.github.io/paper-requirements.html)
-4. [Guidelines for Writing Papers](https://semeval.github.io/system-paper-template.html)
-5. [Paper style files](https://github.com/acl-org/acl-style-files)
-6. Previous shared-tasks on emotion detection (to be added)
-7. Resources for Beginners (to be added)
-8. Paper submission link (to be added)
+2. [SemEval 2025 Shared Tasks](https://semeval.github.io/SemEval2025/tasks)
+3. [Frequently Asked Questions about SemEval](https://semeval.github.io/faq.html)
+4. [Paper Submission Requirements](https://semeval.github.io/paper-requirements.html)
+5. [Guidelines for Writing Papers](https://semeval.github.io/system-paper-template.html)
+6. [Paper style files](https://github.com/acl-org/acl-style-files)
+7. Previous shared-tasks on emotion detection [SemEval-2018 Task 1: Affect in Tweets](https://aclanthology.org/S18-1001)
+8. **Resources for Beginners**
+   - [Starter kit](baseline.ipynb)
+   - Writing tutorial: [Blogpost](https://github.com/nedjmaou/Writing_a_task_description_paper)
+   - Examples of additional datasets/lexicons:
+      - Emotion lexicons: http://saifmohammad.com/WebPages/lexicons.html 
+      - [SemEval-2018 Task 1: Affect in Tweets](https://aclanthology.org/S18-1001) for arb, eng, esp.
+      - [Emotions in Drama](https://github.com/lauchblatt/Emotions_in_Drama) for deu.
+      - [RESD](https://paperswithcode.com/dataset/resd), [CEDR-M7](https://huggingface.co/datasets/Aniemore/cedr-m7), [Dusha](https://github.com/salute-developers/golos/tree/master/dusha#dusha-dataset) for rus.
+10. Paper submission link (to be added)
 
 
 # References 
