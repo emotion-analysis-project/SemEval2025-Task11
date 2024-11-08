@@ -528,7 +528,7 @@ We will soon release a dataset paper that describes the data collection, annotat
 6. [Paper style files](https://github.com/acl-org/acl-style-files)
 7. Previous shared-tasks on emotion detection [SemEval-2018 Task 1: Affect in Tweets](https://aclanthology.org/S18-1001)
 8. **Resources for Beginners**
-   - [Starter kit](baseline.ipynb)
+   - [Starter kit](baseline.ipynb) (Note that you need to donload the data from CodaBench.)
    - Writing tutorial: [Blogpost](https://github.com/nedjmaou/Writing_a_task_description_paper)
    - Examples of additional datasets/lexicons:
       - Emotion lexicons: http://saifmohammad.com/WebPages/lexicons.html 
