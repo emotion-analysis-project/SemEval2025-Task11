@@ -489,7 +489,29 @@ We will soon release a dataset paper that describes the data collection, annotat
     <li>Yes.</li>
   </ul>
 </details>
-
+<details>
+<summary>Can I use additional datasets (e.g, publicly provided ones from other sources)?</summary>
+  <ul>
+    <li>Yes. Please do cite them in the system description paper.</li>
+  </ul>
+</details>
+<details>
+  <summary>How was the data collected?</summary>
+   <ul>
+    <li>
+   The data collection process a standard one, you can check previous papers in the area to have an idea (e.g., https://aclanthology.org/S18-1001.pdf). We have data instances (text snippets) annotated by >3 annotators. The annotators       decide whether some emotion is present in a given instance (text snippet). 
+   For details about the data sources, annotation guidelines, number of annotators per language, etc., this information will be shared in the dataset paper.
+    </li>
+   </ul>
+</details>
+<details>
+  <summary>How was the data annotated and did you use LLMs to annotate it?</summary>
+   <ul>
+    <li>
+  No. The data instances were annotated by (>=3) native speakers and no LLMs were involved in the process. The annotators labeled the whole sentences not the words and they were expected to have different opinions as (1)this a subjective task and emotions are complex and (2)we were interested in the emotion(s) that they perceived. See the task definition for more details.
+    </li>
+   </ul>
+</details>
 <details>
   <summary>Will I be included in the final ranking if I do not write a system description paper?</summary>
   <ul>
