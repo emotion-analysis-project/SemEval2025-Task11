@@ -93,7 +93,7 @@ We acknowledge the importance of this distinction as perceived emotions can diff
 We include a large number of languages with many predominantly spoken in regions characterised by a relatively limited availability of NLP resources (e.g., Africa, Asia, Eastern Europe and Latin America):
 
 
-[Afrikaans](https://en.wikipedia.org/wiki/Afrikaans), [Algerian Arabic](https://en.wikipedia.org/wiki/Algerian_Arabic), [Amharic](https://en.wikipedia.org/wiki/Amharic), [Brazilian Portuguese](https://en.wikipedia.org/wiki/Brazilian_Portuguese), [Chinese](https://en.wikipedia.org/wiki/Chinese_language), [English](https://en.wikipedia.org/wiki/English_language), [German](https://en.wikipedia.org/wiki/German_language), [Hausa](https://en.wikipedia.org/wiki/Hausa_language), [Hindi](https://en.wikipedia.org/wiki/Hindi), [Igbo](https://en.wikipedia.org/wiki/Igbo_language),  [Javanese](https://en.wikipedia.org/wiki/Javanese_language), [Indonesian](https://en.wikipedia.org/wiki/Indonesian_language), [isiXhosa](https://en.wikipedia.org/wiki/Xhosa_language), [isiZulu](https://en.wikipedia.org/wiki/Zulu_language), [Kinyarwanda](https://en.wikipedia.org/wiki/Kinyarwanda),  [Marathi](https://en.wikipedia.org/wiki/Marathi_language), [Latin American Spanish](https://en.wikipedia.org/wiki/Spanish_language_in_the_Americas), [Moroccan Arabic](https://en.wikipedia.org/wiki/Moroccan_Arabic), [Modern Standard Arabic](https://en.wikipedia.org/wiki/Arabic), [Mozambican Portuguese](https://en.wikipedia.org/wiki/Mozambican_Portuguese), [Nigerian-Pidgin](https://en.wikipedia.org/wiki/Nigerian_Pidgin), [Oromo](https://en.wikipedia.org/wiki/Oromo_language), [Romanian](https://en.wikipedia.org/wiki/Romanian_language), [Russian](https://en.wikipedia.org/wiki/Russian_language), [Setswana](https://en.wikipedia.org/wiki/Tswana_language), [Somali](https://en.wikipedia.org/wiki/Somali_language), [Swahili](https://en.wikipedia.org/wiki/Swahili_language), [Sundanese](https://en.wikipedia.org/wiki/Sundanese_language), [Swedish](https://en.wikipedia.org/wiki/Swedish_language), [Tatar](https://en.wikipedia.org/wiki/Tatar_language), [Tigrinya](https://en.wikipedia.org/wiki/Tigrinya_language), [Twi](https://en.wikipedia.org/wiki/Twi),[Xitsonga](https://en.wikipedia.org/wiki/Tsonga_language), [Ukrainian](https://en.wikipedia.org/wiki/Ukrainian_language), [Yoruba](https://en.wikipedia.org/wiki/Yoruba_language).
+[Afrikaans](https://en.wikipedia.org/wiki/Afrikaans), [Algerian Arabic](https://en.wikipedia.org/wiki/Algerian_Arabic), [Amharic](https://en.wikipedia.org/wiki/Amharic), [Brazilian Portuguese](https://en.wikipedia.org/wiki/Brazilian_Portuguese), [Chinese](https://en.wikipedia.org/wiki/Chinese_language), [English](https://en.wikipedia.org/wiki/English_language), [German](https://en.wikipedia.org/wiki/German_language), [Hausa](https://en.wikipedia.org/wiki/Hausa_language), [Hindi](https://en.wikipedia.org/wiki/Hindi), [Igbo](https://en.wikipedia.org/wiki/Igbo_language),  [Javanese](https://en.wikipedia.org/wiki/Javanese_language), [Indonesian](https://en.wikipedia.org/wiki/Indonesian_language), [isiXhosa](https://en.wikipedia.org/wiki/Xhosa_language), [isiZulu](https://en.wikipedia.org/wiki/Zulu_language), [Kinyarwanda](https://en.wikipedia.org/wiki/Kinyarwanda),  [Marathi](https://en.wikipedia.org/wiki/Marathi_language), [Latin American Spanish](https://en.wikipedia.org/wiki/Spanish_language_in_the_Americas), [Moroccan Arabic](https://en.wikipedia.org/wiki/Moroccan_Arabic), [Mozambican Portuguese](https://en.wikipedia.org/wiki/Mozambican_Portuguese), [Nigerian-Pidgin](https://en.wikipedia.org/wiki/Nigerian_Pidgin), [Oromo](https://en.wikipedia.org/wiki/Oromo_language), [Romanian](https://en.wikipedia.org/wiki/Romanian_language), [Russian](https://en.wikipedia.org/wiki/Russian_language), [Setswana](https://en.wikipedia.org/wiki/Tswana_language), [Somali](https://en.wikipedia.org/wiki/Somali_language), [Swahili](https://en.wikipedia.org/wiki/Swahili_language), [Sundanese](https://en.wikipedia.org/wiki/Sundanese_language), [Swedish](https://en.wikipedia.org/wiki/Swedish_language), [Tatar](https://en.wikipedia.org/wiki/Tatar_language), [Tigrinya](https://en.wikipedia.org/wiki/Tigrinya_language), [Twi](https://en.wikipedia.org/wiki/Twi),[Xitsonga](https://en.wikipedia.org/wiki/Tsonga_language), [Ukrainian](https://en.wikipedia.org/wiki/Ukrainian_language), [Yoruba](https://en.wikipedia.org/wiki/Yoruba_language).
 
 
 
@@ -203,38 +203,37 @@ The table below shows the languages of the different datasets, their sizes and t
 | 1   | Afrikaans             | AFR  | ✓          |        |      |        | 
 | 2   | Algerian Arabic       | ARQ  | ✓          |          |       |        |  
 | 3   | Amharic               | AMH  | ✓          |  ✓        |    ✓   |        | 
-| 4   | Arabic                | ARB  | ✓          |          |       |        |
-| 5   | Brazilian Portuguese  | PTBR | ✓          | ✓        | ✓     |        | 
-| 6   | Chinese               | ZHO  | ✓          |          |       |        | 
-| 7   | English               | ENG  | ✓          | ✓        | ✓     |        |
-| 8   | German                | DEU  | ✓          | ✓        | ✓     |        |
-| 9   | Hausa                 | HAU  | ✓          |          |       |        | 
-| 10  | Hindi                 | HIN  | ✓          |          |       |        | 
-| 11  | Igbo                  | IBO  |            |          |       |        | 
-| 12  | Indonesian            | IND  |            |          |       |        |  
-| 13  | isiXhosa              | XHO  |            |          |       |        | 
-| 14  | isiZulu               | ZUL  |            |          |       |        | 
-| 15  | Javanese              | JAV  |            |          |       |        | 
-| 16  | Kinyarwanda           | KIN  |            |          |       |        |
-| 17  | Latin American Spanish| ESP  | ✓          |          |       |        |
-| 18  | Marathi               | MAR  | ✓          |          |       |        | 
-| 19  | Moroccan Arabic       | ARY  |            |          |       |        |  
-| 20  | Mozambican Portuguese | PTM  |            |          |       |        |  
-| 21  | Nigerian-Pidgin       | PCM  |            |          |       |        | 
-| 22  | Oromo                 | ORM  | ✓          | ✓        | ✓     |        | 
-| 23  | Romanian              | RON  |            |          |       |        | 
-| 24  | Russian               | RUS  | ✓          | ✓        | ✓     |        | 
-| 25  | Setswana              | TSN  |            |          |       |        | 
-| 26  | Somali                | SOM  | ✓          | ✓        | ✓     |        | 
-| 27  | Sundanese             | SUN  | ✓          | ✓        | ✓     |        | 
-| 28  | Swahili               | SWA  |            |          |       |        |  
-| 29  | Swedish               | SWE  |            |          |       |        |
-| 30  | Tatar                 | TAT  | ✓          |          |       |        |
-| 31  | Tigrinya              | TIR  | ✓          | ✓        | ✓     |        |
-| 32  | Twi                   | TWI  |            |          |       |        |
-| 33  | Ukrainian             | UKR  | ✓          |          |       |        |
-| 34  | Xitsonga              | TSO  |            |          |       |        |  
-| 35  | Yoruba                | YOR  |            |          |       |        | 
+| 4   | Brazilian Portuguese  | PTBR | ✓          | ✓        | ✓     |        | 
+| 5   | Chinese               | ZHO  | ✓          |          |       |        | 
+| 6   | English               | ENG  | ✓          | ✓        | ✓     |        |
+| 7   | German                | DEU  | ✓          | ✓        | ✓     |        |
+| 8   | Hausa                 | HAU  | ✓          |          |       |        | 
+| 9  | Hindi                 | HIN  | ✓          |          |       |        | 
+| 10  | Igbo                  | IBO  |            |          |       |        | 
+| 11  | Indonesian            | IND  |            |          |       |        |  
+| 12  | isiXhosa              | XHO  |            |          |       |        | 
+| 13  | isiZulu               | ZUL  |            |          |       |        | 
+| 14  | Javanese              | JAV  |            |          |       |        | 
+| 15  | Kinyarwanda           | KIN  |            |          |       |        |
+| 16  | Latin American Spanish| ESP  | ✓          |          |       |        |
+| 17  | Marathi               | MAR  | ✓          |          |       |        | 
+| 18  | Moroccan Arabic       | ARY  |            |          |       |        |  
+| 19  | Mozambican Portuguese | PTM  |            |          |       |        |  
+| 20  | Nigerian-Pidgin       | PCM  |            |          |       |        | 
+| 21  | Oromo                 | ORM  | ✓          | ✓        | ✓     |        | 
+| 22  | Romanian              | RON  |            |          |       |        | 
+| 23  | Russian               | RUS  | ✓          | ✓        | ✓     |        | 
+| 24  | Setswana              | TSN  |            |          |       |        | 
+| 25  | Somali                | SOM  | ✓          | ✓        | ✓     |        | 
+| 26  | Sundanese             | SUN  | ✓          | ✓        | ✓     |        | 
+| 27  | Swahili               | SWA  |            |          |       |        |  
+| 28  | Swedish               | SWE  |            |          |       |        |
+| 29  | Tatar                 | TAT  | ✓          |          |       |        |
+| 30  | Tigrinya              | TIR  | ✓          | ✓        | ✓     |        |
+| 31  | Twi                   | TWI  |            |          |       |        |
+| 32  | Ukrainian             | UKR  | ✓          |          |       |        |
+| 33  | Xitsonga              | TSO  |            |          |       |        |  
+| 34  | Yoruba                | YOR  |            |          |       |        | 
 
 
 
