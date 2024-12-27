@@ -579,7 +579,7 @@ Saif M. Mohammad "Best Practices in the Creation and Use of Emotion Lexicons." F
 
 [Shamsuddeen Hassan Muhammad](https://shmuhammadd.github.io/), [Seid Muhie Yimam ](https://seyyaw.github.io/) , [Nedjma Ousidhoum](https://nedjmaou.github.io/),
 [Idris Abdulmumin](https://abumafrim.github.io/), [David Ifeoluwa Adelani](https://dadelani.github.io/), [Ibrahim Said Ahmad](https://isahmadbbr.github.io/), [Alham Fikri Aji](https://afaji.github.io/), [Felermino Ali](https://felerminoali.github.io/#about), [Vladimir Araujo](https://vgaraujov.github.io/),
-[Abinew Ali Ayele](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/abinew-ali.html), [Tadesse Destaw Belay](https://tadesse-destaw.github.io/), [Meriem Beloucif](https://belomeriem.github.io), [Christine de Kock](https://christinedekock.com), [Oana Ignat](https://oanaignat.github.io), [Vukosi Marivate](https://www.vima.co.za/), [Alexander Panchenko](https://faculty.skoltech.ru/people/alexanderpanchenko), [Terry Ruas](https://terryruas.com/), Nirmal Surange, [Daniela Teodorescu](https://dteodore.github.io/),
+[Abinew Ali Ayele](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/abinew-ali.html),[Meriem Beloucif](https://belomeriem.github.io), [Christine de Kock](https://christinedekock.com), [Oana Ignat](https://oanaignat.github.io), [Vukosi Marivate](https://www.vima.co.za/), [Alexander Panchenko](https://faculty.skoltech.ru/people/alexanderpanchenko), [Terry Ruas](https://terryruas.com/), Nirmal Surange, [Daniela Teodorescu](https://dteodore.github.io/),
 [Jan Philip Wahle](https://jpwahle.com/), [Yi Zhou](https://jodiechou.github.io), [Saif M. Mohammad](https://www.saifmohammad.com/)
 
 
