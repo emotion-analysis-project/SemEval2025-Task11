@@ -119,7 +119,6 @@ joy (**1**) or no joy (**0**), sadness (**1**) or no sadness (**0**), anger (**1
 **Note that for some languages such as English, the set perceived emotions includes 5 emotions: joy, sadness, fear, anger, or surprise and does not include disgust.** 
 
 
-A training dataset with gold emotion labels will be provided for this track. 
 
 ### Example
 Below is a sample of the English training data (Track A). A text snippet can have multiple emotions (e.g., the sentence with the ID **sample_05** expresses both joy and surprise), or none (e.g., **sample_04** with all the emotion values equal to 0 is considered neutral).
@@ -127,6 +126,7 @@ Below is a sample of the English training data (Track A). A text snippet can hav
 <img src="https://github.com/user-attachments/assets/73ca700f-6dcc-4dec-8001-75a7842e0cae" alt="Sample Training DataA" width="100%">
 
 
+> A training dataset with gold emotion labels will be provided for this track. 
 
 ## Track B: Emotion Intensity
 Given a target text  and a target perceived emotion, predict the intensity for each of the classes. 
@@ -150,6 +150,9 @@ Below is a sample of the English training data (Track B). For each emotion, the 
 
 **Note that for some languages such as English, the set perceived emotions includes 5 emotions: joy, sadness, fear, anger, or surprise and does not include disgust.** 
 
+> A training dataset with gold emotion labels will be provided for this track. 
+
+
 ##  Track C: Cross-lingual Emotion Detection 
 Given a labeled training set in one of the languages given [above](#languages), predict the perceived emotion labels of a new text instance in a different target language. 
 
@@ -159,6 +162,9 @@ The dataset in this track has the same format as the dataset in Track A.
 
 
 **Note that for some languages such as English, the set perceived emotions includes 5 emotions: joy, sadness, fear, anger, or surprise and does not include disgust.** 
+
+
+> A training dataset **will not be provided** for this track. 
 
 <!-- 
 For each track, we provide the sample, training, and evaluation datasets. Find the links to download the datasets for each track below:
