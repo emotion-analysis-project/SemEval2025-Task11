@@ -221,9 +221,14 @@ The table below presents the class distribution for the currently released langu
 
 # Languages and Tracks
 
-The table below lists the tracks and indicates which languages are available in each track for the shared task.
+The table below lists the tracks and specifies the languages available in each track for the shared task. Each track has its own dedicated Codabench page (competition platform), and the corresponding links are provided below:
 
-> Participants may choose to participate in one or more languages and tracks of their preference.
+1. **Track A: Multi-label Emotion Detection** – [Track A Codabench](#link)  
+2. **Track B: Emotion Intensity** – [Track B Codabench](#link)  
+3. **Track C: Cross-lingual Emotion Detection** – [Track C Codabench](#link)  
+
+
+> Participants may choose to participate in one or more languages and tracks of their preference.z
 
 
 | No. | Language                                                  | Code  | Track 1 | Track 2 | Track 3 |
