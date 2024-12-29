@@ -50,7 +50,7 @@
 
 ### **30 December 2024**
 
-We are pleased to annouce important updates regarding the shared task setup. Below are the details of the changes:
+🔥 We are pleased to annouce important updates regarding the shared task setup. Below are the details of the changes:
 
 **Separate Codabench for Each Track**
 
