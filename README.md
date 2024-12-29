@@ -20,7 +20,7 @@
 ---
 # Join us
 
-[Google Group](https://groups.google.com/g/emotion-semeval-2025-participants) | [Create an Issue](https://github.com/emotion-analysis-project/SemEval2025-task11/issues) | [Join Discord](https://discord.gg/g2xJtSbWhs) | [Contact Us](mailto:emotion-semeval-2025-organisers@googlegroups.com) | [Visit competition website](https://www.codabench.org/competitions/3863/) | [Download Dataset](https://docs.google.com/document/d/1yETTEiD8JVL8oeXu8Dvwc7OgPIDp0ROxd9nXifsXYYE/edit?usp=sharing) | [How to Participate](https://docs.google.com/document/d/1yETTEiD8JVL8oeXu8Dvwc7OgPIDp0ROxd9nXifsXYYE/edit)|
+[Google Group](https://groups.google.com/g/emotion-semeval-2025-participants) | [Create an Issue](https://github.com/emotion-analysis-project/SemEval2025-task11/issues) | [Join Discord](https://discord.gg/g2xJtSbWhs) | [Contact Us](mailto:emotion-semeval-2025-organisers@googlegroups.com) | [Visit competition website](https://www.codabench.org/competitions/3863/) | [Download Dataset](https://docs.google.com/document/d/1yETTEiD8JVL8oeXu8Dvwc7OgPIDp0ROxd9nXifsXYYE/edit?usp=sharing) | [How to Participate](https://docs.google.com/document/d/1O10l9McuoBtw3dIMQbgAcmsoyaWW0DrkBZvC4CPc0yc/edit?usp=sharing)|
 
 ---
 # Content
@@ -91,7 +91,6 @@ Previously, all tracks (A, B, and C) were hosted on a single Codabench competiti
 
 - The competition website is now updated on Codabench: [Codabench Competition](https://www.codabench.org/competitions/3863/).
 - The dataset is now available on the competition website. If you previously downloaded the dataset via Google Drive, please download the updated version from the competition website as the data has been revised.
-- To download the data, follow the instructions provided [here](https://docs.google.com/document/d/1yETTEiD8JVL8oeXu8Dvwc7OgPIDp0ROxd9nXifsXYYE/edit?usp=sharing).
   
 ### **10 September 2024**
 
