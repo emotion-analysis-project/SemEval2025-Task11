@@ -111,7 +111,7 @@ We include a large number of languages with many predominantly spoken in regions
 > This shared task consists of three tracks: Track A, Track B, and Track C. Participants can choose to participate in one or more of these tracks.
 
 
-### Track A: Multi-label Emotion Detection 
+## Track A: Multi-label Emotion Detection 
 Given a target text snippet, predict the **perceived emotion(s) of the speaker**. Specifically, select whether each of the following emotions apply: **joy**, **sadness**, **fear**, **anger**, **surprise**, or **disgust**. In other words, label the text snippet with:
 joy (**1**) or no joy (**0**), sadness (**1**) or no sadness (**0**), anger (**1**) or no anger (**0**), surprise (**1**) or no surprise (**0**), and disgust (**1**) or no disgust (**0**).
 
@@ -125,13 +125,17 @@ Below is a sample of the English training data (Track A). A text snippet can hav
 <img src="https://github.com/user-attachments/assets/73ca700f-6dcc-4dec-8001-75a7842e0cae" alt="Sample Training DataA" width="100%">
 
 
-### Track B: Emotion Intensity
+## Track B: Emotion Intensity
 Given a target text  and a target perceived emotion, predict the intensity for each of the classes. 
 
 The set of the perceived emotions includes: **joy**, **sadness**, **fear**, **anger**, **surprise**, or **disgust**.
 
 The set of ordinal intensity classes includes:
-**0** for no emotion, **1** for a low degree of emotion, **2** for a moderate degree of emotion, and **3** for a high degree of emotion.
+
+- **0**: No emotion  
+- **1**: Low degree of emotion  
+- **2**: Moderate degree of emotion  
+- **3**: High degree of emotion
 
 Below is a sample of the English training data (Track B). For each emotion, the value associated with it indicates its degree of intensity. For example, **sample_05** has a value of 3 for joy and a value of 3 for surprise, i.e., **high degrees** of joy and surprise in the text snippet.
 
@@ -140,7 +144,7 @@ Below is a sample of the English training data (Track B). For each emotion, the 
 
 **Note that for some languages such as English, the set perceived emotions includes 5 emotions: joy, sadness, fear, anger, or surprise and does not include disgust.** 
 
-### Track C: Cross-lingual Emotion Detection 
+##  Track C: Cross-lingual Emotion Detection 
 Given a labeled training set in one of the languages given [above](#languages), predict the perceived emotion labels of a new text instance in a different target language. 
 
 The set of the six perceived emotion classes includes: **joy**, **sadness**, **fear**, **anger**, **surprise**, or **disgust**.
