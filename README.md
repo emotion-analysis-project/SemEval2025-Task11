@@ -23,7 +23,6 @@
 ---
 # Content
 
-- [Content](#content)
 - [📢 **News**](#-news)
     - [**16 September 2024**](#16-september-2024)
     - [**10 September 2024**](#10-september-2024)
