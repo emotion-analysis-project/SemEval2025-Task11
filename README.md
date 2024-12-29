@@ -64,8 +64,10 @@ This shared task consists of three tracks (A, B, and C). Previously, all tracks 
    - The participation guide has been updated to reflect the changes in the Codabench submission process. Please [review the guide](https://docs.google.com/document/d/1O10l9McuoBtw3dIMQbgAcmsoyaWW0DrkBZvC4CPc0yc/edit?usp=sharing) for detailed instructions.
    - We have also updated the submission instructions on the Codabench page. Refer to the **"Submission Instructions"** section on Codabench for a detailed guide on how to prepare your submission file.
 **Release of All Shared Task Languages**
-   
-   - We have released the updated list of languages included in the shared task. Details of which languages are available in each track can be found in this [section](https://github.com/emotion-analysis-project/SemEval2025-Task11/blob/main/README.md#languages-and-tracks).
+
+**New Dataset Release**
+
+   - We have released datasets for all languages included in the shared task. Details about which languages are available in each track can be found in this [section](https://github.com/emotion-analysis-project/SemEval2025-Task11/blob/main/README.md#languages-and-tracks).
 
 **New Dataset Download Process**
    
