@@ -121,6 +121,7 @@ joy (**1**) or no joy (**0**), sadness (**1**) or no sadness (**0**), anger (**1
 
 A training dataset with gold emotion labels will be provided for this track. 
 
+### Example
 Below is a sample of the English training data (Track A). A text snippet can have multiple emotions (e.g., the sentence with the ID **sample_05** expresses both joy and surprise), or none (e.g., **sample_04** with all the emotion values equal to 0 is considered neutral).
 
 <img src="https://github.com/user-attachments/assets/73ca700f-6dcc-4dec-8001-75a7842e0cae" alt="Sample Training DataA" width="100%">
