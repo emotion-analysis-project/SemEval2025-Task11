@@ -70,6 +70,14 @@ This shared task consists of three tracks (A, B, and C). Previously, all tracks 
    - We have also updated the submission instructions on the Codabench page. Refer to the **"Submission Instructions"** section on Codabench for a detailed guide on how to prepare your submission file.
 **Release of All Shared Task Languages**
 
+**Revised Evaluation Timeline and SemEval 2025 Location**
+
+- The evaluation period has been updated as follows:  
+  - **Start Date:** 15 January 2025  
+  - **End Date:** 28 January 2025  
+
+- SemEval 2025 will be co-located with **ACL 2025**. We look forward to seeing you there!
+
   
 **Revised Evaluation Timeline**
     
@@ -79,7 +87,7 @@ This shared task consists of three tracks (A, B, and C). Previously, all tracks 
 
 **SemEval 2025 Location**
     
-   - SemEval 2025 will be co-located with **ACL 2025**. We look forward to seeing you there!
+   - SemEval 2025 will be co-located with **[ACL 2025 (will take place in Vienna, Austria)](https://2025.aclweb.org/)**. We look forward to seeing you there!
 
 
 ### **16 September 2024**
