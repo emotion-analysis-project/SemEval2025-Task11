@@ -198,42 +198,44 @@ The table below shows the languages of the different datasets, their sizes and t
 
 
  
-| No. | Language              | Code | Pilot Data | Training | Dev   | Size   | 
-|-----|-----------------------|------|------------|----------|-------|--------|
-| 1   | Afrikaans             | AFR  | ✓          |        |      |        | 
-| 2   | Algerian Arabic       | ARQ  | ✓          |          |       |        |  
-| 3   | Amharic               | AMH  | ✓          |  ✓        |    ✓   |        | 
-| 4   | Brazilian Portuguese  | PTBR | ✓          | ✓        | ✓     |        | 
-| 5   | Chinese               | ZHO  | ✓          |          |       |        | 
-| 6   | English               | ENG  | ✓          | ✓        | ✓     |        |
-| 7   | German                | DEU  | ✓          | ✓        | ✓     |        |
-| 8   | Hausa                 | HAU  | ✓          |          |       |        | 
-| 9  | Hindi                 | HIN  | ✓          |          |       |        | 
-| 10  | Igbo                  | IBO  |            |          |       |        | 
-| 11  | Indonesian            | IND  |            |          |       |        |  
-| 12  | isiXhosa              | XHO  |            |          |       |        | 
-| 13  | isiZulu               | ZUL  |            |          |       |        | 
-| 14  | Javanese              | JAV  |            |          |       |        | 
-| 15  | Kinyarwanda           | KIN  |            |          |       |        |
-| 16  | Latin American Spanish| ESP  | ✓          |          |       |        |
-| 17  | Marathi               | MAR  | ✓          |          |       |        | 
-| 18  | Moroccan Arabic       | ARY  |            |          |       |        |  
-| 19  | Mozambican Portuguese | PTM  |            |          |       |        |  
-| 20  | Nigerian-Pidgin       | PCM  |            |          |       |        | 
-| 21  | Oromo                 | ORM  | ✓          | ✓        | ✓     |        | 
-| 22  | Romanian              | RON  |            |          |       |        | 
-| 23  | Russian               | RUS  | ✓          | ✓        | ✓     |        | 
-| 24  | Setswana              | TSN  |            |          |       |        | 
-| 25  | Somali                | SOM  | ✓          | ✓        | ✓     |        | 
-| 26  | Sundanese             | SUN  | ✓          | ✓        | ✓     |        | 
-| 27  | Swahili               | SWA  |            |          |       |        |  
-| 28  | Swedish               | SWE  |            |          |       |        |
-| 29  | Tatar                 | TAT  | ✓          |          |       |        |
-| 30  | Tigrinya              | TIR  | ✓          | ✓        | ✓     |        |
-| 31  | Twi                   | TWI  |            |          |       |        |
-| 32  | Ukrainian             | UKR  | ✓          |          |       |        |
-| 33  | Xitsonga              | TSO  |            |          |       |        |  
-| 34  | Yoruba                | YOR  |            |          |       |        | 
+
+| No. | Language              | Code | Track 1 | Track 2 | Track 3 |
+|-----|-----------------------|------|---------|---------|---------|
+| 1   | [Afrikaans](https://en.wikipedia.org/wiki/Afrikaans)             | AFR  | ✓       |         |         |
+| 2   | [Algerian Arabic](https://en.wikipedia.org/wiki/Algerian_Arabic)       | ARQ  | ✓       |         |         |  
+| 3   | [Amharic](https://en.wikipedia.org/wiki/Amharic)               | AMH  | ✓       | ✓       | ✓       |
+| 4   | [Brazilian Portuguese](https://en.wikipedia.org/wiki/Brazilian_Portuguese)  | PTBR | ✓       | ✓       | ✓       |
+| 5   | [Chinese](https://en.wikipedia.org/wiki/Chinese_language)               | ZHO  | ✓       |         |         |
+| 6   | [Emakwa](https://en.wikipedia.org/wiki/Yoruba_language)                | YOR  |         |         |         |
+| 7   | [English](https://en.wikipedia.org/wiki/English_language)               | ENG  | ✓       | ✓       | ✓       |
+| 8   | [German](https://en.wikipedia.org/wiki/German_language)                | DEU  | ✓       | ✓       | ✓       |
+| 9   | [Hausa](https://en.wikipedia.org/wiki/Hausa_language)                 | HAU  | ✓       |         |         | 
+| 10  | [Hindi](https://en.wikipedia.org/wiki/Hindi)                 | HIN  | ✓       |         |         | 
+| 11  | [Igbo](https://en.wikipedia.org/wiki/Igbo_language)                  | IBO  |         |         |         |
+| 12  | [Indonesian](https://en.wikipedia.org/wiki/Indonesian_language)            | IND  |         |         |         |  
+| 13  | [isiXhosa](https://en.wikipedia.org/wiki/Xhosa_language)              | XHO  |         |         |         |
+| 14  | [isiZulu](https://en.wikipedia.org/wiki/Zulu_language)               | ZUL  |         |         |         |
+| 15  | [Javanese](https://en.wikipedia.org/wiki/Javanese_language)              | JAV  |         |         |         |
+| 16  | [Kinyarwanda](https://en.wikipedia.org/wiki/Kinyarwanda)           | KIN  |         |         |         |
+| 17  | [Latin American Spanish](https://en.wikipedia.org/wiki/Spanish_language_in_the_Americas) | ESP  | ✓       |         |         |
+| 18  | [Marathi](https://en.wikipedia.org/wiki/Marathi_language)               | MAR  | ✓       |         |         | 
+| 19  | [Moroccan Arabic](https://en.wikipedia.org/wiki/Moroccan_Arabic)       | ARY  |         |         |         |  
+| 20  | [Mozambican Portuguese](https://en.wikipedia.org/wiki/Mozambican_Portuguese) | PTM  |         |         |         |  
+| 21  | [Nigerian-Pidgin](https://en.wikipedia.org/wiki/Nigerian_Pidgin)       | PCM  |         |         |         | 
+| 22  | [Oromo](https://en.wikipedia.org/wiki/Oromo_language)                 | ORM  | ✓       | ✓       | ✓       | 
+| 23  | [Romanian](https://en.wikipedia.org/wiki/Romanian_language)              | RON  |         |         |         | 
+| 24  | [Russian](https://en.wikipedia.org/wiki/Russian_language)               | RUS  | ✓       | ✓       | ✓       | 
+| 25  | [Somali](https://en.wikipedia.org/wiki/Somali_language)                | SOM  | ✓       | ✓       | ✓       | 
+| 26  | [Sundanese](https://en.wikipedia.org/wiki/Sundanese_language)             | SUN  | ✓       | ✓       | ✓       | 
+| 27  | [Swahili](https://en.wikipedia.org/wiki/Swahili_language)               | SWA  |         |         |         |  
+| 28  | [Swedish](https://en.wikipedia.org/wiki/Swedish_language)               | SWE  |         |         |         |
+| 29  | [Tatar](https://en.wikipedia.org/wiki/Tatar_language)                 | TAT  | ✓       |         |         |
+| 30  | [Tigrinya](https://en.wikipedia.org/wiki/Tigrinya_language)              | TIR  | ✓       | ✓       | ✓       |
+| 31  | [Ukrainian](https://en.wikipedia.org/wiki/Ukrainian_language)             | UKR  | ✓       |         |         |
+| 32  | [Yoruba](https://en.wikipedia.org/wiki/Yoruba_language)                | YOR  |         |         |         |
+
+
+
 
 
 
