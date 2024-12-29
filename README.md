@@ -67,7 +67,7 @@ This shared task consists of three tracks (A, B, and C). Previously, all tracks 
 
 **New Dataset Release**
 
-   - We have released datasets for all languages included in the shared task. Details about which languages are available in each track can be found in this [section](https://github.com/emotion-analysis-project/SemEval2025-Task11?tab=readme-ov-file#track-a-multi-label-emotion-detection).
+   - We have released datasets for all languages included in the shared task. Details about which languages are available in each track can be found in this [section](https://github.com/emotion-analysis-project/SemEval2025-Task11?tab=readme-ov-file#languages-and-tracks).
 
 **New Dataset Download Process**
    
