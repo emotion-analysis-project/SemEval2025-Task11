@@ -206,7 +206,7 @@ The table below shows the languages of the different datasets, their sizes and t
 | 3   | [Amharic](https://en.wikipedia.org/wiki/Amharic)               | AMH  | ✓       | ✓       | ✓       |
 | 4   | [Brazilian Portuguese](https://en.wikipedia.org/wiki/Brazilian_Portuguese)  | PTBR | ✓       | ✓       | ✓       |
 | 5   | [Chinese](https://en.wikipedia.org/wiki/Chinese_language)               | ZHO  | ✓       |         |         |
-| 6   | [Emakwa](https://en.wikipedia.org/wiki/Yoruba_language)                | YOR  |         |         |         |
+| 6   | [Emakhuwa](https://en.wikipedia.org/wiki/Makhuwa_language)                | VMW  |         |         |         |
 | 7   | [English](https://en.wikipedia.org/wiki/English_language)               | ENG  | ✓       | ✓       | ✓       |
 | 8   | [German](https://en.wikipedia.org/wiki/German_language)                | DEU  | ✓       | ✓       | ✓       |
 | 9   | [Hausa](https://en.wikipedia.org/wiki/Hausa_language)                 | HAU  | ✓       |         |         | 
