@@ -53,7 +53,6 @@
 🔥 We are pleased to annouce important updates regarding the shared task setup. Below are the details of the changes:
 
 **Separate Codabench for Each Track**
-
 ---
 
 This shared task consists of three tracks ([**A**](#track-a-multi-label-emotion-detection), [**B**](#track-b-emotion-intensity), and [**C**](#track-c-cross-lingual-emotion-detection)). Previously, all tracks were hosted on a single Codabench competition platform. However, due to an unresolved issue with [Codabench](https://github.com/codalab/codabench/issues/1711), we have created separate competition sites on Codabench for each track and improved the submission process. This means, **you have to register in codabench for each track** separately. The updated links for each track are provided below:
@@ -63,18 +62,19 @@ This shared task consists of three tracks ([**A**](#track-a-multi-label-emotion-
    - **Track C: Cross-lingual Emotion Detection** – [Track C Competition Page](#link)  
 
 **New Dataset Release and Download Process**
-
 ---
 
    - We have released datasets for all languages included in the shared task. Details about which languages are available in each track can be found in this [section](https://github.com/emotion-analysis-project/SemEval2025-Task11?tab=readme-ov-file#languages-and-tracks).
    - Participants are now required to accept the task's terms and conditions before downloading the dataset. This change ensures compliance with the ethical use of data.
 
 **Updated Participation Guide and Submission Instructions**
+---
    
    - The participation guide has been updated to reflect the changes in the Codabench submission process. Please [see the guide](https://docs.google.com/document/d/1O10l9McuoBtw3dIMQbgAcmsoyaWW0DrkBZvC4CPc0yc/edit?usp=sharing) for detailed instructions.
    - We updated the submission instructions on the Codabench. Refer to the **"Submission Instructions"** section on Codabench for a detailed guide on how to prepare your submission file.
 
 **Revised Evaluation Timeline and SemEval 2025**
+---
 
 - The evaluation period has been updated as follows:  
   - **Start Date:** 15 January 2025  
