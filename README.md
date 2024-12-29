@@ -48,7 +48,7 @@
 
 # 📢 **News**
 
-### **30 December 2024**
+## **30 December 2024**
 
 🔥 We are pleased to annouce important updates regarding the shared task setup. Below are the details of the changes:
 
