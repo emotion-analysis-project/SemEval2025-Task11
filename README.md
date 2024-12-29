@@ -48,7 +48,7 @@
 
 # 📢 **News**
 
-### **30 December 2024**
+## **30 December 2024**
 
 🔥 We are pleased to annouce important updates regarding the shared task setup. Below are the details of the changes:
 
@@ -83,13 +83,13 @@ This shared task consists of three tracks ([**A**](#track-a-multi-label-emotion-
 - SemEval 2025 will be co-located with **[ACL 2025 (in Vienna, Austria)](https://2025.aclweb.org/)**. We look forward to seeing you there!
 
 
-### **16 September 2024**
+## **16 September 2024**
 
 
 - The competition website is now updated on Codabench: [Codabench Competition](https://www.codabench.org/competitions/3863/).
 - The dataset is now available on the competition website. If you previously downloaded the dataset via Google Drive, please download the updated version from the competition website as the data has been revised.
   
-### **10 September 2024**
+## **10 September 2024**
 
 - We have released the training and development datasets for **seven languages**: English (eng), German (deu), Oromo (orm), Brazilian Portuguese (ptbr),  Russian (rus), and Somali (som), and Tigrinya (tig). More languages are on the way, and we’ll be updating the table below table with release information over the next few days.
 - The competition website will be live soon. Stay tuned for more updates!
