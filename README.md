@@ -221,7 +221,7 @@ The table below shows the languages of the different datasets, their sizes and t
 | 20  | [Mozambican Portuguese](https://en.wikipedia.org/wiki/Mozambican_Portuguese) | PTM  | ✓       |         | ✓       |  
 | 21  | [Nigerian-Pidgin](https://en.wikipedia.org/wiki/Nigerian_Pidgin)       | PCM  | ✓       |         | ✓       | 
 | 22  | [Oromo](https://en.wikipedia.org/wiki/Oromo_language)                 | ORM  | ✓       | ✓       | ✓       | 
-| 23  | [Romanian](https://en.wikipedia.org/wiki/Romanian_language)              | RON  | ✓       |         | ✓       | 
+| 23  | [Romanian](https://en.wikipedia.org/wiki/Romanian_language)              | RON  | ✓       |    ✓       | ✓       | 
 | 24  | [Russian](https://en.wikipedia.org/wiki/Russian_language)               | RUS  | ✓       | ✓       | ✓       | 
 | 25  | [Somali](https://en.wikipedia.org/wiki/Somali_language)                | SOM  | ✓       | ✓       | ✓       | 
 | 26  | [Sundanese](https://en.wikipedia.org/wiki/Sundanese_language)             | SUN  | X       |         | ✓       | 
