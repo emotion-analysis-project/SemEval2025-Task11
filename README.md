@@ -144,6 +144,8 @@ The set of the six perceived emotion classes includes: **joy**, **sadness**, **f
  - Visit the official competition page on Codabench: https://www.codabench.org/competitions/3863/
  - Follow the detailed instructions provided [here](https://docs.google.com/document/d/1yETTEiD8JVL8oeXu8Dvwc7OgPIDp0ROxd9nXifsXYYE/edit?usp=sharing) to download the data.
 
+> It is important to note that some languages include the Disgust class, while others do not.
+
 <!-- 
 For each track, we provide the sample, training, and evaluation datasets. Find the links to download the datasets for each track below:
 
@@ -192,12 +194,13 @@ The table below presents the class distribution for the currently released langu
 
  -->
 
-The table below shows the languages of the different datasets, their sizes and the release status of their pilot samples, training, and development (dev) sets. Note that ✓ means released and can be found in the data folder. Please note that some languages include the Disgust class, while others do not.
 
 
 
 
 ## Supported Languages and Tracks
+
+The table below outlines the supported languages and their availability across the different tracks in the shared task.
 
 | No. | Language                                                  | Code | Track 1 | Track 2 | Track 3 |
 |-----|-----------------------------------------------------------|------|---------|---------|---------|
@@ -235,9 +238,8 @@ The table below shows the languages of the different datasets, their sizes and t
 | 32  | [Yoruba](https://en.wikipedia.org/wiki/Yoruba_language)   | YOR  | ✓       | ✗       | ✓       |
 
 **Legend**:  
-- ✓: Supported  
-- ✗: Not Supported
-
+- **✓**: The language is supported for the specified track.
+- **✗**: The language is not supported for the specified track.
 
 
 
