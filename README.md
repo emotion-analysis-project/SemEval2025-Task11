@@ -67,7 +67,7 @@ This shared task consists of three tracks (A, B, and C). Previously, all tracks 
 **Updated Participation Guide and Submission Instructions**
    
    - The participation guide has been updated to reflect the changes in the Codabench submission process. Please [see the guide](https://docs.google.com/document/d/1O10l9McuoBtw3dIMQbgAcmsoyaWW0DrkBZvC4CPc0yc/edit?usp=sharing) for detailed instructions.
-   - We have also updated the submission instructions on the Codabench page. Refer to the **"Submission Instructions"** section on Codabench for a detailed guide on how to prepare your submission file.
+   - We updated the submission instructions on the Codabench. Refer to the **"Submission Instructions"** section on Codabench for a detailed guide on how to prepare your submission file.
 
 **Revised Evaluation Timeline and SemEval 2025**
 
