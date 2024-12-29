@@ -208,29 +208,29 @@ The table below shows the languages of the different datasets, their sizes and t
 | 7   | [English](https://en.wikipedia.org/wiki/English_language)               | ENG  | ✓       | ✓       | ✓       |
 | 8   | [German](https://en.wikipedia.org/wiki/German_language)                | DEU  | ✓       | ✓       | ✓       |
 | 9   | [Hausa](https://en.wikipedia.org/wiki/Hausa_language)                 | HAU  | ✓       |      ✓      | ✓       | 
-| 10  | [Hindi](https://en.wikipedia.org/wiki/Hindi)                 | HIN  | ✓       |         | ✓       | 
-| 11  | [Igbo](https://en.wikipedia.org/wiki/Igbo_language)                  | IBO  | ✓       |         | ✓       |
-| 12  | [Indonesian](https://en.wikipedia.org/wiki/Indonesian_language)            | IND  | X       |         | ✓       |  
-| 13  | [isiXhosa](https://en.wikipedia.org/wiki/Xhosa_language)              | XHO  | X       |         | ✓       |
-| 14  | [isiZulu](https://en.wikipedia.org/wiki/Zulu_language)               | ZUL  | X      |         | ✓       |
-| 15  | [Javanese](https://en.wikipedia.org/wiki/Javanese_language)              | JAV  | ✓       |         | ✓       |
-| 16  | [Kinyarwanda](https://en.wikipedia.org/wiki/Kinyarwanda)           | KIN  | ✓       |         | ✓       |
+| 10  | [Hindi](https://en.wikipedia.org/wiki/Hindi)                 | HIN  | ✓       |    X      | ✓       | 
+| 11  | [Igbo](https://en.wikipedia.org/wiki/Igbo_language)                  | IBO  | ✓       |  x       | ✓       |
+| 12  | [Indonesian](https://en.wikipedia.org/wiki/Indonesian_language)            | IND  | X       |    x     | ✓       |  
+| 13  | [isiXhosa](https://en.wikipedia.org/wiki/Xhosa_language)              | XHO  | X       |      x   | ✓       |
+| 14  | [isiZulu](https://en.wikipedia.org/wiki/Zulu_language)               | ZUL  | X      |   x      | ✓       |
+| 15  | [Javanese](https://en.wikipedia.org/wiki/Javanese_language)              | JAV  | ✓       |    x     | ✓       |
+| 16  | [Kinyarwanda](https://en.wikipedia.org/wiki/Kinyarwanda)           | KIN  | ✓       |   x      | ✓       |
 | 17  | [Spanish (Latin American)](https://en.wikipedia.org/wiki/Spanish_language_in_the_Americas) | ESP  | ✓       |   ✓        | ✓       |
-| 18  | [Marathi](https://en.wikipedia.org/wiki/Marathi_language)               | MAR  | ✓       |         | ✓       | 
-| 19  | [Moroccan Arabic](https://en.wikipedia.org/wiki/Moroccan_Arabic)       | ARY  | ✓       |         | ✓       |  
+| 18  | [Marathi](https://en.wikipedia.org/wiki/Marathi_language)               | MAR  | ✓       |   x      | ✓       | 
+| 19  | [Moroccan Arabic](https://en.wikipedia.org/wiki/Moroccan_Arabic)       | ARY  | ✓       |    x     | ✓       |  
 | 20  | [Portuguese (Mozambican)](https://en.wikipedia.org/wiki/Mozambican_Portuguese) | PTM  | ✓       |         | ✓       |  
-| 21  | [Nigerian-Pidgin](https://en.wikipedia.org/wiki/Nigerian_Pidgin)       | PCM  | ✓       |         | ✓       | 
-| 22  | [Oromo](https://en.wikipedia.org/wiki/Oromo_language)                 | ORM  | ✓       | ✓       | ✓       | 
+| 21  | [Nigerian-Pidgin](https://en.wikipedia.org/wiki/Nigerian_Pidgin)       | PCM  | ✓       |    x     | ✓       | 
+| 22  | [Oromo](https://en.wikipedia.org/wiki/Oromo_language)                 | ORM  | ✓       | x      | ✓       | 
 | 23  | [Romanian](https://en.wikipedia.org/wiki/Romanian_language)              | RON  | ✓       |    ✓       | ✓       | 
 | 24  | [Russian](https://en.wikipedia.org/wiki/Russian_language)               | RUS  | ✓       | ✓       | ✓       | 
-| 25  | [Somali](https://en.wikipedia.org/wiki/Somali_language)                | SOM  | ✓       | ✓       | ✓       | 
-| 26  | [Sundanese](https://en.wikipedia.org/wiki/Sundanese_language)             | SUN  | X       |         | ✓       | 
-| 27  | [Swahili](https://en.wikipedia.org/wiki/Swahili_language)               | SWA  | ✓       |         | ✓       |  
-| 28  | [Swedish](https://en.wikipedia.org/wiki/Swedish_language)               | SWE  | ✓       |         | ✓       |
-| 29  | [Tatar](https://en.wikipedia.org/wiki/Tatar_language)                 | TAT  | ✓       |         | ✓       |
-| 30  | [Tigrinya](https://en.wikipedia.org/wiki/Tigrinya_language)              | TIR  | ✓       | ✓       | ✓       |
+| 25  | [Somali](https://en.wikipedia.org/wiki/Somali_language)                | SOM  | ✓       | x    | ✓       | 
+| 26  | [Sundanese](https://en.wikipedia.org/wiki/Sundanese_language)             | SUN  | X       |   x      | ✓       | 
+| 27  | [Swahili](https://en.wikipedia.org/wiki/Swahili_language)               | SWA  | ✓       |     x    | ✓       |  
+| 28  | [Swedish](https://en.wikipedia.org/wiki/Swedish_language)               | SWE  | ✓       |   x      | ✓       |
+| 29  | [Tatar](https://en.wikipedia.org/wiki/Tatar_language)                 | TAT  | ✓       |    x     | ✓       |
+| 30  | [Tigrinya](https://en.wikipedia.org/wiki/Tigrinya_language)              | TIR  | ✓       | x       | ✓       |
 | 31  | [Ukrainian](https://en.wikipedia.org/wiki/Ukrainian_language)             | UKR  | ✓       |    ✓      | ✓       |
-| 32  | [Yoruba](https://en.wikipedia.org/wiki/Yoruba_language)                | YOR  | ✓       |         | ✓       |
+| 32  | [Yoruba](https://en.wikipedia.org/wiki/Yoruba_language)                | YOR  | ✓       |     x    | ✓       |
 
 
 
