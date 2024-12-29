@@ -93,7 +93,7 @@ We acknowledge the importance of this distinction as perceived emotions can diff
 We include a large number of languages with many predominantly spoken in regions characterised by a relatively limited availability of NLP resources (e.g., Africa, Asia, Eastern Europe and Latin America):
 
 
-[Afrikaans (afr)](https://en.wikipedia.org/wiki/Afrikaans), [Algerian Arabic (arq)](https://en.wikipedia.org/wiki/Algerian_Arabic), [Amharic (amh)](https://en.wikipedia.org/wiki/Amharic), [Portuguese (Brazilian) (ptbr)](https://en.wikipedia.org/wiki/Brazilian_Portuguese), [Chinese (zho)](https://en.wikipedia.org/wiki/Chinese_language), [Emakhuwa (vmw)](https://en.wikipedia.org/wiki/Makhuwa_language), [English (eng)](https://en.wikipedia.org/wiki/English_language), [German (deu)](https://en.wikipedia.org/wiki/German_language), [Hausa (hau)](https://en.wikipedia.org/wiki/Hausa_language), [Hindi (hin)](https://en.wikipedia.org/wiki/Hindi), [Igbo (ibo)](https://en.wikipedia.org/wiki/Igbo_language), [Indonesian (ind)](https://en.wikipedia.org/wiki/Indonesian_language), [isiXhosa (xho)](https://en.wikipedia.org/wiki/Xhosa_language), [isiZulu (zul)](https://en.wikipedia.org/wiki/Zulu_language), [Javanese (jav)](https://en.wikipedia.org/wiki/Javanese_language), [Kinyarwanda (kin)](https://en.wikipedia.org/wiki/Kinyarwanda), [Spanish (Latin American) (esp)](https://en.wikipedia.org/wiki/Spanish_language_in_the_Americas), [Marathi (mar)](https://en.wikipedia.org/wiki/Marathi_language), [Moroccan Arabic (ary)](https://en.wikipedia.org/wiki/Moroccan_Arabic), [Portuguese (Mozambican) (ptm)](https://en.wikipedia.org/wiki/Mozambican_Portuguese), [Nigerian-Pidgin (pcm)](https://en.wikipedia.org/wiki/Nigerian_Pidgin), [Oromo (orm)](https://en.wikipedia.org/wiki/Oromo_language), [Romanian (ron)](https://en.wikipedia.org/wiki/Romanian_language), [Russian (rus)](https://en.wikipedia.org/wiki/Russian_language), [Somali (som)](https://en.wikipedia.org/wiki/Somali_language), [Sundanese (sun)](https://en.wikipedia.org/wiki/Sundanese_language), [Swahili (swa)](https://en.wikipedia.org/wiki/Swahili_language), [Swedish (swe)](https://en.wikipedia.org/wiki/Swedish_language), [Tatar (tat)](https://en.wikipedia.org/wiki/Tatar_language), [Tigrinya (tir)](https://en.wikipedia.org/wiki/Tigrinya_language), [Ukrainian (ukr)](https://en.wikipedia.org/wiki/Ukrainian_language), [Yoruba (yor)](https://en.wikipedia.org/wiki/Yoruba_language).
+[Afrikaans (afr)](https://en.wikipedia.org/wiki/Afrikaans), [Algerian Arabic (arq)](https://en.wikipedia.org/wiki/Algerian_Arabic), [Amharic (amh)](https://en.wikipedia.org/wiki/Amharic), [Portuguese (Brazilian) (ptbr)](https://en.wikipedia.org/wiki/Brazilian_Portuguese), [Chinese (zho)](https://en.wikipedia.org/wiki/Chinese_language), [Emakhuwa (vmw)](https://en.wikipedia.org/wiki/Makhuwa_language), [English (eng)](https://en.wikipedia.org/wiki/English_language), [German (deu)](https://en.wikipedia.org/wiki/German_language), [Hausa (hau)](https://en.wikipedia.org/wiki/Hausa_language), [Hindi (hin)](https://en.wikipedia.org/wiki/Hindi), [Igbo (ibo)](https://en.wikipedia.org/wiki/Igbo_language), [Indonesian (ind)](https://en.wikipedia.org/wiki/Indonesian_language), [isiXhosa (xho)](https://en.wikipedia.org/wiki/Xhosa_language), [isiZulu (zul)](https://en.wikipedia.org/wiki/Zulu_language), [Javanese (jav)](https://en.wikipedia.org/wiki/Javanese_language), [Kinyarwanda (kin)](https://en.wikipedia.org/wiki/Kinyarwanda), [Spanish (Latin American) (esp)](https://en.wikipedia.org/wiki/Spanish_language_in_the_Americas), [Marathi (mar)](https://en.wikipedia.org/wiki/Marathi_language), [Moroccan Arabic (ary)](https://en.wikipedia.org/wiki/Moroccan_Arabic), [Portuguese (Mozambican) (pt-MZ)](https://en.wikipedia.org/wiki/Mozambican_Portuguese), [Nigerian-Pidgin (pcm)](https://en.wikipedia.org/wiki/Nigerian_Pidgin), [Oromo (orm)](https://en.wikipedia.org/wiki/Oromo_language), [Romanian (ron)](https://en.wikipedia.org/wiki/Romanian_language), [Russian (rus)](https://en.wikipedia.org/wiki/Russian_language), [Somali (som)](https://en.wikipedia.org/wiki/Somali_language), [Sundanese (sun)](https://en.wikipedia.org/wiki/Sundanese_language), [Swahili (swa)](https://en.wikipedia.org/wiki/Swahili_language), [Swedish (swe)](https://en.wikipedia.org/wiki/Swedish_language), [Tatar (tat)](https://en.wikipedia.org/wiki/Tatar_language), [Tigrinya (tir)](https://en.wikipedia.org/wiki/Tigrinya_language), [Ukrainian (ukr)](https://en.wikipedia.org/wiki/Ukrainian_language), [Yoruba (yor)](https://en.wikipedia.org/wiki/Yoruba_language).
 
 
 
@@ -211,40 +211,41 @@ The table below outlines the supported languages and their availability across t
 > Participants may choose to participate in one or more languages and tracks of their preference.
 
 
-| No. | Language                                                  | Code | Track 1 | Track 2 | Track 3 |
-|-----|-----------------------------------------------------------|------|---------|---------|---------|
-| 1   | [Afrikaans](https://en.wikipedia.org/wiki/Afrikaans)      | AFR  | ✓       | ✗       | ✓       |
-| 2   | [Algerian Arabic](https://en.wikipedia.org/wiki/Algerian_Arabic) | ARQ  | ✓       | ✓       | ✓       |
-| 3   | [Amharic](https://en.wikipedia.org/wiki/Amharic)          | AMH  | ✓       | ✓       | ✓       |
-| 4   | [Portuguese (Brazilian)](https://en.wikipedia.org/wiki/Brazilian_Portuguese) | PTBR | ✓       | ✓       | ✓       |
-| 5   | [Chinese](https://en.wikipedia.org/wiki/Chinese_language) | ZHO  | ✓       | ✓       | ✓       |
-| 6   | [Emakhuwa](https://en.wikipedia.org/wiki/Makhuwa_language) | VMW  | ✓       | ✗       | ✓       |
-| 7   | [English](https://en.wikipedia.org/wiki/English_language) | ENG  | ✓       | ✓       | ✓       |
-| 8   | [German](https://en.wikipedia.org/wiki/German_language)   | DEU  | ✓       | ✓       | ✓       |
-| 9   | [Hausa](https://en.wikipedia.org/wiki/Hausa_language)     | HAU  | ✓       | ✓       | ✓       |
-| 10  | [Hindi](https://en.wikipedia.org/wiki/Hindi)              | HIN  | ✓       | ✗       | ✓       |
-| 11  | [Igbo](https://en.wikipedia.org/wiki/Igbo_language)       | IBO  | ✓       | ✗       | ✓       |
-| 12  | [Indonesian](https://en.wikipedia.org/wiki/Indonesian_language) | IND  | ✗       | ✗       | ✓       |
-| 13  | [isiXhosa](https://en.wikipedia.org/wiki/Xhosa_language)  | XHO  | ✗       | ✗       | ✓       |
-| 14  | [isiZulu](https://en.wikipedia.org/wiki/Zulu_language)    | ZUL  | ✗       | ✗       | ✓       |
-| 15  | [Javanese](https://en.wikipedia.org/wiki/Javanese_language) | JAV  | ✓       | ✗       | ✓       |
-| 16  | [Kinyarwanda](https://en.wikipedia.org/wiki/Kinyarwanda)  | KIN  | ✓       | ✗       | ✓       |
-| 17  | [Spanish (Latin American)](https://en.wikipedia.org/wiki/Spanish_language_in_the_Americas) | ESP  | ✓       | ✓       | ✓       |
-| 18  | [Marathi](https://en.wikipedia.org/wiki/Marathi_language) | MAR  | ✓       | ✗       | ✓       |
-| 19  | [Moroccan Arabic](https://en.wikipedia.org/wiki/Moroccan_Arabic) | ARY  | ✓       | ✗       | ✓       |
-| 20  | [Portuguese (Mozambican)](https://en.wikipedia.org/wiki/Mozambican_Portuguese) | PTM  | ✓       | ✗       | ✓       |
-| 21  | [Nigerian-Pidgin](https://en.wikipedia.org/wiki/Nigerian_Pidgin) | PCM  | ✓       | ✗       | ✓       |
-| 22  | [Oromo](https://en.wikipedia.org/wiki/Oromo_language)     | ORM  | ✓       | ✗       | ✓       |
-| 23  | [Romanian](https://en.wikipedia.org/wiki/Romanian_language) | RON  | ✓       | ✓       | ✓       |
-| 24  | [Russian](https://en.wikipedia.org/wiki/Russian_language) | RUS  | ✓       | ✓       | ✓       |
-| 25  | [Somali](https://en.wikipedia.org/wiki/Somali_language)   | SOM  | ✓       | ✗       | ✓       |
-| 26  | [Sundanese](https://en.wikipedia.org/wiki/Sundanese_language) | SUN  | ✗       | ✗       | ✓       |
-| 27  | [Swahili](https://en.wikipedia.org/wiki/Swahili_language) | SWA  | ✓       | ✗       | ✓       |
-| 28  | [Swedish](https://en.wikipedia.org/wiki/Swedish_language) | SWE  | ✓       | ✗       | ✓       |
-| 29  | [Tatar](https://en.wikipedia.org/wiki/Tatar_language)     | TAT  | ✓       | ✗       | ✓       |
-| 30  | [Tigrinya](https://en.wikipedia.org/wiki/Tigrinya_language) | TIR  | ✓       | ✗       | ✓       |
-| 31  | [Ukrainian](https://en.wikipedia.org/wiki/Ukrainian_language) | UKR  | ✓       | ✓       | ✓       |
-| 32  | [Yoruba](https://en.wikipedia.org/wiki/Yoruba_language)   | YOR  | ✓       | ✗       | ✓       |
+| No. | Language                                                  | Code  | Track 1 | Track 2 | Track 3 |
+|-----|-----------------------------------------------------------|-------|---------|---------|---------|
+| 1   | [Afrikaans](https://en.wikipedia.org/wiki/Afrikaans)      | AFR   | ✓       | ✗       | ✓       |
+| 2   | [Algerian Arabic](https://en.wikipedia.org/wiki/Algerian_Arabic) | ARQ   | ✓       | ✓       | ✓       |
+| 3   | [Amharic](https://en.wikipedia.org/wiki/Amharic)          | AMH   | ✓       | ✓       | ✓       |
+| 4   | [Chinese](https://en.wikipedia.org/wiki/Chinese_language) | ZHO   | ✓       | ✓       | ✓       |
+| 5   | [Emakhuwa](https://en.wikipedia.org/wiki/Makhuwa_language) | VMW   | ✓       | ✗       | ✓       |
+| 6   | [English](https://en.wikipedia.org/wiki/English_language) | ENG   | ✓       | ✓       | ✓       |
+| 7   | [German](https://en.wikipedia.org/wiki/German_language)   | DEU   | ✓       | ✓       | ✓       |
+| 8   | [Hausa](https://en.wikipedia.org/wiki/Hausa_language)     | HAU   | ✓       | ✓       | ✓       |
+| 9   | [Hindi](https://en.wikipedia.org/wiki/Hindi)              | HIN   | ✓       | ✗       | ✓       |
+| 10  | [Igbo](https://en.wikipedia.org/wiki/Igbo_language)       | IBO   | ✓       | ✗       | ✓       |
+| 11  | [Indonesian](https://en.wikipedia.org/wiki/Indonesian_language) | IND   | ✗       | ✗       | ✓       |
+| 12  | [isiXhosa](https://en.wikipedia.org/wiki/Xhosa_language)  | XHO   | ✗       | ✗       | ✓       |
+| 13  | [isiZulu](https://en.wikipedia.org/wiki/Zulu_language)    | ZUL   | ✗       | ✗       | ✓       |
+| 14  | [Javanese](https://en.wikipedia.org/wiki/Javanese_language) | JAV   | ✓       | ✗       | ✓       |
+| 15  | [Kinyarwanda](https://en.wikipedia.org/wiki/Kinyarwanda)  | KIN   | ✓       | ✗       | ✓       |
+| 16  | [Marathi](https://en.wikipedia.org/wiki/Marathi_language) | MAR   | ✓       | ✗       | ✓       |
+| 17  | [Moroccan Arabic](https://en.wikipedia.org/wiki/Moroccan_Arabic) | ARY   | ✓       | ✗       | ✓       |
+| 18  | [Nigerian-Pidgin](https://en.wikipedia.org/wiki/Nigerian_Pidgin) | PCM   | ✓       | ✗       | ✓       |
+| 19  | [Oromo](https://en.wikipedia.org/wiki/Oromo_language)     | ORM   | ✓       | ✗       | ✓       |
+| 20  | [Portuguese (Brazilian)](https://en.wikipedia.org/wiki/Brazilian_Portuguese) | PTBR  | ✓       | ✓       | ✓       |
+| 21  | [Portuguese (Mozambican)](https://en.wikipedia.org/wiki/Mozambican_Portuguese) | pt-MZ | ✓       | ✗       | ✓       |
+| 22  | [Romanian](https://en.wikipedia.org/wiki/Romanian_language) | RON   | ✓       | ✓       | ✓       |
+| 23  | [Russian](https://en.wikipedia.org/wiki/Russian_language) | RUS   | ✓       | ✓       | ✓       |
+| 24  | [Somali](https://en.wikipedia.org/wiki/Somali_language)   | SOM   | ✓       | ✗       | ✓       |
+| 25  | [Spanish (Latin American)](https://en.wikipedia.org/wiki/Spanish_language_in_the_Americas) | ESP   | ✓       | ✓       | ✓       |
+| 26  | [Sundanese](https://en.wikipedia.org/wiki/Sundanese_language) | SUN   | ✗       | ✗       | ✓       |
+| 27  | [Swahili](https://en.wikipedia.org/wiki/Swahili_language) | SWA   | ✓       | ✗       | ✓       |
+| 28  | [Swedish](https://en.wikipedia.org/wiki/Swedish_language) | SWE   | ✓       | ✗       | ✓       |
+| 29  | [Tatar](https://en.wikipedia.org/wiki/Tatar_language)     | TAT   | ✓       | ✗       | ✓       |
+| 30  | [Tigrinya](https://en.wikipedia.org/wiki/Tigrinya_language) | TIR   | ✓       | ✗       | ✓       |
+| 31  | [Ukrainian](https://en.wikipedia.org/wiki/Ukrainian_language) | UKR   | ✓       | ✓       | ✓       |
+| 32  | [Yoruba](https://en.wikipedia.org/wiki/Yoruba_language)   | YOR   | ✓       | ✗       | ✓       |
+
 
 **Legend**:  
 - **✓**: The language is supported for the specified track.
