@@ -65,7 +65,7 @@ Previously, all tracks (A, B, and C) were hosted on a single Codabench competiti
 
 **Updated Participation Guide**
    
-   - The participation guide has been updated to reflect the changes in the Codabench submission process. Please review the guide for detailed instructions.
+   - The participation guide has been updated to reflect the changes in the Codabench submission process. Please [review the guide](https://docs.google.com/document/d/1O10l9McuoBtw3dIMQbgAcmsoyaWW0DrkBZvC4CPc0yc/edit?usp=sharing) for detailed instructions.
 
 **Release of All Shared Task Languages**
    
