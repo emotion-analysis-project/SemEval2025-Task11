@@ -59,9 +59,10 @@ This shared task consists of three tracks (A, B, and C). Previously, all tracks 
    - **Track B: Emotion Intensity** – [Track B Competition Page](#link)  
    - **Track C: Cross-lingual Emotion Detection** – [Track C Competition Page](#link)  
 
-**New Dataset Release**
+**New Dataset Release and Download Process**
 
    - We have released datasets for all languages included in the shared task. Details about which languages are available in each track can be found in this [section](https://github.com/emotion-analysis-project/SemEval2025-Task11?tab=readme-ov-file#languages-and-tracks).
+   - Participants are now required to accept the task's terms and conditions before downloading the dataset. This change ensures compliance with the ethical use of data.
 
 **Updated Participation Guide and Submission Instructions**
    
@@ -69,10 +70,7 @@ This shared task consists of three tracks (A, B, and C). Previously, all tracks 
    - We have also updated the submission instructions on the Codabench page. Refer to the **"Submission Instructions"** section on Codabench for a detailed guide on how to prepare your submission file.
 **Release of All Shared Task Languages**
 
-**New Dataset Download Process**
-   
-   - Participants are now required to accept the task's terms and conditions before downloading the dataset. This change ensures compliance with the ethical use of data.
-
+  
 **Revised Evaluation Timeline**
     
    The evaluation period has been updated as follows:  
