@@ -51,6 +51,34 @@
 
 # 📢 **News**
 
+### **30 December 2024**
+
+We are pleased to share important updates regarding the shared task setup. Below are the details of the changes:
+
+1. **Separate Codabench Platforms for Each Track**  
+   Previously, all tracks (A, B, and C) were hosted on a single Codabench competition platform. However, due to an unresolved issue with Codabench, we have now created separate Codabench competition sites for each track. Additionally, we have improved the participant submission process for better usability. Here are the updated links for each track:  
+   - **Track A: Multi-label Emotion Detection** – [Track A Codabench](#link)  
+   - **Track B: Emotion Intensity** – [Track B Codabench](#link)  
+   - **Track C: Cross-lingual Emotion Detection** – [Track C Codabench](#link)  
+
+2. **Updated Participation Guide**  
+   The participation guide has been updated to reflect the changes in the Codabench submission process. Please review the guide for detailed instructions.
+
+3. **Release of All Shared Task Languages**  
+   We have officially released the list of languages included in the shared task. Details of which languages are available in each track can be found in **Table X**.
+
+4. **New Dataset Download Process**  
+   Participants are now required to accept the task's terms and conditions before downloading the dataset. This change ensures compliance with ethical and legal standards for data use.
+
+5. **Revised Evaluation Timeline**  
+   The evaluation period has been updated as follows:  
+   - **Start Date:** 15 January 2025  
+   - **End Date:** 28 January 2025  
+
+6. **SemEval 2025 Location**  
+   SemEval 2025 will be co-located with **ACL 2025**. We look forward to seeing you there!
+
+Thank you for your understanding and cooperation as we enhance the shared task experience. Please reach out if you have any questions or need assistance.
 
 
 ### **16 September 2024**
