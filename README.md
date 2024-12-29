@@ -108,7 +108,7 @@ We include a large number of languages with many predominantly spoken in regions
 
 # Tracks
 
-> SemEval 2025 Task 11 includes three tracks: Track A, Track B, and Track C. Participants may choose to participate in one or more of these tracks.
+> This shared task consists of three tracks: Track A, Track B, and Track C. Participants can choose to participate in one or more of these tracks.
 
 
 ### Track A: Multi-label Emotion Detection 
