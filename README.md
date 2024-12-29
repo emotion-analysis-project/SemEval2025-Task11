@@ -202,7 +202,7 @@ The table below shows the languages of the different datasets, their sizes and t
 | 1   | [Afrikaans](https://en.wikipedia.org/wiki/Afrikaans)             | AFR  | ✓       |     X     | ✓       |
 | 2   | [Algerian Arabic](https://en.wikipedia.org/wiki/Algerian_Arabic)       | ARQ  | ✓       |         | ✓       |  
 | 3   | [Amharic](https://en.wikipedia.org/wiki/Amharic)               | AMH  | ✓       | ✓       | ✓       |
-| 4   | [Brazilian Portuguese](https://en.wikipedia.org/wiki/Brazilian_Portuguese)  | PTBR | ✓       | ✓       | ✓       |
+| 4   | [Portuguese (Brazilian)](https://en.wikipedia.org/wiki/Brazilian_Portuguese)  | PTBR | ✓       | ✓       | ✓       |
 | 5   | [Chinese](https://en.wikipedia.org/wiki/Chinese_language)               | ZHO  | ✓       |    ✓      | ✓       |
 | 6   | [Emakhuwa](https://en.wikipedia.org/wiki/Makhuwa_language)                | VMW  | ✓       |         | ✓       |
 | 7   | [English](https://en.wikipedia.org/wiki/English_language)               | ENG  | ✓       | ✓       | ✓       |
@@ -211,14 +211,14 @@ The table below shows the languages of the different datasets, their sizes and t
 | 10  | [Hindi](https://en.wikipedia.org/wiki/Hindi)                 | HIN  | ✓       |         | ✓       | 
 | 11  | [Igbo](https://en.wikipedia.org/wiki/Igbo_language)                  | IBO  | ✓       |         | ✓       |
 | 12  | [Indonesian](https://en.wikipedia.org/wiki/Indonesian_language)            | IND  | X       |         | ✓       |  
-| 13  | [isiXhosa](https://en.wikipedia.org/wiki/Xhosa_language)              | XHO  | ✓       |         | ✓       |
-| 14  | [isiZulu](https://en.wikipedia.org/wiki/Zulu_language)               | ZUL  | ✓       |         | ✓       |
+| 13  | [isiXhosa](https://en.wikipedia.org/wiki/Xhosa_language)              | XHO  | X       |         | ✓       |
+| 14  | [isiZulu](https://en.wikipedia.org/wiki/Zulu_language)               | ZUL  | X      |         | ✓       |
 | 15  | [Javanese](https://en.wikipedia.org/wiki/Javanese_language)              | JAV  | ✓       |         | ✓       |
 | 16  | [Kinyarwanda](https://en.wikipedia.org/wiki/Kinyarwanda)           | KIN  | ✓       |         | ✓       |
 | 17  | [Spanish (Latin American)](https://en.wikipedia.org/wiki/Spanish_language_in_the_Americas) | ESP  | ✓       |   ✓        | ✓       |
 | 18  | [Marathi](https://en.wikipedia.org/wiki/Marathi_language)               | MAR  | ✓       |         | ✓       | 
 | 19  | [Moroccan Arabic](https://en.wikipedia.org/wiki/Moroccan_Arabic)       | ARY  | ✓       |         | ✓       |  
-| 20  | [Mozambican Portuguese](https://en.wikipedia.org/wiki/Mozambican_Portuguese) | PTM  | ✓       |         | ✓       |  
+| 20  | [Portuguese (Mozambican)](https://en.wikipedia.org/wiki/Mozambican_Portuguese) | PTM  | ✓       |         | ✓       |  
 | 21  | [Nigerian-Pidgin](https://en.wikipedia.org/wiki/Nigerian_Pidgin)       | PCM  | ✓       |         | ✓       | 
 | 22  | [Oromo](https://en.wikipedia.org/wiki/Oromo_language)                 | ORM  | ✓       | ✓       | ✓       | 
 | 23  | [Romanian](https://en.wikipedia.org/wiki/Romanian_language)              | RON  | ✓       |    ✓       | ✓       | 
@@ -229,7 +229,7 @@ The table below shows the languages of the different datasets, their sizes and t
 | 28  | [Swedish](https://en.wikipedia.org/wiki/Swedish_language)               | SWE  | ✓       |         | ✓       |
 | 29  | [Tatar](https://en.wikipedia.org/wiki/Tatar_language)                 | TAT  | ✓       |         | ✓       |
 | 30  | [Tigrinya](https://en.wikipedia.org/wiki/Tigrinya_language)              | TIR  | ✓       | ✓       | ✓       |
-| 31  | [Ukrainian](https://en.wikipedia.org/wiki/Ukrainian_language)             | UKR  | ✓       |         | ✓       |
+| 31  | [Ukrainian](https://en.wikipedia.org/wiki/Ukrainian_language)             | UKR  | ✓       |    ✓      | ✓       |
 | 32  | [Yoruba](https://en.wikipedia.org/wiki/Yoruba_language)                | YOR  | ✓       |         | ✓       |
 
 
