@@ -263,9 +263,7 @@ The performance of the submitted systems will be evaluated based on the followin
 - <b>Track C: Crosslingual Emotion Detection</b> 
   The evaluation metric will be the F-score based on the predicted labels and the gold ones.
 
-Participants will be provided with an evaluation script and a starter kit that includes a simple baseline.
-
-- For details about the evaluation script and the format checker, check this [guide](https://github.com/emotion-analysis-project/SemEval2025-Task11-Evaluation).
+- For details about the evaluation script and the submission file format checker, check this [guide](https://github.com/emotion-analysis-project/SemEval2025-Task11-Evaluation).
 
 # Important Dates and Task Phases
 
