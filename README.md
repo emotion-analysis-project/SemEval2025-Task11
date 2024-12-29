@@ -338,7 +338,7 @@ The performance of the submitted systems will be evaluated based on the followin
 | Sample Data Ready             | ~~15 July 2024~~                                  |
 | Training Data Ready           | 10 September 2024                         |
 | Evaluation Start              | 15 January 2025                                 |
-| Evaluation End                | 29 January 2025                                 |
+| Evaluation End                | 28 January 2025                                 |
 | System Description Paper Due  | 28 February 2025                               |
 | Notification to authors       | 31 March 2025                                   |
 | Camera ready due              | 21 April 2025                                   |
