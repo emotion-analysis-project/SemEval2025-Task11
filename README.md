@@ -126,7 +126,6 @@ Below is a sample of the English training data (Track A). A text snippet can hav
 <img src="https://github.com/user-attachments/assets/73ca700f-6dcc-4dec-8001-75a7842e0cae" alt="Sample Training DataA" width="100%">
 
 
-<h2 style="color:blue;">Track B: Emotion Intensity</h2>
 
 ## Track B: Emotion Intensity
 Given a target text  and a target perceived emotion, predict the intensity for each of the classes. 
