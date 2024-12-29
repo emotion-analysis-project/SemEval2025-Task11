@@ -76,18 +76,7 @@ This shared task consists of three tracks (A, B, and C). Previously, all tracks 
   - **Start Date:** 15 January 2025  
   - **End Date:** 28 January 2025  
 
-- SemEval 2025 will be co-located with **ACL 2025**. We look forward to seeing you there!
-
-  
-**Revised Evaluation Timeline**
-    
-   The evaluation period has been updated as follows:  
-   - **Start Date:** 15 January 2025  
-   - **End Date:** 28 January 2025  
-
-**SemEval 2025 Location**
-    
-   - SemEval 2025 will be co-located with **[ACL 2025 (will take place in Vienna, Austria)](https://2025.aclweb.org/)**. We look forward to seeing you there!
+- SemEval 2025 will be co-located with **[ACL 2025 (in Vienna, Austria)](https://2025.aclweb.org/)**. We look forward to seeing you there!
 
 
 ### **16 September 2024**
