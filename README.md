@@ -23,7 +23,6 @@
 ---
 # Content
 
-- [Join us](#join-us)
 - [Content](#content)
 - [📢 **News**](#-news)
     - [**16 September 2024**](#16-september-2024)
