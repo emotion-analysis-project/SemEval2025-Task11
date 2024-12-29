@@ -228,7 +228,7 @@ The table below lists the tracks and specifies the languages available in each t
 3. **Track C: Cross-lingual Emotion Detection** – [Track C Codabench](#link)  
 
 
-> Participants may choose to participate in one or more languages and tracks of their preference.z
+> Participants may choose to participate in one or more languages and tracks of their preference.
 
 
 | No. | Language                                                  | Code  | Track 1 | Track 2 | Track 3 |
