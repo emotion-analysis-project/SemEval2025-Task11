@@ -66,7 +66,7 @@ This shared task consists of three tracks (A, B, and C). Previously, all tracks 
 
 **Release of All Shared Task Languages**
    
-   - We have released the updated list of languages included in the shared task. Details of which languages are available in each track can be found in **Table X**.
+   - We have released the updated list of languages included in the shared task. Details of which languages are available in each track can be found in this [section](https://github.com/emotion-analysis-project/SemEval2025-Task11/blob/main/README.md#languages-and-tracks).
 
 **New Dataset Download Process**
    
