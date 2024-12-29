@@ -204,7 +204,7 @@ The table below shows the languages of the different datasets, their sizes and t
 | 3   | [Amharic](https://en.wikipedia.org/wiki/Amharic)               | AMH  | ✓       | ✓       | ✓       |
 | 4   | [Portuguese (Brazilian)](https://en.wikipedia.org/wiki/Brazilian_Portuguese)  | PTBR | ✓       | ✓       | ✓       |
 | 5   | [Chinese](https://en.wikipedia.org/wiki/Chinese_language)               | ZHO  | ✓       |    ✓      | ✓       |
-| 6   | [Emakhuwa](https://en.wikipedia.org/wiki/Makhuwa_language)                | VMW  | ✓       |         | ✓       |
+| 6   | [Emakhuwa](https://en.wikipedia.org/wiki/Makhuwa_language)                | VMW  | ✓       |    x     | ✓       |
 | 7   | [English](https://en.wikipedia.org/wiki/English_language)               | ENG  | ✓       | ✓       | ✓       |
 | 8   | [German](https://en.wikipedia.org/wiki/German_language)                | DEU  | ✓       | ✓       | ✓       |
 | 9   | [Hausa](https://en.wikipedia.org/wiki/Hausa_language)                 | HAU  | ✓       |      ✓      | ✓       | 
@@ -218,7 +218,7 @@ The table below shows the languages of the different datasets, their sizes and t
 | 17  | [Spanish (Latin American)](https://en.wikipedia.org/wiki/Spanish_language_in_the_Americas) | ESP  | ✓       |   ✓        | ✓       |
 | 18  | [Marathi](https://en.wikipedia.org/wiki/Marathi_language)               | MAR  | ✓       |   x      | ✓       | 
 | 19  | [Moroccan Arabic](https://en.wikipedia.org/wiki/Moroccan_Arabic)       | ARY  | ✓       |    x     | ✓       |  
-| 20  | [Portuguese (Mozambican)](https://en.wikipedia.org/wiki/Mozambican_Portuguese) | PTM  | ✓       |         | ✓       |  
+| 20  | [Portuguese (Mozambican)](https://en.wikipedia.org/wiki/Mozambican_Portuguese) | PTM  | ✓       |   x      | ✓       |  
 | 21  | [Nigerian-Pidgin](https://en.wikipedia.org/wiki/Nigerian_Pidgin)       | PCM  | ✓       |    x     | ✓       | 
 | 22  | [Oromo](https://en.wikipedia.org/wiki/Oromo_language)                 | ORM  | ✓       | x      | ✓       | 
 | 23  | [Romanian](https://en.wikipedia.org/wiki/Romanian_language)              | RON  | ✓       |    ✓       | ✓       | 
