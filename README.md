@@ -272,12 +272,12 @@ The performance of the submitted systems will be evaluated based on the followin
 |-------------------------------|------------------------------------------------|
 | Sample Data Ready             | ~~15 July 2024~~                                  |
 | Training Data Ready           | 10 September 2024                         |
-| Evaluation Start              | 10 January 2025                                 |
-| Evaluation End                | 31 January 2025                                 |
+| Evaluation Start              | 15 January 2025                                 |
+| Evaluation End                | 29 January 2025                                 |
 | System Description Paper Due  | 28 February 2025                               |
 | Notification to authors       | 31 March 2025                                   |
 | Camera ready due              | 21 April 2025                                   |
-| SemEval workshop 2025         | (co-located with a major NLP conference)   |
+| SemEval workshop 2025         | (co-located with ACL2025)   |
 
 
 The task will be divided into three phases: Development, Evaluation, and Post-Evaluation. The following summarize the phases and their timelines.
