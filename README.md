@@ -56,7 +56,7 @@
 We are pleased to share important updates regarding the shared task setup. Below are the details of the changes:
 
 1. **Separate Codabench Platforms for Each Track**  
-   Previously, all tracks (A, B, and C) were hosted on a single Codabench competition platform. However, due to an unresolved issue with Codabench, we have now created separate Codabench competition sites for each track. Additionally, we have improved the participant submission process for better usability. Here are the updated links for each track:  
+   Previously, all tracks (A, B, and C) were hosted on a single Codabench competition platform. However, due to an unresolved [issue with Codabench](https://github.com/codalab/codabench/issues/1711), we have now created separate Codabench competition sites for each track. Additionally, we have improved the participant submission process for better usability. Here are the updated links for each track:  
    - **Track A: Multi-label Emotion Detection** – [Track A Codabench](#link)  
    - **Track B: Emotion Intensity** – [Track B Codabench](#link)  
    - **Track C: Cross-lingual Emotion Detection** – [Track C Codabench](#link)  
