@@ -24,6 +24,7 @@
 # Content
 
 - [📢 **News**](#-news)
+    - [**30 December 2024**](#30-december-2024)
     - [**16 September 2024**](#16-september-2024)
     - [**10 September 2024**](#10-september-2024)
 - [Bridging the Gap in Text-Based Emotion Detection](#bridging-the-gap-in-text-based-emotion-detection)
