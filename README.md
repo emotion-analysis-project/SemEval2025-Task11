@@ -155,6 +155,9 @@ Given a labeled training set in one of the languages given [above](#languages), 
 
 The set of the six perceived emotion classes includes: **joy**, **sadness**, **fear**, **anger**, **surprise**, or **disgust**.
 
+The dataset in this track has the same format as the dataset in Track A.
+
+
 **Note that for some languages such as English, the set perceived emotions includes 5 emotions: joy, sadness, fear, anger, or surprise and does not include disgust.** 
 
 <!-- 
