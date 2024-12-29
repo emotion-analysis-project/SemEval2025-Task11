@@ -351,7 +351,7 @@ The task will be divided into three phases: Development, Evaluation, and Post-Ev
 <details>
     <summary><strong>Development Phase:</strong> </summary>
     <ul>
-      <li>This phase runs from 02 September to 10 January 2024.</li>
+      <li>This phase runs from 02 September to 15 January 2024.</li>
       <li>Train (with gold labels) and dev data (without gold labels) will be released for this phase.</li>
       <li>Train and evaluate your model on the dev set via CodaLab.</li>
       <li>Up to 999 submissions are allowed, and the leaderboard is open for you to view your results and those of others.</li>
@@ -361,10 +361,10 @@ The task will be divided into three phases: Development, Evaluation, and Post-Ev
   <details>
     <summary><strong>Evaluation Phase:</strong></summary>
     <ul>
-      <li>This phase runs from around 10 January to 31 January 2024 (tentative).</li>
+      <li>This phase runs from around 15 January to 28 January 2024 (tentative).</li>
       <li>Test data will be released (without gold labels).</li>
       <li>Participants will have the opportunity to evaluate their models on the test data.</li>
-      <li>Each team is allowed only one submission. This single submission will be considered your official entry for the competition.</li>
+      <li>Each team is allowed only three submissions. Only the final submission will be considered your official entry for the competition.</li>
       <li>The leaderboard is disabled and will only be published after the submission deadline.</li>
     </ul>
   </details>
