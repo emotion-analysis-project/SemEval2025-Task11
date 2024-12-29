@@ -196,11 +196,12 @@ The table below presents the class distribution for the currently released langu
 
 
 
-
-
-## Supported Languages and Tracks
+# Languages and Tracks
 
 The table below outlines the supported languages and their availability across the different tracks in the shared task.
+
+> Participants may choose to participate in one or more languages and tracks of their preference.
+
 
 | No. | Language                                                  | Code | Track 1 | Track 2 | Track 3 |
 |-----|-----------------------------------------------------------|------|---------|---------|---------|
