@@ -200,7 +200,7 @@ The table below shows the languages of the different datasets, their sizes and t
 | No. | Language              | Code | Track 1 | Track 2 | Track 3 |
 |-----|-----------------------|------|---------|---------|---------|
 | 1   | [Afrikaans](https://en.wikipedia.org/wiki/Afrikaans)             | AFR  | ✓       |     X     | ✓       |
-| 2   | [Algerian Arabic](https://en.wikipedia.org/wiki/Algerian_Arabic)       | ARQ  | ✓       |         | ✓       |  
+| 2   | [Algerian Arabic](https://en.wikipedia.org/wiki/Algerian_Arabic)       | ARQ  | ✓       |    ✓      | ✓       |  
 | 3   | [Amharic](https://en.wikipedia.org/wiki/Amharic)               | AMH  | ✓       | ✓       | ✓       |
 | 4   | [Portuguese (Brazilian)](https://en.wikipedia.org/wiki/Brazilian_Portuguese)  | PTBR | ✓       | ✓       | ✓       |
 | 5   | [Chinese](https://en.wikipedia.org/wiki/Chinese_language)               | ZHO  | ✓       |    ✓      | ✓       |
