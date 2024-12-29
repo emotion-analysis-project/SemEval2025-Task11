@@ -140,6 +140,9 @@ The set of ordinal intensity classes includes:
 - **2**: Moderate degree of emotion  
 - **3**: High degree of emotion
 
+
+### Example
+
 Below is a sample of the English training data (Track B). For each emotion, the value associated with it indicates its degree of intensity. For example, **sample_05** has a value of 3 for joy and a value of 3 for surprise, i.e., **high degrees** of joy and surprise in the text snippet.
 
 <img src="https://github.com/user-attachments/assets/daeefcd8-f4b6-46c3-a692-8d8477d1dc11" alt="Sample Training DataB" width="100%">
