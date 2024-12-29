@@ -199,15 +199,15 @@ The table below shows the languages of the different datasets, their sizes and t
 
 | No. | Language              | Code | Track 1 | Track 2 | Track 3 |
 |-----|-----------------------|------|---------|---------|---------|
-| 1   | [Afrikaans](https://en.wikipedia.org/wiki/Afrikaans)             | AFR  | ✓       |         | ✓       |
+| 1   | [Afrikaans](https://en.wikipedia.org/wiki/Afrikaans)             | AFR  | ✓       |     X     | ✓       |
 | 2   | [Algerian Arabic](https://en.wikipedia.org/wiki/Algerian_Arabic)       | ARQ  | ✓       |         | ✓       |  
 | 3   | [Amharic](https://en.wikipedia.org/wiki/Amharic)               | AMH  | ✓       | ✓       | ✓       |
 | 4   | [Brazilian Portuguese](https://en.wikipedia.org/wiki/Brazilian_Portuguese)  | PTBR | ✓       | ✓       | ✓       |
-| 5   | [Chinese](https://en.wikipedia.org/wiki/Chinese_language)               | ZHO  | ✓       |         | ✓       |
+| 5   | [Chinese](https://en.wikipedia.org/wiki/Chinese_language)               | ZHO  | ✓       |    ✓      | ✓       |
 | 6   | [Emakhuwa](https://en.wikipedia.org/wiki/Makhuwa_language)                | VMW  | ✓       |         | ✓       |
 | 7   | [English](https://en.wikipedia.org/wiki/English_language)               | ENG  | ✓       | ✓       | ✓       |
 | 8   | [German](https://en.wikipedia.org/wiki/German_language)                | DEU  | ✓       | ✓       | ✓       |
-| 9   | [Hausa](https://en.wikipedia.org/wiki/Hausa_language)                 | HAU  | ✓       |         | ✓       | 
+| 9   | [Hausa](https://en.wikipedia.org/wiki/Hausa_language)                 | HAU  | ✓       |      ✓      | ✓       | 
 | 10  | [Hindi](https://en.wikipedia.org/wiki/Hindi)                 | HIN  | ✓       |         | ✓       | 
 | 11  | [Igbo](https://en.wikipedia.org/wiki/Igbo_language)                  | IBO  | ✓       |         | ✓       |
 | 12  | [Indonesian](https://en.wikipedia.org/wiki/Indonesian_language)            | IND  | X       |         | ✓       |  
