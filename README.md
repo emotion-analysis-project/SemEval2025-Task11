@@ -283,7 +283,7 @@ The table below lists the tracks and specifies the languages available in each t
 | 18  | [Nigerian-Pidgin](https://en.wikipedia.org/wiki/Nigerian_Pidgin) | PCM   | ✓       | ✗       | ✓       |
 | 19  | [Oromo](https://en.wikipedia.org/wiki/Oromo_language)     | ORM   | ✓       | ✗       | ✓       |
 | 20  | [Portuguese (Brazilian)](https://en.wikipedia.org/wiki/Brazilian_Portuguese) | PTBR  | ✓       | ✓       | ✓       |
-| 21  | [Portuguese (Mozambican)](https://en.wikipedia.org/wiki/Mozambican_Portuguese) | pt-MZ | ✓       | ✗       | ✓       |
+| 21  | [Portuguese (Mozambican)](https://en.wikipedia.org/wiki/Mozambican_Portuguese) | PTMZ | ✓       | ✗       | ✓       |
 | 22  | [Romanian](https://en.wikipedia.org/wiki/Romanian_language) | RON   | ✓       | ✓       | ✓       |
 | 23  | [Russian](https://en.wikipedia.org/wiki/Russian_language) | RUS   | ✓       | ✓       | ✓       |
 | 24  | [Somali](https://en.wikipedia.org/wiki/Somali_language)   | SOM   | ✓       | ✗       | ✓       |
