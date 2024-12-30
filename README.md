@@ -49,7 +49,7 @@
 
 # 📢 **News**
 
-## **30 December 2024**
+## **31 December 2024**
 
 🛑‼️ Please check some important updates regarding the shared task setup. 🛑‼️
 
