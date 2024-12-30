@@ -62,7 +62,7 @@ This shared task includes three tracks ([**A**](#track-a-multi-label-emotion-det
    - **Track B: Emotion Intensity** – [Track B Competition Page](#link)  
    - **Track C: Cross-lingual Emotion Detection** – [Track C Competition Page](#link)  
 
-** New Dataset Release and Download Process **
+**New Dataset Release and Download Process**
 ---
 
    - 🔥 We have now released **the datasets for all languages in the shared task**. Details about which languages are included in each track can be found in this [section](https://github.com/emotion-analysis-project/SemEval2025-Task11?tab=readme-ov-file#languages-and-tracks).
