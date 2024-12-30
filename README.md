@@ -142,7 +142,7 @@ We include a large number of languages with many predominantly spoken in regions
 > This shared task consists of three tracks: Track A, Track B, and Track C. Participants can choose to participate in one or more of these tracks.
 
 
-## Track A: Multi-label Emotion Detection 
+## Track A: Multi-label Emotion Detection (Competition page is  [here](#))
 Given a target text snippet, predict the **perceived emotion(s) of the speaker**. Specifically, select whether each of the following emotions apply: **joy**, **sadness**, **fear**, **anger**, **surprise**, or **disgust**. In other words, label the text snippet with:
 joy (**1**) or no joy (**0**), sadness (**1**) or no sadness (**0**), anger (**1**) or no anger (**0**), surprise (**1**) or no surprise (**0**), and disgust (**1**) or no disgust (**0**).
 
@@ -158,7 +158,7 @@ Below is a sample of the English training data (Track A). A text snippet can hav
 
 
 
-## Track B: Emotion Intensity
+## Track B: Emotion Intensity (Competition page is [here](#))
 Given a target text  and a target perceived emotion, predict the intensity for each of the classes. 
 
 The set of the perceived emotions includes: **joy**, **sadness**, **fear**, **anger**, **surprise**, or **disgust**.
@@ -185,7 +185,7 @@ Below is a sample of the English training data (Track B). For each emotion, the 
 
 
 
-##  Track C: Cross-lingual Emotion Detection 
+##  Track C: Cross-lingual Emotion Detection (Competition page is [here](#))
 Given a labeled training set in one of the languages given [above](#languages), predict the perceived emotion labels of a new text instance in a different target language. 
 
 The set of the six perceived emotion classes includes: **joy**, **sadness**, **fear**, **anger**, **surprise**, or **disgust**.
