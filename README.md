@@ -58,9 +58,9 @@
 
 This shared task includes three tracks ([**A**](#track-a-multi-label-emotion-detection), [**B**](#track-b-emotion-intensity), and [**C**](#track-c-cross-lingual-emotion-detection)). The three tracks were previously hosted on a single Codabench competition platform. However, due to an unresolved issue with [Codabench](https://github.com/codalab/codabench/issues/1711) and to improve the submission process, we now have **3 CodaBench competition page** for each track, which means that 🛑‼️**you have to register for each track separately**🛑‼️. Please use the updated links below:
 
-   - **Track A: Multi-label Emotion Detection** – [Track A Competition Page](#link)  
-   - **Track B: Emotion Intensity** – [Track B Competition Page](#link)   
-   - **Track C: Cross-lingual Emotion Detection** – [Track C Competition Page](#link)   
+   - **Track A: Multi-label Emotion Detection** – [Track A Competition Page](https://www.codabench.org/competitions/3863/)  
+   - **Track B: Emotion Intensity** – [Track B Competition Page](https://www.codabench.org/competitions/4891/)   
+   - **Track C: Cross-lingual Emotion Detection** – [Track C Competition Page](https://www.codabench.org/competitions/4892/)
 
 **New Dataset Release and Download Process**
 ---
