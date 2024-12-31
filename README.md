@@ -66,8 +66,9 @@ This shared task includes three tracks ([**A**](#track-a-multi-label-emotion-det
 ---
 
   -  We have now released **the datasets for all languages in the shared task (except Romanian)**. Details about which languages are included in each track can be found in this [section](https://github.com/emotion-analysis-project/SemEval2025-Task11?tab=readme-ov-file#languages-and-tracks).
-- Note: You need to re-download all the datasets and disregard the previous ones, as we have made some changes. The dataset in each split is THE SAME as the old ones BUT the IDs may have changed due to processing. Please rerun the prediction on the evaluation data, and follow the new submission instruction
 
+- Note: You need to re-download all the datasets and disregard the previous ones, as we have made some changes. The dataset in each split is THE SAME as the old ones BUT the IDs may have changed due to processing. Please re-run the prediction on the evaluation data, and follow the new format for submission on the competition website.
+  
 **Updated Participation Guide and Submission Instructions**
 ---
    
