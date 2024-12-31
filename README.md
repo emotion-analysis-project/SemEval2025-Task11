@@ -62,11 +62,11 @@ This shared task includes three tracks ([**A**](#track-a-multi-label-emotion-det
    - **Track B: Emotion Intensity** – [Track B Competition Page](https://www.codabench.org/competitions/4891/)   
    - **Track C: Cross-lingual Emotion Detection** – [Track C Competition Page](https://www.codabench.org/competitions/4892/)
 
-**New Dataset Release and Download Process**
+**New Dataset Release 
 ---
 
    -  We have now released **the datasets for all languages in the shared task (except Romanian)**. Details about which languages are included in each track can be found in this [section](https://github.com/emotion-analysis-project/SemEval2025-Task11?tab=readme-ov-file#languages-and-tracks).
-   - Participants are now required to accept the task's terms and conditions before downloading the dataset. This change ensures compliance with the ethical use of data.
+   -  Note: You need to re-download all the datasets and disregard the previous ones, as we have made some changes. The dataset in each split is THE SAME as the old ones BUT the IDs may have changed due to processing.
 
 **Updated Participation Guide and Submission Instructions**
 ---
