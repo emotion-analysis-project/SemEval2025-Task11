@@ -45,7 +45,7 @@
 - [References](#references)
 - [Organizers](#organizers)
 
-🛑‼️ Evaluation stating soon: Please check some important updates regarding the shared task setup. 🛑‼️
+🛑‼️ Evaluation starting soon: Please check some important updates regarding the shared task setup. 🛑‼️
 
 # 📢 **News**
 
