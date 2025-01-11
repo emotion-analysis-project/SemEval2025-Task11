@@ -310,8 +310,7 @@ The table below lists the tracks and specifies the languages available in each t
 
  - Visit the official competition page on Codabench: https://www.codabench.org/competitions/3863/
  - Follow the detailed instructions provided [here](https://docs.google.com/document/d/1yETTEiD8JVL8oeXu8Dvwc7OgPIDp0ROxd9nXifsXYYE/edit?usp=sharing) to download the data.
-
-> It is important to note that some languages include the Disgust class, while others do not.
+ - **Important note** some languages **do not** include the Disgust class.
 
 
 
