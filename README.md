@@ -140,7 +140,7 @@ We include a large number of languages with many predominantly spoken in regions
 
 # Tracks
 
-> This shared task consists of three tracks: Track A, Track B, and Track C. Participants can choose to participate in one or more of these tracks.
+ This shared task consists of three tracks: Track A, Track B, and Track C. Participants can choose to participate in one or more of these tracks.
 
 
 ## Track A: Multi-label Emotion Detection (Competition page is  [here](https://www.codabench.org/competitions/3863/))
