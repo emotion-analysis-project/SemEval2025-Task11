@@ -570,7 +570,7 @@ We will soon release a dataset paper that describes the data collection, annotat
   <summary>How was the data collected?</summary>
    <ul>
     <li>
-   The data collection process a standard one, you can check previous papers in the area to have an idea (e.g., https://aclanthology.org/S18-1001.pdf). We have data instances (text snippets) annotated by >3 annotators. The annotators       decide whether some emotion is present in a given instance (text snippet). 
+   The data collection process a standard one, you can check previous papers in the area to have an idea (e.g., https://aclanthology.org/S18-1001.pdf). We have data instances (text snippets) annotated by >3 annotators. The annotators decide whether some emotion is present in a given instance (text snippet). 
    For details about the data sources, annotation guidelines, number of annotators per language, etc., this information will be shared in the dataset paper.
     </li>
    </ul>
