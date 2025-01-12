@@ -149,8 +149,7 @@ joy (**1**) or no joy (**0**), sadness (**1**) or no sadness (**0**), anger (**1
 
 **Note that for some languages such as English, the set perceived emotions includes 5 emotions: joy, sadness, fear, anger, or surprise and does not include disgust.** 
 
-
-> A training dataset with gold emotion labels will be provided for this track. 
+- A training dataset with gold emotion labels will be provided for this track. 
 
 ### Example
 Below is a sample of the English training data (Track A). A text snippet can have multiple emotions (e.g., the sentence with the ID **sample_05** expresses both joy and surprise), or none (e.g., **sample_04** with all the emotion values equal to 0 is considered neutral).
@@ -179,7 +178,7 @@ Below is a sample of the English training data (Track B). For each emotion, the 
 <img src="https://github.com/user-attachments/assets/daeefcd8-f4b6-46c3-a692-8d8477d1dc11" alt="Sample Training DataB" width="100%">
 
 
-> A training dataset with gold emotion labels will be provided for this track. 
+- A training dataset with gold emotion labels will be provided for this track. 
 
 
 **Note that for some languages such as English, the set perceived emotions includes 5 emotions: joy, sadness, fear, anger, or surprise and does not include disgust.** 
@@ -193,7 +192,7 @@ The set of the six perceived emotion classes includes: **joy**, **sadness**, **f
 
 The dataset in this track has the same format as the dataset in Track A.
 
-> A training dataset **will not be provided** for this track. 
+- A training dataset **will not be provided** for this track. 
 
 
 **Note that for some languages such as English, the set perceived emotions includes 5 emotions: joy, sadness, fear, anger, or surprise and does not include disgust.** 
