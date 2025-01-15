@@ -320,13 +320,13 @@ The performance of the submitted systems will be evaluated based on the followin
 
 
 - <b> Track A: Multilabel Emotion Detection</b> 
-  The evaluation metric will be the F-score based on the predicted labels and the gold ones.
+  The evaluation metric will be the  F1-macro based on the predicted labels and the gold ones.
 
 - <b> Track B: Emotion Intensity</b> 
     The evaluation metric will be the Pearson correlation between the predicted labels and the gold ones.
 
 - <b>Track C: Crosslingual Emotion Detection</b> 
-  The evaluation metric will be the F-score based on the predicted labels and the gold ones.
+  The evaluation metric will be the F1-macro based on the predicted labels and the gold ones.
 
 - For details about the evaluation script and the submission file format checker, check this [guide](https://github.com/emotion-analysis-project/SemEval2025-Task11-Evaluation).
 
