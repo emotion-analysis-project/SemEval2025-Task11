@@ -48,6 +48,8 @@
 🛑‼️ Evaluation starting soon: Please check some important updates regarding the shared task setup. 🛑‼️
 
 # 📢 **News**
+## **15 January 2025**
+The evaluation phase has started and all the datasets have been released.
 
 ## **31 December 2024**
 
