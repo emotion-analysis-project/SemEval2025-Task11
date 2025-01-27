@@ -290,7 +290,7 @@ The table below lists the tracks and specifies the languages available in each t
 | 23  | [Russian](https://en.wikipedia.org/wiki/Russian_language) | RUS   | ✓       | ✓       | ✓       |
 | 24  | [Somali](https://en.wikipedia.org/wiki/Somali_language)   | SOM   | ✓       | ✗       | ✓       |
 | 25  | [Spanish (Latin American)](https://en.wikipedia.org/wiki/Spanish_language_in_the_Americas) | ESP   | ✓       | ✓       | ✓       |
-| 26  | [Sundanese](https://en.wikipedia.org/wiki/Sundanese_language) | SUN   | ✗       | ✗       | ✓       |
+| 26  | [Sundanese](https://en.wikipedia.org/wiki/Sundanese_language) | SUN   |  ✓       |  ✓        | ✓       |
 | 27  | [Swahili](https://en.wikipedia.org/wiki/Swahili_language) | SWA   | ✓       | ✗       | ✓       |
 | 28  | [Swedish](https://en.wikipedia.org/wiki/Swedish_language) | SWE   | ✓       | ✗       | ✓       |
 | 29  | [Tatar](https://en.wikipedia.org/wiki/Tatar_language)     | TAT   | ✓       | ✗       | ✓       |
