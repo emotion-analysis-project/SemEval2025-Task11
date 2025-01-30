@@ -391,7 +391,7 @@ The task will be divided into three phases: Development, Evaluation, and Post-Ev
 4. **Develop**: Build your models using the provided data.
 5. **Submit**: Submit your predictions on the CodaBench competition platform.
 
-Follow the guides [here](https://docs.google.com/document/d/1O10l9McuoBtw3dIMQbgAcmsoyaWW0DrkBZvC4CPc0yc/edit?usp=sharing) 
+Please follow the guidelines shared [here](https://docs.google.com/document/d/1O10l9McuoBtw3dIMQbgAcmsoyaWW0DrkBZvC4CPc0yc/edit?usp=sharing). 
 
 
 
