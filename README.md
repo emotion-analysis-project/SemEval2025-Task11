@@ -58,7 +58,7 @@ The evaluation phase has started and all the datasets have been released.
 **Separate Codabench for Each Track**
 ---
 
-This shared task includes three tracks ([**A**](#track-a-multi-label-emotion-detection), [**B**](#track-b-emotion-intensity), and [**C**](#track-c-cross-lingual-emotion-detection)). The three tracks were previously hosted on a single Codabench competition platform. However, due to an unresolved issue with [Codabench](https://github.com/codalab/codabench/issues/1711) and to improve the submission process, we now have **3 CodaBench competition page** for each track, which means that 🛑‼️**you have to register for each track separately**🛑‼️. Please use the updated links below:
+This shared task includes three tracks ([**A**](#track-a-multi-label-emotion-detection), [**B**](#track-b-emotion-intensity), and [**C**](#track-c-cross-lingual-emotion-detection)). The three tracks were previously hosted on a single Codabench competition platform. However, due to an unresolved issue with [Codabench](https://github.com/codalab/codabench/issues/1711) and to improve the submission process, we now have **3 CodaBench competition pages** (i.e., one per track), which means that 🛑‼️**you have to register for each track separately**🛑‼️. Please use the updated links below:
 
    - **Track A: Multi-label Emotion Detection** – [Track A Competition Page](https://www.codabench.org/competitions/3863/)  
    - **Track B: Emotion Intensity** – [Track B Competition Page](https://www.codabench.org/competitions/4891/)   
@@ -263,7 +263,7 @@ The table below lists the tracks and specifies the languages available in each t
 > Participants may choose to participate in one or more languages and tracks of their preference.
 
 
-| No. | Language                                                  | Code  | Track 1 | Track 2 | Track 3 |
+| No. | Language                                                  | Code  | Track A | Track B | Track C |
 |-----|-----------------------------------------------------------|-------|---------|---------|---------|
 | 1   | [Afrikaans](https://en.wikipedia.org/wiki/Afrikaans)      | AFR   | ✓       | ✗       | ✓       |
 | 2   | [Algerian Arabic](https://en.wikipedia.org/wiki/Algerian_Arabic) | ARQ   | ✓       | ✓       | ✓       |
