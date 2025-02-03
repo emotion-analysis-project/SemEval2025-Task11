@@ -24,6 +24,7 @@
 # Content
 
 - [📢 **News**](#-news)
+    - [**02 Febuary 2025**](#02-Febuary-2024)
     - [**30 December 2024**](#30-december-2024)
     - [**16 September 2024**](#16-september-2024)
     - [**10 September 2024**](#10-september-2024)
@@ -48,6 +49,11 @@
 🛑‼️ Evaluation starting soon: Please check some important updates regarding the shared task setup. 🛑‼️
 
 # 📢 **News**
+
+## **02 Febuary 2025**
+
+The competition has ended, and we will announce the rankings very soon. 
+
 ## **15 January 2025**
 The evaluation phase has started and all the datasets have been released.
 
