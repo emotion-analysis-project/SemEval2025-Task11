@@ -55,26 +55,24 @@
 
 - [**08 Febuary 2025**](#02-Febuary-2025)
 
-- You can now check the ranking for all three tracks (this is an unofficial ranking and may be subject to modifications).
+ - You can now check the ranking for all three tracks (this is an unofficial ranking and may be subject to modifications).
 
-   1. Track 1 (Multi-label Emotion Detection): [Unofficial Ranking](https://docs.google.com/spreadsheets/d/1OeM7RczoWakcm6Dk5zfvYnQfmQ4hLru-/edit?usp=sharing&ouid=111873688488571848655&rtpof=true&sd=true)
-   2. Track 2 (Emotion Intensity ): [Unofficial Ranking](https://docs.google.com/spreadsheets/d/1WxVy5M0itVtaRT1o--GvZSyZd4G0V4eK/edit?usp=sharing&ouid=111873688488571848655&rtpof=true&sd=true)
-   3. Track 3 (Cross-lingual Emotion Detection): [Unofficial Ranking](https://docs.google.com/spreadsheets/d/1GTbz3t2qPmRfF6X7TYOOJ0Cx5g-578mQ/edit?usp=sharing&ouid=111873688488571848655&rtpof=true&sd=true)
+  1. Track 1 (Multi-label Emotion Detection): [Unofficial Ranking](https://docs.google.com/spreadsheets/d/1OeM7RczoWakcm6Dk5zfvYnQfmQ4hLru-/edit?usp=sharing&ouid=111873688488571848655&rtpof=true&sd=true)
+  2. Track 2 (Emotion Intensity ): [Unofficial Ranking](https://docs.google.com/spreadsheets/d/1WxVy5M0itVtaRT1o--GvZSyZd4G0V4eK/edit?usp=sharing&ouid=111873688488571848655&rtpof=true&sd=true)
+  3. Track 3 (Cross-lingual Emotion Detection): [Unofficial Ranking](https://docs.google.com/spreadsheets/d/1GTbz3t2qPmRfF6X7TYOOJ0Cx5g-578mQ/edit?usp=sharing&ouid=111873688488571848655&rtpof=true&sd=true)
 
-- The official ranking will be released in the task description paper and will include only teams that submit a system description paper.
+ - The official ranking will be released in the task description paper and will include only teams that submit a system description paper.
 
-- We encourage everyone to write a system description paper (deadline: 28th Feb, AoE time). Everyone is eligible to submit a system description paper, regardless of their ranking—even if they rank last. Others will still benefit from the insights and information you share!
+ - We encourage everyone to write a system description paper (deadline: 28th Feb, AoE time). Everyone is eligible to submit a system description paper, regardless of their ranking—even if they rank last. Others will still benefit from the insights and information you share!
 
-- We will share the paper submission link as soon as SemEval releases it.
+ - We will share the paper submission link as soon as SemEval releases it.
 
-- For the ranking, we used the team information you provided. If your team is missing, it means you did not fill out the shared team information form. Please email us to have your team added. We will also share another form next week for you to briefly describe your system.
+ - For the ranking, we used the team information you provided. If your team is missing, it means you did not fill out the shared team information form. Please email us to have your team added. We will also share another form next week for you to briefly describe your system.
 
-- We will set up a post-evaluation page and release the gold labels for the test data so you can continue analyzing model performance for system paper preparation.
+ - We will set up a post-evaluation page and release the gold labels for the test data so you can continue analyzing model performance for system paper preparation.
 
-- Our dataset paper, including baseline results and dataset details, will be released on 15th Feb.
+ - Our dataset paper, including baseline results and dataset details, will be released on 15th Feb.
 
-
-  
 
 ## **02 Febuary 2025**
 
