@@ -65,7 +65,7 @@
 
  - The official ranking will be released in the task description paper and will include only teams that submit a system description paper.
 
- - We encourage everyone to write a system description paper (deadline: 28th Feb, AoE time). Everyone is eligible to submit a system description paper, regardless of their ranking—even if they rank last. Others will still benefit from the insights and information you share!
+ - We encourage everyone to write a system description paper (deadline: 28th Feb, AoE time). Everyone is eligible to submit a system description paper, regardless of their ranking—even if they rank last. Others can benefit from the insights and information you share!
 
  - We will share the paper submission link as soon as SemEval releases it.
 
