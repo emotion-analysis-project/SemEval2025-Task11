@@ -53,7 +53,7 @@
 # 📢 **News**
 
 
-- **08 Febuary 2025**]
+**08 Febuary 2025**]
 
  - You can now check the ranking for all three tracks (this is an unofficial ranking and may be subject to modifications).
 
