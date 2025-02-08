@@ -57,9 +57,9 @@
 
  - You can now check the ranking for all three tracks (this is an unofficial ranking and may be subject to modifications).
 
-  1. Track 1 (Multi-label Emotion Detection): [Unofficial Ranking](https://docs.google.com/spreadsheets/d/1OeM7RczoWakcm6Dk5zfvYnQfmQ4hLru-/edit?usp=sharing&ouid=111873688488571848655&rtpof=true&sd=true)
-  2. Track 2 (Emotion Intensity ): [Unofficial Ranking](https://docs.google.com/spreadsheets/d/1WxVy5M0itVtaRT1o--GvZSyZd4G0V4eK/edit?usp=sharing&ouid=111873688488571848655&rtpof=true&sd=true)
-  3. Track 3 (Cross-lingual Emotion Detection): [Unofficial Ranking](https://docs.google.com/spreadsheets/d/1GTbz3t2qPmRfF6X7TYOOJ0Cx5g-578mQ/edit?usp=sharing&ouid=111873688488571848655&rtpof=true&sd=true)
+   Track 1 (Multi-label Emotion Detection): [Unofficial Ranking](https://docs.google.com/spreadsheets/d/1OeM7RczoWakcm6Dk5zfvYnQfmQ4hLru-/edit?usp=sharing&ouid=111873688488571848655&rtpof=true&sd=true)
+   Track 2 (Emotion Intensity ): [Unofficial Ranking](https://docs.google.com/spreadsheets/d/1WxVy5M0itVtaRT1o--GvZSyZd4G0V4eK/edit?usp=sharing&ouid=111873688488571848655&rtpof=true&sd=true)
+   Track 3 (Cross-lingual Emotion Detection): [Unofficial Ranking](https://docs.google.com/spreadsheets/d/1GTbz3t2qPmRfF6X7TYOOJ0Cx5g-578mQ/edit?usp=sharing&ouid=111873688488571848655&rtpof=true&sd=true)
 
  - The official ranking will be released in the task description paper and will include only teams that submit a system description paper.
 
