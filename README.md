@@ -24,7 +24,7 @@
 # Content
 
 - [📢 **News**](#-news)
-    - [**08 Febuary 2025**](#02-Febuary-2025) 
+    - [**08 Febuary 2025**](#08-Febuary-2025) 
     - [**02 Febuary 2025**](#02-Febuary-2025)
     - [**15 January 2025**](#15-January-2025)
     - [**30 December 2024**](#30-december-2024)
