@@ -83,22 +83,8 @@
   ```bibtex
 @inproceedings{belay-etal-2025-evaluating,
     title = "Evaluating the Capabilities of Large Language Models for Multi-label Emotion Understanding",
-    author = "Belay, Tadesse Destaw  and
-      Azime, Israel Abebe  and
-      Ayele, Abinew Ali  and
-      Sidorov, Grigori  and
-      Klakow, Dietrich  and
-      Slusallek, Philip  and
-      Kolesnikova, Olga  and
-      Yimam, Seid Muhie",
-    editor = "Rambow, Owen  and
-      Wanner, Leo  and
-      Apidianaki, Marianna  and
-      Al-Khalifa, Hend  and
-      Eugenio, Barbara Di  and
-      Schockaert, Steven",
+    author = "Belay, Tadesse Destaw  and Azime, Israel Abebe  and Ayele, Abinew Ali  and Sidorov, Grigori  and Klakow, Dietrich  and Slusallek, Philip  and Kolesnikova, Olga  and Yimam, Seid Muhie",
     booktitle = "Proceedings of the 31st International Conference on Computational Linguistics",
-    month = jan,
     year = "2025",
     address = "Abu Dhabi, UAE",
     publisher = "Association for Computational Linguistics",
