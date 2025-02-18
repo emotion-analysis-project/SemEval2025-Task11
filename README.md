@@ -57,7 +57,7 @@
 
 ## **18 Febuary 2025**
 
--   We have released the task dataset paper: [BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages](https://arxiv.org/abs/2502.11926). You can use the BibTeX below to cite the dataset paper.
+-   We have released the task dataset paper: [BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages](https://arxiv.org/pdf/2502.11926). You can use the BibTeX below to cite the dataset paper.
 
 
 
