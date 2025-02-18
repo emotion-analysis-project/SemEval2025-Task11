@@ -61,7 +61,7 @@
 
 
 
-  +++markdown
+  ```markdown
       @misc{muhammad2025brighterbridginggaphumanannotated,
       title={BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages}, 
       author={Shamsuddeen Hassan Muhammad and Nedjma Ousidhoum and Idris Abdulmumin and Jan Philip Wahle and Terry Ruas and Meriem Beloucif and Christine de Kock and Nirmal Surange and Daniela Teodorescu and Ibrahim Said Ahmad and David Ifeoluwa Adelani and 
@@ -75,7 +75,7 @@
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2502.11926} 
       }
-  +++
+  ```
 
 -   The task ranking is available (this is an unofficial ranking and may be subject to modifications)
 
