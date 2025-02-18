@@ -59,7 +59,9 @@
 
 -  The task dataset, including the test set, is released. Download it [here](https://github.com/emotion-analysis-project/SemEval2025-Task11/tree/main/task-dataset). To prevent our dataset from being scraped and used to train LLMs, we have encrypted the file and will share the password to participants via email.
 
--   We have released the task dataset paper: [BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages](https://arxiv.org/pdf/2502.11926). You can use the BibTeX below to cite the dataset paper.
+-   We have released the task dataset papers (Paper 1 and Paper 2)
+     - Paper 1 (For all languages except  **Amharic**, **Oromo**, **Somali**, and **Tigrinya**): [BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages](https://arxiv.org/pdf/2502.11926). 
+     -  Paper 2 (If you use the following languages **Amharic**, **Oromo**, **Somali**, and **Tigrinya**)  [Evaluating the Capabilities of Large Language Models for Multi-label Emotion Understanding](https://aclanthology.org/2025.coling-main.237.pdf). You can use the BibTeX below to cite the dataset papers.
 
   ```bibtex
       @misc{muhammad2025brighterbridginggaphumanannotated,
@@ -75,6 +77,34 @@
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2502.11926} 
       }
+  ```
+
+    
+  ```bibtex
+@inproceedings{belay-etal-2025-evaluating,
+    title = "Evaluating the Capabilities of Large Language Models for Multi-label Emotion Understanding",
+    author = "Belay, Tadesse Destaw  and
+      Azime, Israel Abebe  and
+      Ayele, Abinew Ali  and
+      Sidorov, Grigori  and
+      Klakow, Dietrich  and
+      Slusallek, Philip  and
+      Kolesnikova, Olga  and
+      Yimam, Seid Muhie",
+    editor = "Rambow, Owen  and
+      Wanner, Leo  and
+      Apidianaki, Marianna  and
+      Al-Khalifa, Hend  and
+      Eugenio, Barbara Di  and
+      Schockaert, Steven",
+    booktitle = "Proceedings of the 31st International Conference on Computational Linguistics",
+    month = jan,
+    year = "2025",
+    address = "Abu Dhabi, UAE",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.coling-main.237/",
+    pages = "3523--3540"
+}
   ```
 
 -   The updated task ranking is available (this is an unofficial ranking and may be subject to modifications)
