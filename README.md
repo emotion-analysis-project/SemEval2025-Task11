@@ -77,7 +77,7 @@
       }
   ```
 
--   The task ranking is available (this is an unofficial ranking and may be subject to modifications)
+-   The updated task ranking is available (this is an unofficial ranking and may be subject to modifications)
 
        Track 1 (Multi-label Emotion Detection): [Unofficial Ranking](https://docs.google.com/spreadsheets/d/17zA2zD1nnskYKRVNFeVqrg4rSOQdruMn/edit?usp=sharing&ouid=111873688488571848655&rtpof=true&sd=true)
 
