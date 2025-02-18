@@ -84,7 +84,8 @@
        Track 2 (Emotion Intensity ): [Unofficial Ranking](https://docs.google.com/spreadsheets/d/1r4G-vS0HxT_Xz--s1vzS_96K97f4H6dA/edit?usp=sharing&ouid=111873688488571848655&rtpof=true&sd=true)
 
        Track 3 (Cross-lingual Emotion Detection): [Unofficial Ranking](https://docs.google.com/spreadsheets/d/1NeL0PcXEbwgU8ZftyZ3UxlyknoNAV6Ur/edit?usp=sharing&ouid=111873688488571848655&rtpof=true&sd=true)
-- 
+
+- Please complete this form (https://forms.gle/UuYZEuCqmW4MF5Z18) by 25th February to appear in the official ranking for the shared task.
 
 
 
