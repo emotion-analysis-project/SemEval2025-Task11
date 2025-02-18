@@ -24,6 +24,7 @@
 # Content
 
 - [📢 **News**](#-news)
+    - [**18 Febuary 2025**](#18-Febuary-2025)
     - [**08 Febuary 2025**](#08-Febuary-2025) 
     - [**02 Febuary 2025**](#02-Febuary-2025)
     - [**15 January 2025**](#15-January-2025)
@@ -53,15 +54,43 @@
 # 📢 **News**
 
 
+
+## **18 Febuary 2025**
+
+-   We have released the task dataset paper: [BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages](https://arxiv.org/abs/2502.11926)
+
+
+
+  +++markdown
+      @misc{muhammad2025brighterbridginggaphumanannotated,
+      title={BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages}, 
+      author={Shamsuddeen Hassan Muhammad and Nedjma Ousidhoum and Idris Abdulmumin and Jan Philip Wahle and Terry Ruas and Meriem Beloucif and Christine de Kock and Nirmal Surange and Daniela Teodorescu and Ibrahim Said Ahmad and David Ifeoluwa Adelani and 
+      Alham Fikri Aji and Felermino D. M. A. Ali and Ilseyar Alimova and Vladimir Araujo and Nikolay Babakov and Naomi Baes and Ana-Maria Bucur and Andiswa Bukula and Guanqun Cao and Rodrigo Tufino Cardenas and Rendi Chevi and Chiamaka Ijeoma Chukwuneke and 
+      Alexandra Ciobotaru and Daryna Dementieva and Murja Sani Gadanya and Robert Geislinger and Bela Gipp and Oumaima Hourrane and Oana Ignat and Falalu Ibrahim Lawan and Rooweither Mabuya and Rahmad Mahendra and Vukosi Marivate and Andrew Piper and Alexander 
+     Panchenko and Charles Henrique Porto Ferreira and Vitaly Protasov and Samuel Rutunda and Manish Shrivastava and Aura Cristina Udrea and Lilian Diana Awuor Wanzare and Sophie Wu and Florian Valentin Wunderlich and Hanif Muhammad Zhafran and Tianhui Zhang 
+      and Yi Zhou and Saif M. Mohammad},
+      year={2025},
+      eprint={2502.11926},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2502.11926} 
+      }
+  +++
+
+-   The task ranking is available (this is an unofficial ranking and may be subject to modifications)
+
+       Track 1 (Multi-label Emotion Detection): [Unofficial Ranking](https://docs.google.com/spreadsheets/d/17zA2zD1nnskYKRVNFeVqrg4rSOQdruMn/edit?usp=sharing&ouid=111873688488571848655&rtpof=true&sd=true)
+
+       Track 2 (Emotion Intensity ): [Unofficial Ranking](https://docs.google.com/spreadsheets/d/1r4G-vS0HxT_Xz--s1vzS_96K97f4H6dA/edit?usp=sharing&ouid=111873688488571848655&rtpof=true&sd=true)
+
+       Track 3 (Cross-lingual Emotion Detection): [Unofficial Ranking](https://docs.google.com/spreadsheets/d/1NeL0PcXEbwgU8ZftyZ3UxlyknoNAV6Ur/edit?usp=sharing&ouid=111873688488571848655&rtpof=true&sd=true)
+- 
+
+
+
 ## **08 Febuary 2025**
 
- - You can now check the ranking for all three tracks (this is an unofficial ranking and may be subject to modifications).
-
-     Track 1 (Multi-label Emotion Detection): [Unofficial Ranking](https://docs.google.com/spreadsheets/d/17zA2zD1nnskYKRVNFeVqrg4rSOQdruMn/edit?usp=sharing&ouid=111873688488571848655&rtpof=true&sd=true)
-
-     Track 2 (Emotion Intensity ): [Unofficial Ranking](https://docs.google.com/spreadsheets/d/1r4G-vS0HxT_Xz--s1vzS_96K97f4H6dA/edit?usp=sharing&ouid=111873688488571848655&rtpof=true&sd=true)
-
-     Track 3 (Cross-lingual Emotion Detection): [Unofficial Ranking](https://docs.google.com/spreadsheets/d/1NeL0PcXEbwgU8ZftyZ3UxlyknoNAV6Ur/edit?usp=sharing&ouid=111873688488571848655&rtpof=true&sd=true)
+ - You can now check the ranking for all three tracks (this is an unofficial ranking and may be subject to modifications). See above
 
  - The official ranking will be released in the task description paper and will include only teams that submit a system description paper.
 
