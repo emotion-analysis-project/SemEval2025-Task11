@@ -61,7 +61,7 @@
 
 -   We have released the task dataset papers (Paper 1 and Paper 2)
      - Paper 1 (For all languages except  **Amharic**, **Oromo**, **Somali**, and **Tigrinya**): [BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages](https://arxiv.org/pdf/2502.11926). 
-     -  Paper 2 (If you use the following languages **Amharic**, **Oromo**, **Somali**, and **Tigrinya**)  [Evaluating the Capabilities of Large Language Models for Multi-label Emotion Understanding](https://aclanthology.org/2025.coling-main.237.pdf). You can use the BibTeX below to cite the dataset papers.
+     -  Paper 2 (If you use one the following languages: **Amharic**, **Oromo**, **Somali**, and **Tigrinya**)  [Evaluating the Capabilities of Large Language Models for Multi-label Emotion Understanding](https://aclanthology.org/2025.coling-main.237.pdf). You can use the BibTeX below to cite the dataset papers.
 
   ```bibtex
       @misc{muhammad2025brighterbridginggaphumanannotated,
