@@ -57,7 +57,7 @@
 
 ## **18 Febuary 2025**
 
--  The task dataset, including the test set, is released on the task page. To prevent our dataset from being scraped and used to train LLMs, we have encrypted the file and will share the password to participants via email.
+-  The task dataset, including the test set, is released. Download it [here](https://github.com/emotion-analysis-project/SemEval2025-Task11/tree/main/task-dataset). To prevent our dataset from being scraped and used to train LLMs, we have encrypted the file and will share the password to participants via email.
 
 -   We have released the task dataset paper: [BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages](https://arxiv.org/pdf/2502.11926). You can use the BibTeX below to cite the dataset paper.
 
