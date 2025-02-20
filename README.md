@@ -101,7 +101,9 @@
 
        Track 3 (Cross-lingual Emotion Detection): [Unofficial Ranking](https://docs.google.com/spreadsheets/d/1NeL0PcXEbwgU8ZftyZ3UxlyknoNAV6Ur/edit?usp=sharing&ouid=111873688488571848655&rtpof=true&sd=true)
 
-- Please complete this form (https://forms.gle/UuYZEuCqmW4MF5Z18) by 25th February to appear in the official ranking for the shared task.
+- Please complete this form (https://forms.gle/UuYZEuCqmW4MF5Z18). Only teams that fill out the above form will appear in the official ranking in our task paper.
+- Each team will be assigned papers to review from other submissions. So, if you submit a system paper, you will be assigned a paper to review.
+
 
 
 
