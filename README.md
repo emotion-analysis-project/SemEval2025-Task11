@@ -95,11 +95,11 @@
 
 -   The updated task ranking is available (this is an unofficial ranking and may be subject to modifications)
 
-       Track 1 (Multi-label Emotion Detection): [Unofficial Ranking](https://docs.google.com/spreadsheets/d/17zA2zD1nnskYKRVNFeVqrg4rSOQdruMn/edit?usp=sharing&ouid=111873688488571848655&rtpof=true&sd=true)
+       Track 1 (Multi-label Emotion Detection): [Unofficial Ranking](https://docs.google.com/spreadsheets/d/1IgPfmL0z9Lc7GCVY3LwOsHEGQTvOjtZ0/edit?usp=sharing&ouid=111873688488571848655&rtpof=true&sd=true)
 
-       Track 2 (Emotion Intensity ): [Unofficial Ranking](https://docs.google.com/spreadsheets/d/1r4G-vS0HxT_Xz--s1vzS_96K97f4H6dA/edit?usp=sharing&ouid=111873688488571848655&rtpof=true&sd=true)
+       Track 2 (Emotion Intensity ): [Unofficial Ranking](https://docs.google.com/spreadsheets/d/1LQ552iLJKaXmZihPvAFvRpDapDN9RDvg/edit?usp=sharing&ouid=111873688488571848655&rtpof=true&sd=true)
 
-       Track 3 (Cross-lingual Emotion Detection): [Unofficial Ranking](https://docs.google.com/spreadsheets/d/1NeL0PcXEbwgU8ZftyZ3UxlyknoNAV6Ur/edit?usp=sharing&ouid=111873688488571848655&rtpof=true&sd=true)
+       Track 3 (Cross-lingual Emotion Detection): [Unofficial Ranking](https://docs.google.com/spreadsheets/d/1GNxf24UTdvEm6MqL6uM2zq44ewKTpkhP/edit?usp=sharing&ouid=111873688488571848655&rtpof=true&sd=true)
 
 - Please complete this form (https://forms.gle/UuYZEuCqmW4MF5Z18). Only teams that fill out the above form will appear in the official ranking in our task paper.
 - Each team will be assigned papers to review from other submissions. So, if you submit a system paper, you will be assigned a paper to review.
