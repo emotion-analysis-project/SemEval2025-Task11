@@ -75,11 +75,13 @@ pages = ""
 
 ## **18 February 2025**
 
--  The task dataset, including the test set, is released. Download it [here](https://github.com/emotion-analysis-project/SemEval2025-Task11/tree/main/task-dataset). To prevent our dataset from being scraped and used to train LLMs, we have encrypted the file and will share the password to participants via email.
+-  The tdatasets, including the test sets, have been released. You can download them [here](https://github.com/emotion-analysis-project/SemEval2025-Task11/tree/main/task-dataset). To prevent our datasets from being scraped and used to train LLMs, we encrypted the files and will share the password to participants via email.
 
--   We have released the task dataset papers (Paper 1 and Paper 2)
-     - Paper 1 (For all languages except  **Amharic**, **Oromo**, **Somali**, and **Tigrinya**): [BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages](https://arxiv.org/pdf/2502.11926). 
-     -  Paper 2 (If you use one the following languages: **Amharic**, **Oromo**, **Somali**, and **Tigrinya**)  [Evaluating the Capabilities of Large Language Models for Multi-label Emotion Understanding](https://aclanthology.org/2025.coling-main.237.pdf). You can use the BibTeX below to cite the dataset papers.
+-   We have released the dataset papers (Paper 1 and Paper 2)
+     - Paper 1 (For **all the languages except**  Amharic, Oromo, Somali, and Tigrinya): [BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages](https://arxiv.org/pdf/2502.11926). 
+     - Paper 2 (If you use a dataset in one of the following languages: **Amharic**, **Oromo**, **Somali**, and **Tigrinya**)  [Evaluating the Capabilities of Large Language Models for Multi-label Emotion Understanding](https://aclanthology.org/2025.coling-main.237.pdf).
+  
+- You can use the BibTeX below to cite the dataset papers.
 
   ```bibtex
       @misc{muhammad2025brighterbridginggaphumanannotated,
@@ -127,11 +129,11 @@ pages = ""
 
 ## **08 February 2025**
 
- - You can now check the ranking for all three tracks (this is an unofficial ranking and may be subject to modifications). See above
+ - You can now check the ranking for all three tracks (this is an unofficial ranking and may be subject to modifications). See above.
 
- - The official ranking will be released in the task description paper and will include only teams that submit a system description paper.
+ - The official ranking will be released in the task description paper and will only include teams that submit a system description paper.
 
- - We encourage everyone to write a system description paper (deadline: 28th Feb, AoE time). Everyone is eligible to submit a system description paper, regardless of their ranking—even if they rank last. Others can benefit from the insights and information you share!
+ - We encourage everyone to write a system description paper (deadline: 28th Feb, AoE time). Everyone is eligible to submit a system description paper, regardless of their ranking —even if they rank last. Others can benefit from the insights and information you share!
 
  - We will share the paper submission link as soon as SemEval releases it.
 
@@ -139,7 +141,7 @@ pages = ""
 
  - We will set up a post-evaluation page and release the gold labels for the test data so you can continue analyzing model performance for system paper preparation.
 
- - Our dataset paper, including baseline results and dataset details, will be released on 15th Feb.
+ - Our dataset paper, including baseline results and dataset details, will be released on 15 Feb.
 
 
 ## **02 February 2025**
