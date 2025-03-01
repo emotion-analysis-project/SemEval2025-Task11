@@ -49,14 +49,13 @@
 - [References](#references)
 - [Organizers](#organizers)
 
-🛑‼️ Evaluation starting soon: Please check some important updates regarding the shared task setup. 🛑‼️
 
 # 📢 **News**
 
 
 ## **28 February 2025**
 
-Below is the task paper BibTex for the participants to cite in the system paper. 
+Below is the BibTex of the task description paper for the participants to cite in their system description papers. 
 
 
 ```bibtex
