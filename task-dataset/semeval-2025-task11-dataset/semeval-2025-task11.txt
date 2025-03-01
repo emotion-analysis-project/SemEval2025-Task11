@@ -1,0 +1,47 @@
+
+# SemEval 2025 Task 11: Bridging the Gap in Text-Based Emotion Detection
+
+This dataset is created for SemEval 2025 Task 11, which focuses on text-based emotion detection in 32 languages. The dataset provides annotated textual instances in train, dev and test.
+
+Visit the task paper here for more detail: https://github.com/emotion-analysis-project/SemEval2025-task11
+
+
+## Citation
+
+
+If you use this dataset in your research, please cite both the dataset paper and the task paper:
+
+```bibtex
+    @misc{muhammad2025brighterbridginggaphumanannotated,
+    title={BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages}, 
+    author={Shamsuddeen Hassan Muhammad and Nedjma Ousidhoum and Idris Abdulmumin and Jan Philip Wahle and Terry Ruas and Meriem Beloucif and Christine de Kock and Nirmal Surange and Daniela 
+    Teodorescu and Ibrahim Said Ahmad and David Ifeoluwa Adelani and 
+    Alham Fikri Aji and Felermino D. M. A. Ali and Ilseyar Alimova and Vladimir Araujo and Nikolay Babakov and Naomi Baes and Ana-Maria Bucur and Andiswa Bukula and Guanqun Cao and Rodrigo Tufino 
+    Cardenas and Rendi Chevi and Chiamaka Ijeoma Chukwuneke and 
+    Alexandra Ciobotaru and Daryna Dementieva and Murja Sani Gadanya and Robert Geislinger and Bela Gipp and Oumaima Hourrane and Oana Ignat and Falalu Ibrahim Lawan and Rooweither Mabuya and Rahmad 
+    Mahendra and Vukosi Marivate and Andrew Piper and Alexander 
+    Panchenko and Charles Henrique Porto Ferreira and Vitaly Protasov and Samuel Rutunda and Manish Shrivastava and Aura Cristina Udrea and Lilian Diana Awuor Wanzare and Sophie Wu and Florian 
+    Valentin Wunderlich and Hanif Muhammad Zhafran and Tianhui Zhang 
+    and Yi Zhou and Saif M. Mohammad},
+    year={2025},
+    eprint={2502.11926},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL},
+    url={https://arxiv.org/abs/2502.11926} 
+    }
+```
+
+@inproceedings{belay-etal-2025-evaluating,
+  title = "Evaluating the Capabilities of Large Language Models for Multi-label Emotion Understanding",
+  author = "Belay, Tadesse Destaw  and Azime, Israel Abebe  and Ayele, Abinew Ali  and Sidorov, Grigori  and Klakow, Dietrich  and Slusallek, Philip  and Kolesnikova, Olga  and Yimam, Seid Muhie",
+  booktitle = "Proceedings of the 31st International Conference on Computational Linguistics",
+  year = "2025",
+  address = "Abu Dhabi, UAE",
+  publisher = "Association for Computational Linguistics",
+  url = "https://aclanthology.org/2025.coling-main.237/",
+  pages = "3523--3540"
+}
+	
+
+For task paper citation, check the task page:  https://github.com/emotion-analysis-project/SemEval2025-task11
+
