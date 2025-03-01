@@ -24,9 +24,9 @@
 # Content
 
 - [📢 **News**](#-news)
-    - [**18 Febuary 2025**](#18-Febuary-2025)
-    - [**08 Febuary 2025**](#08-Febuary-2025) 
-    - [**02 Febuary 2025**](#02-Febuary-2025)
+    - [**18 Febuary 2025**](#18-February-2025)
+    - [**08 Febuary 2025**](#08-February-2025) 
+    - [**02 Febuary 2025**](#02-February-2025)
     - [**15 January 2025**](#15-January-2025)
     - [**30 December 2024**](#30-december-2024)
     - [**16 September 2024**](#16-september-2024)
@@ -54,7 +54,7 @@
 # 📢 **News**
 
 
-## **28 Febuary 2025**
+## **28 February 2025**
 
 Below is the task paper BibTex for the participants to cite in the system paper. 
 
@@ -73,7 +73,7 @@ pages = ""
 }
 ```
 
-## **18 Febuary 2025**
+## **18 February 2025**
 
 -  The task dataset, including the test set, is released. Download it [here](https://github.com/emotion-analysis-project/SemEval2025-Task11/tree/main/task-dataset). To prevent our dataset from being scraped and used to train LLMs, we have encrypted the file and will share the password to participants via email.
 
@@ -125,7 +125,7 @@ pages = ""
 
 
 
-## **08 Febuary 2025**
+## **08 February 2025**
 
  - You can now check the ranking for all three tracks (this is an unofficial ranking and may be subject to modifications). See above
 
@@ -142,7 +142,7 @@ pages = ""
  - Our dataset paper, including baseline results and dataset details, will be released on 15th Feb.
 
 
-## **02 Febuary 2025**
+## **02 February 2025**
 
 The competition has ended, and we will announce the rankings very soon. 
 
