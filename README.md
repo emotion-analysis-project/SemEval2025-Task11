@@ -99,7 +99,7 @@ pages = ""
   ```
 
     
-  ```bibtex
+```bibtex
 @inproceedings{belay-etal-2025-evaluating,
     title = "Evaluating the Capabilities of Large Language Models for Multi-label Emotion Understanding",
     author = "Belay, Tadesse Destaw  and Azime, Israel Abebe  and Ayele, Abinew Ali  and Sidorov, Grigori  and Klakow, Dietrich  and Slusallek, Philip  and Kolesnikova, Olga  and Yimam, Seid Muhie",
