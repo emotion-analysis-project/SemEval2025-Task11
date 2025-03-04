@@ -53,6 +53,18 @@
 # 📢 **News**
 
 
+## **04 March 2025 (Official Ranking)**
+
+ - You can now check the official ranking for all three tracks. It includes only teams that submitted a task description paper."
+
+   Track 1 (Multi-label Emotion Detection): [Official Ranking](https://docs.google.com/spreadsheets/d/1pyKXpvmVsE1rwu8aRnfn372rD-v3L4Qo/edit?usp=sharing&ouid=111873688488571848655&rtpof=true&sd=true)
+
+   Track 2 (Emotion Intensity ): [Official Ranking](https://docs.google.com/spreadsheets/d/1rE4cb6maUaQ8mCZGtA9KjjSW2abYo2-3/edit?usp=sharing&ouid=111873688488571848655&rtpof=true&sd=true)
+
+   Track 3 (Cross-lingual Emotion Detection): [Official Ranking](https://docs.google.com/spreadsheets/d/1Rb63sIRTJEsuhFkpWvWfMUBVgmR4xv_b/edit?usp=sharing&ouid=111873688488571848655&rtpof=true&sd=true)
+
+
+
 ## **28 February 2025**
 
 Below is the BibTex of the task description paper for the participants to cite in their system description papers. 
