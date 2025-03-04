@@ -55,7 +55,7 @@
 
 ## **04 March 2025 (Official Ranking)**
 
- - You can now check the official ranking for all three tracks. It includes only teams that submitted a task description paper."
+ - You can now check the official ranking for all three tracks. It includes only teams that submitted a task description paper.
 
    Track 1 (Multi-label Emotion Detection): [Official Ranking](https://docs.google.com/spreadsheets/d/1pyKXpvmVsE1rwu8aRnfn372rD-v3L4Qo/edit?usp=sharing&ouid=111873688488571848655&rtpof=true&sd=true)
 
