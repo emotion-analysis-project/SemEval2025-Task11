@@ -71,8 +71,9 @@ Below is the BibTex of the task description paper for the participants to cite i
 
 
 ```bibtex
-@inproceedings{muhammad-etal-2025-semeval,  title = "{S}em{E}val Task 11: Bridging the Gap in Text-Based Emotion Detection",
- author = "Muhammad, Shamsuddeen Hassan and Ousidhoum, Nedjma and Abdulmumin, Idris and Yimam, Seid Muhie and Wahle, Jan Philip and Ruas, Terry and Beloucif, Meriem and De Kock, Christine and Belay, Tadesse Destaw and Ahmad, Ibrahim Said and Surange, Nirmal and Teodorescu, Daniela and Adelani, David Ifeoluwa and Aji, Alham Fikri and Ali, Felermino and Araujo, Vladimir and Ayele, Abinew Ali and Ignat, Oana and Panchenko, Alexander and Zhou, Yi and Mohammad, Saif M.",
+@inproceedings{muhammad-etal-2025-semeval,
+title = "{S}em{E}val-2025 Task 11: Bridging the Gap in Text-Based Emotion Detection",
+author = "Muhammad, Shamsuddeen Hassan and Ousidhoum, Nedjma and Abdulmumin, Idris and Yimam, Seid Muhie and Wahle, Jan Philip and Ruas, Terry and Beloucif, Meriem and De Kock, Christine and Belay, Tadesse Destaw and Ahmad, Ibrahim Said and Surange, Nirmal and Teodorescu, Daniela and Adelani, David Ifeoluwa and Aji, Alham Fikri and Ali, Felermino and Araujo, Vladimir and Ayele, Abinew Ali and Ignat, Oana and Panchenko, Alexander and Zhou, Yi and Mohammad, Saif M.",
 booktitle = "Proceedings of the 19th International Workshop on Semantic Evaluation (SemEval-2025)",
 month = july,
 year = "2025",
