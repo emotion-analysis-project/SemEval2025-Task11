@@ -95,19 +95,13 @@ pages = ""
 - You can use the BibTeX below to cite the dataset papers.
 
   ```bibtex
-      @misc{muhammad2025brighterbridginggaphumanannotated,
-      title={BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages}, 
-      author={Shamsuddeen Hassan Muhammad and Nedjma Ousidhoum and Idris Abdulmumin and Jan Philip Wahle and Terry Ruas and Meriem Beloucif and Christine de Kock and Nirmal Surange and Daniela Teodorescu and Ibrahim Said Ahmad and David Ifeoluwa Adelani and 
-      Alham Fikri Aji and Felermino D. M. A. Ali and Ilseyar Alimova and Vladimir Araujo and Nikolay Babakov and Naomi Baes and Ana-Maria Bucur and Andiswa Bukula and Guanqun Cao and Rodrigo Tufino Cardenas and Rendi Chevi and Chiamaka Ijeoma Chukwuneke and 
-      Alexandra Ciobotaru and Daryna Dementieva and Murja Sani Gadanya and Robert Geislinger and Bela Gipp and Oumaima Hourrane and Oana Ignat and Falalu Ibrahim Lawan and Rooweither Mabuya and Rahmad Mahendra and Vukosi Marivate and Andrew Piper and Alexander 
-       Panchenko and Charles Henrique Porto Ferreira and Vitaly Protasov and Samuel Rutunda and Manish Shrivastava and Aura Cristina Udrea and Lilian Diana Awuor Wanzare and Sophie Wu and Florian Valentin Wunderlich and Hanif Muhammad Zhafran and Tianhui Zhang 
-      and Yi Zhou and Saif M. Mohammad},
-      year={2025},
-      eprint={2502.11926},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2502.11926} 
-      }
+     @article{muhammad2025brighterbridginggaphumanannotated,
+    title = {BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages},
+    author = {Muhammad, Shamsuddeen Hassan and Ousidhoum, Nedjma and Abdulmumin, Idris and Wahle, Jan Philip and Ruas, Terry and Beloucif, Meriem and de Kock, Christine and Surange, Nirmal and Teodorescu, Daniela and  Ahmad, Ibrahim Said and Adelani, David Ifeoluwa and Aji, Alham Fikri and Ali, Felermino D. M. A. and Alimova, Ilseyar and Araujo, Vladimir and Babakov, Nikolay and Baes, Naomi and Bucur, Ana-Maria and Bukula, Andiswa  and Cao, Guanqun and Cardenas, Rodrigo Tufino and Chevi, Rendi and Chukwuneke, Chiamaka Ijeoma and Ciobotaru, Alexandra and Dementieva, Daryna and Gadanya, Murja Sani and Geislinger, Robert and Gipp, Bela and Hourrane, Oumaima and Ignat, Oana and Lawan, Falalu Ibrahim and Mabuya, Rooweither and Mahendra, Rahmad and Marivate, Vukosi and Piper, Andrew and Panchenko, Alexander and Porto Ferreira, Charles Henrique and Protasov, Vitaly and Rutunda, Samuel and Shrivastava, Manish and Udrea, Aura Cristina and Wanzare, Lilian Diana Awuor and Wu, Sophie and Wunderlich, Florian Valentin and Zhafran, Hanif Muhammad and Zhang, Tianhui and Zhou, Yi and Mohammad, Saif M.},
+  journal = {arXiv preprint arXiv:2502.11926},
+  year = {2025}
+}
+
   ```
 
     
