@@ -94,18 +94,15 @@ pages = ""
      - Paper 2 (If you use a dataset in one of the following languages: **Amharic**, **Oromo**, **Somali**, and **Tigrinya**)  [Evaluating the Capabilities of Large Language Models for Multi-label Emotion Understanding](https://aclanthology.org/2025.coling-main.237.pdf).
   
 - You can use the BibTeX below to cite the dataset papers.
-
-  ```bibtex
-     @article{muhammad2025brighterbridginggaphumanannotated,
+```bibtex
+@article{muhammad2025brighterbridginggaphumanannotated,
     title = {BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages},
-    author = {Muhammad, Shamsuddeen Hassan and Ousidhoum, Nedjma and Abdulmumin, Idris and Wahle, Jan Philip and Ruas, Terry and Beloucif, Meriem and de Kock, Christine and Surange, Nirmal and Teodorescu, Daniela and  Ahmad, Ibrahim Said and Adelani, David Ifeoluwa and Aji, Alham Fikri and Ali, Felermino D. M. A. and Alimova, Ilseyar and Araujo, Vladimir and Babakov, Nikolay and Baes, Naomi and Bucur, Ana-Maria and Bukula, Andiswa  and Cao, Guanqun and Cardenas, Rodrigo Tufino and Chevi, Rendi and Chukwuneke, Chiamaka Ijeoma and Ciobotaru, Alexandra and Dementieva, Daryna and Gadanya, Murja Sani and Geislinger, Robert and Gipp, Bela and Hourrane, Oumaima and Ignat, Oana and Lawan, Falalu Ibrahim and Mabuya, Rooweither and Mahendra, Rahmad and Marivate, Vukosi and Piper, Andrew and Panchenko, Alexander and Porto Ferreira, Charles Henrique and Protasov, Vitaly and Rutunda, Samuel and Shrivastava, Manish and Udrea, Aura Cristina and Wanzare, Lilian Diana Awuor and Wu, Sophie and Wunderlich, Florian Valentin and Zhafran, Hanif Muhammad and Zhang, Tianhui and Zhou, Yi and Mohammad, Saif M.},
+    author = {Muhammad, Shamsuddeen Hassan and Ousidhoum, Nedjma and Abdulmumin, Idris and Wahle, Jan Philip and Ruas, Terry and Beloucif, Meriem and de Kock, Christine and Surange, Nirmal and Teodorescu, Daniela and              Ahmad, Ibrahim Said and Adelani, David Ifeoluwa and Aji, Alham Fikri and Ali, Felermino D. M. A. and Alimova, Ilseyar and Araujo, Vladimir and Babakov, Nikolay and Baes, Naomi and Bucur, Ana-Maria and                 Bukula, Andiswa  and Cao, Guanqun and Cardenas, Rodrigo Tufino and Chevi, Rendi and Chukwuneke, Chiamaka Ijeoma and Ciobotaru, Alexandra and Dementieva, Daryna and Gadanya, Murja Sani and Geislinger, Robert            and Gipp, Bela and Hourrane, Oumaima and Ignat, Oana and Lawan, Falalu Ibrahim and Mabuya, Rooweither and Mahendra, Rahmad and Marivate, Vukosi and Piper, Andrew and Panchenko, Alexander and Porto Ferreira,             Charles Henrique and Protasov, Vitaly and Rutunda, Samuel and Shrivastava, Manish and Udrea, Aura Cristina and Wanzare, Lilian Diana Awuor and Wu, Sophie and Wunderlich, Florian Valentin and Zhafran, Hanif             Muhammad and Zhang, Tianhui and Zhou, Yi and Mohammad, Saif M.},
   journal = {arXiv preprint arXiv:2502.11926},
   year = {2025}
 }
-
   ```
 
-    
 ```bibtex
 @inproceedings{belay-etal-2025-evaluating,
     title = "Evaluating the Capabilities of Large Language Models for Multi-label Emotion Understanding",
