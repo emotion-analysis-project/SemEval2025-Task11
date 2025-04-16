@@ -18,7 +18,6 @@
 
 >  **To download the datasets, please visit [Brighter Dataset Page](https://brighter-dataset.github.io).**  
 
----
 
 
 <!-- 
