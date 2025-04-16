@@ -12,6 +12,14 @@
 </p>
 
 
+---
+
+### ✅ **Important Notice on Dataset Access**
+
+>  **To download the datasets, please visit [Brighter Dataset Page](https://brighter-dataset.github.io).**  
+
+---
+
 
 <!-- 
 # SemEval-2025 Task 11: Bridging the Gap in Text-Based Emotion Detection
@@ -86,8 +94,6 @@ pages = ""
 ```
 
 ## **18 February 2025**
-
--  The tdatasets, including the test sets, have been released. You can download them [here](https://github.com/emotion-analysis-project/SemEval2025-Task11/tree/main/task-dataset). To prevent our datasets from being scraped and used to train LLMs, we encrypted the files and will share the password to participants via email.
 
 -   We have released the dataset papers (Paper 1 and Paper 2)
      - Paper 1 (For **all the languages except**  Amharic, Oromo, Somali, and Tigrinya): [BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages](https://arxiv.org/pdf/2502.11926). 
