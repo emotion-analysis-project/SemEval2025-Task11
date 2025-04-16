@@ -14,7 +14,7 @@
 
 ---
 
-### ✅ **Important Notice on Dataset Access**
+### 📢 **Important Notice on Dataset Access**
 
 >  **To download the datasets, please visit [Brighter Dataset Page](https://brighter-dataset.github.io).**  
 
