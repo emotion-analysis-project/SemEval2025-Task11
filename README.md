@@ -11,7 +11,7 @@
   <img align="center" src="assets/bridge-logo.png" style="position: absolute; bottom: -50px; width: 100%;" />
 </p>
 
-
+---
 ### 📢 **Important Notice on Dataset Access**
 
 >  **To download the datasets, please visit [Brighter Dataset Page](https://brighter-dataset.github.io).**  
