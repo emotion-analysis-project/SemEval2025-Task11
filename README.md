@@ -96,8 +96,27 @@ pages = ""
 -   We have released the dataset papers (Paper 1 and Paper 2)
      - Paper 1 (For **all the languages except**  Amharic, Oromo, Somali, and Tigrinya): [BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages](https://arxiv.org/pdf/2502.11926). 
      - Paper 2 (If you use a dataset in one of the following languages: **Amharic**, **Oromo**, **Somali**, and **Tigrinya**)  [Evaluating the Capabilities of Large Language Models for Multi-label Emotion Understanding](https://aclanthology.org/2025.coling-main.237.pdf).
+     - Task description paper : [SemEval-2025 Task 11: Bridging the Gap in Text-Based Emotion Detection](https://arxiv.org/pdf/2503.07269)
   
-- You can use the BibTeX below to cite the dataset papers.
+- You can use the BibTeX below to cite the task paper and dataset papers.
+
+```bibtex
+@inproceedings{muhammad-etal-2025-semeval,
+title = "{S}em{E}val-2025 Task 11: Bridging the Gap in Text-Based Emotion Detection",
+author = "Muhammad, Shamsuddeen Hassan and Ousidhoum, Nedjma and Abdulmumin, Idris and Yimam, Seid Muhie and Wahle, Jan Philip and Ruas, Terry and Beloucif, Meriem and De Kock, Christine and Belay, Tadesse Destaw and Ahmad, Ibrahim Said and Surange, Nirmal and Teodorescu, Daniela and Adelani, David Ifeoluwa and Aji, Alham Fikri and Ali, Felermino and Araujo, Vladimir and Ayele, Abinew Ali and Ignat, Oana and Panchenko, Alexander and Zhou, Yi and Mohammad, Saif M.",
+booktitle = "Proceedings of the 19th International Workshop on Semantic Evaluation (SemEval-2025)",
+month = july,
+year = "2025",
+address = "Vienna, Austria",
+publisher = "Association for Computational Linguistics",
+url = "",
+doi = "",
+pages = ""
+}
+
+```
+
+
 ```bibtex
 @article{muhammad2025brighterbridginggaphumanannotated,
     title = {BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages},
