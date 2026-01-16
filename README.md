@@ -14,7 +14,9 @@
 ---
 ### 📢 **Important Notice on Dataset Access**
 
->  **To download the datasets, please visit [Brighter Dataset Page](https://brighter-dataset.github.io).**  
+ **To download the datasets, please visit [Brighter Dataset Page](https://brighter-dataset.github.io).**  
+
+ **Update (16/01/2026): Disaggregated labels for most languages in the BRIGHTER dataset are now available for download from the [individual labels](https://github.com/emotion-analysis-project/SemEval2025-Task11/tree/main/individual_labels) directory.** 
 
 
 
